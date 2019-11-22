@@ -1,0 +1,87 @@
+   SW   perc perc perc  query                     position in query     matching   repeat               position in repeat
+score   div. del. ins.  sequence                  begin end    (left)   repeat     class/family       begin  end    (left)  ID
+
+  333   21.9  1.8  7.8  RLC_dijap_AC211466_11198   1615  1723  (9240) + CL569186.1 subtelomere/4-12-1    114    216  (568)   1  
+  329   22.9  1.9  6.8  RLC_dijap_AC211466_11198  10842 10949    (14) + CL569186.1 subtelomere/4-12-1    114    216  (568)   2  
+  270   17.3  0.0  0.0  RLG_huck_AC213612_12218    9632  9683  (3354) C AF013103.1 rDNA/spacer           (2)   1266   1215   3  
+  240    7.9  2.6  0.0  RLX_ikukob_AC185251_1004      3    40 (14430) + CentC      Cent/CentC            110    148    (8)   4  
+ 1321    2.6  0.7  0.0  RLX_ikukob_AC185251_1004     47   197 (14273) + CentC      Cent/CentC              5    156    (0)   5  
+ 1343    3.2  0.7  0.0  RLX_ikukob_AC185251_1004    198   351 (14119) + CentC      Cent/CentC              1    155    (1)   6  
+ 1394    2.6  0.0  0.0  RLX_ikukob_AC185251_1004    352   507 (13963) + CentC      Cent/CentC              1    156    (0)   7  
+ 1398    1.3  0.7  0.0  RLX_ikukob_AC185251_1004    508   662 (13808) + CentC      Cent/CentC              1    156    (0)   8  
+ 1196    2.1  6.2  0.0  RLX_ikukob_AC185251_1004    665   809 (13661) + CentC      Cent/CentC              3    156    (0)   9  
+ 1311    5.8  0.0  0.0  RLX_ikukob_AC185251_1004    810   965 (13505) + CentC      Cent/CentC              1    156    (0)  10  
+ 1339    4.5  0.0  0.0  RLX_ikukob_AC185251_1004    966  1121 (13349) + CentC      Cent/CentC              1    156    (0)  11  
+  872    3.0  0.0  0.0  RLX_ikukob_AC185251_1004   1126  1225 (13245) + CentC      Cent/CentC              5    104   (52)  12  
+  853    4.0  0.0  0.0  RLX_ikukob_AC185251_1004   9923 10021  (4449) + CentC      Cent/CentC             58    156    (0)  13  
+ 1363    2.6  0.7  0.0  RLX_ikukob_AC185251_1004  10022 10176  (4294) + CentC      Cent/CentC              1    156    (0)  14  
+ 1288    3.2  1.3  0.0  RLX_ikukob_AC185251_1004  10177 10330  (4140) + CentC      Cent/CentC              1    156    (0)  15  
+ 1334    2.6  0.7  0.0  RLX_ikukob_AC185251_1004  10331 10485  (3985) + CentC      Cent/CentC              1    156    (0)  16  
+ 1331    3.9  0.7  0.0  RLX_ikukob_AC185251_1004  10486 10640  (3830) + CentC      Cent/CentC              1    156    (0)  17  
+ 1382    1.3  0.7  0.0  RLX_ikukob_AC185251_1004  10641 10795  (3675) + CentC      Cent/CentC              1    156    (0)  18  
+ 1232    6.5  0.7  0.0  RLX_ikukob_AC185251_1004  10796 10949  (3521) + CentC      Cent/CentC              1    155    (1)  19  
+ 1299    3.2  0.6  0.6  RLX_ikukob_AC185251_1004  10951 11106  (3364) + CentC      Cent/CentC              1    156    (0)  20  
+ 1365    2.6  0.0  0.0  RLX_ikukob_AC185251_1004  11111 11262  (3208) + CentC      Cent/CentC              5    156    (0)  21  
+ 1414    2.6  0.0  0.0  RLX_ikukob_AC185251_1004  11263 11418  (3052) + CentC      Cent/CentC              1    156    (0)  22  
+ 1303    4.5  0.7  0.0  RLX_ikukob_AC185251_1004  11419 11573  (2897) + CentC      Cent/CentC              1    156    (0)  23  
+ 1317    5.1  0.0  0.0  RLX_ikukob_AC185251_1004  11574 11729  (2741) + CentC      Cent/CentC              1    156    (0)  24  
+ 1358    1.9  0.7  0.0  RLX_ikukob_AC185251_1004  11730 11884  (2586) + CentC      Cent/CentC              1    156    (0)  25  
+ 1331    3.9  0.7  0.0  RLX_ikukob_AC185251_1004  11885 12039  (2431) + CentC      Cent/CentC              1    156    (0)  26  
+ 1382    1.3  0.7  0.0  RLX_ikukob_AC185251_1004  12040 12194  (2276) + CentC      Cent/CentC              1    156    (0)  27  
+ 1234    6.0  0.0  0.0  RLX_ikukob_AC185251_1004  12198 12346  (2124) + CentC      Cent/CentC              7    155    (1)  28  
+ 1235    5.2  0.6  0.6  RLX_ikukob_AC185251_1004  12348 12503  (1967) + CentC      Cent/CentC              1    156    (0)  29  
+ 1378    2.0  0.0  0.0  RLX_ikukob_AC185251_1004  12508 12659  (1811) + CentC      Cent/CentC              5    156    (0)  30  
+ 1426    1.9  0.0  0.0  RLX_ikukob_AC185251_1004  12660 12815  (1655) + CentC      Cent/CentC              1    156    (0)  31  
+ 1301    4.5  0.7  0.0  RLX_ikukob_AC185251_1004  12816 12970  (1500) + CentC      Cent/CentC              1    156    (0)  32  
+ 1324    5.1  0.0  0.0  RLX_ikukob_AC185251_1004  12971 13126  (1344) + CentC      Cent/CentC              1    156    (0)  33  
+ 1284    3.2  0.6  0.6  RLX_ikukob_AC185251_1004  13127 13282  (1188) + CentC      Cent/CentC              1    156    (0)  34  
+ 1301    4.0  0.0  0.7  RLX_ikukob_AC185251_1004  13287 13439  (1031) + CentC      Cent/CentC              5    156    (0)  35  
+ 1335    3.2  0.7  0.0  RLX_ikukob_AC185251_1004  13440 13594   (876) + CentC      Cent/CentC              1    156    (0)  36  
+ 1419    1.3  0.0  0.0  RLX_ikukob_AC185251_1004  13595 13750   (720) + CentC      Cent/CentC              1    156    (0)  37  
+ 1329    3.9  0.7  0.0  RLX_ikukob_AC185251_1004  13751 13905   (565) + CentC      Cent/CentC              1    156    (0)  38  
+ 1233    3.9  1.9  1.3  RLX_ikukob_AC185251_1004  13906 14060   (410) + CentC      Cent/CentC              1    156    (0)  39  
+ 1326    3.9  0.7  0.0  RLX_ikukob_AC185251_1004  14061 14215   (255) + CentC      Cent/CentC              1    156    (0)  40  
+ 1345    3.3  0.0  0.0  RLX_ikukob_AC185251_1004  14220 14371    (99) + CentC      Cent/CentC              5    156    (0)  41  
+  799    6.1  1.0  0.0  RLX_ikukob_AC185251_1004  14372 14470     (0) + CentC      Cent/CentC              1    100   (56)  42  
+  714   18.9 10.8  1.9  RLX_ipiki_AC212468_11834   2443  2636  (6864) + AF013103.1 rDNA/spacer             6    216 (1052)  43 *
+ 1062   18.0  0.0  2.8  RLX_ipiki_AC212468_11834   2626  2826  (6674) + AF013103.1 rDNA/spacer             6    200 (1068)  43  
+  787   22.1  7.7  0.0  RLX_ipiki_AC212468_11834   2827  3011  (6489) + AF013103.1 rDNA/spacer             1    200 (1068)  43  
+  966   19.5  0.2 12.3  RLX_ipiki_AC212468_11834   3012  3452  (6048) + AF013103.1 rDNA/spacer             1    220 (1048)  44  
+  919   21.3  0.0  0.9  RLX_ipiki_AC212468_11834   3453  3653  (5847) + AF013103.1 rDNA/spacer             1    199 (1069)  44  
+ 1111   20.2  1.8  2.9  RLX_ipiki_AC212468_11834   3654  4047  (5453) + AF013103.1 rDNA/spacer             1    220 (1048)  45  
+ 1109   17.1  0.0  0.0  RLX_ipiki_AC212468_11834   4048  4247  (5253) + AF013103.1 rDNA/spacer             1    200 (1068)  45  
+ 1167   16.2  0.0  0.0  RLX_ipiki_AC212468_11834   4248  4447  (5053) + AF013103.1 rDNA/spacer             1    200 (1068)  46  
+ 9773    3.9  1.6  0.1  RLX_ipiki_AC212468_11834   4448  5692  (3808) + AF013103.1 rDNA/spacer             1   1264    (4)  47  
+  274   29.7  2.5  1.6  RLX_osed_AC191084_2931        6   125  (1784) C knob180    knob/knob180         (57)    123      3  48  
+  523   29.4  1.7  1.1  RLX_osed_AC191084_2931      127   305  (1604) C knob180    knob/knob180          (0)    180      1  49  
+  517   27.3  1.3  0.0  RLX_osed_AC191084_2931      306   455  (1454) C knob180    knob/knob180          (0)    180     29  50  
+  691   25.3  1.1  0.6  RLX_osed_AC191084_2931      484   662  (1247) C knob180    knob/knob180          (0)    180      1  51  
+  498   26.7  4.3  0.6  RLX_osed_AC191084_2931      842  1003   (906) C knob180    knob/knob180          (0)    180     13  52  
+  482   27.2  1.8  1.2  RLX_osed_AC191084_2931     1016  1179   (730) C knob180    knob/knob180          (0)    180     16  52  
+  521   23.3  3.3  3.3  RLX_osed_AC191084_2931     1194  1344   (565) C knob180    knob/knob180          (1)    179     29  52  
+  490   24.8  2.0  1.4  RLX_osed_AC191084_2931     1374  1520   (389) C knob180    knob/knob180          (1)    179     32  53  
+  436   26.4  6.0  6.0  RLX_osed_AC191084_2931     1551  1699   (210) C knob180    knob/knob180          (0)    180     32  54  
+  518   25.9  2.8  2.2  RLX_osed_AC191084_2931     1729  1906     (3) C knob180    knob/knob180          (0)    180      2  55  
+  774    2.2  0.0  0.0  RLX_sari_AC184117_11          1    89  (2057) + TR-1       knob/TR-1             233    321   (38)  56 *
+  899    7.6  0.0  0.0  RLX_sari_AC184117_11         85   202  (1944) + TR-1       knob/TR-1             133    250  (109)  57 *
+ 2468    4.4  0.0  0.0  RLX_sari_AC184117_11        197   492  (1654) + TR-1       knob/TR-1              63    358    (1)  58  
+ 2700    3.4  0.3  0.0  RLX_sari_AC184117_11        494   813  (1333) + TR-1       knob/TR-1               1    321   (38)  59  
+  985   15.5  0.0  0.0  RLX_sari_AC184117_11        809   976  (1170) + TR-1       knob/TR-1             133    300   (59)  60 *
+ 1515    9.7  0.0  0.0  RLX_sari_AC184117_11        948  1163   (983) + TR-1       knob/TR-1              99    314   (45)  61 *
+ 1570    4.7  0.5  0.0  RLX_sari_AC184117_11       1163  1353   (793) + TR-1       knob/TR-1             130    321   (38)  62  
+  869    8.5  0.0  0.0  RLX_sari_AC184117_11       1349  1466   (680) + TR-1       knob/TR-1             133    250  (109)  63 *
+ 2421    4.4  0.0  0.7  RLX_sari_AC184117_11       1461  1758   (388) + TR-1       knob/TR-1              63    358    (1)  64  
+ 2834    2.2  0.0  0.0  RLX_sari_AC184117_11       1760  2080    (66) + TR-1       knob/TR-1               1    321   (38)  65  
+  508    8.7  0.0  0.0  RLX_sari_AC184117_11       2076  2144     (2) + TR-1       knob/TR-1             133    201  (158)  66 *
+  310   12.2  0.0  0.0  RLX_sela_AC195130_4415        2    50  (1244) C knob180    knob/knob180         (40)    140     92  67  
+  281   23.9  2.8  0.0  RLX_sela_AC195130_4415      191   261  (1033) C knob180    knob/knob180         (15)    165     93  68  
+  326   20.9  0.0  0.0  RLX_sela_AC195130_4415      484   550   (744) C knob180    knob/knob180         (21)    159     93  69  
+  295   20.0  4.3  0.0  RLX_sela_AC195130_4415      554   623   (671) C knob180    knob/knob180         (15)    165     93  69  
+  416   16.4  0.0  1.4  RLX_sela_AC195130_4415      841   914   (380) C knob180    knob/knob180         (15)    165     93  70  
+  321   21.1  2.8  0.0  RLX_sela_AC195130_4415      947  1017   (277) C knob180    knob/knob180         (15)    165     93  71  
+  457   16.2  0.0  0.0  RLX_sela_AC195130_4415     1155  1228    (66) C knob180    knob/knob180         (15)    165     92  72  
+  686   15.3  0.0  1.4  RLX_teki_AC202867_7492        1   135  (1379) + AF013103.1 rDNA/spacer            68    200 (1068)  73  
+ 1037   19.0  0.0 11.4  RLX_teki_AC202867_7492      136   576   (938) + AF013103.1 rDNA/spacer             1    219 (1049)  74  
+ 1158   19.4  0.0  3.0  RLX_teki_AC202867_7492      577   977   (537) + AF013103.1 rDNA/spacer             1    220 (1048)  75  
+ 1198   15.0  0.7  3.2  RLX_teki_AC202867_7492      978  1378   (136) + AF013103.1 rDNA/spacer             1    220 (1048)  76  
+ 1085    0.7  5.2  0.0  RLX_teki_AC202867_7492     1379  1514     (0) + AF013103.1 rDNA/spacer             1    143 (1125)  77  

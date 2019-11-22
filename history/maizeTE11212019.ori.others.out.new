@@ -1,0 +1,800 @@
+SW   perc perc perc  query                           position in query     matching                  repeat            position in repeat
+score   div. del. ins.  sequence                        begin end    (left)   repeat                    class/family  begin   end    (left)    ID
+312   16.7  2.6 12.3  DTM_Zm01472_AC185516_1              8   123  (2384) C DTM_Zm00299_consensus     Unspecified       (7)    235     130   35  
+251   16.7  2.4  5.0  DTM_Zm01980_AC186668_1           6041  6122  (2433) C DTC_ZM00101_consensus     Unspecified    (6497)    771     692   40  
+781    4.5  0.0  1.8  DTM_Zm06396_AC205343_1              1   114     (0) + DTA_ZM00050_consensus     Unspecified         1    112     (1)   69  
+427   15.4  7.3  4.5  DTM_Zm10163_AC191604_1              1   109  (3401) C DTM_Zm00299_consensus     Unspecified       (0)    242     131   88  
+439   14.4  7.3  4.5  DTM_Zm10163_AC191604_1           3402  3510     (0) + DTM_Zm00299_consensus     Unspecified       131    242     (0)   89  
+671   18.2  0.8  0.8  DTM_Zm33221_AC192210_1              1   133  (3300) + DTM_Zm02275_consensus     Unspecified         1    133   (121)  167  
+714   17.6  2.1  0.7  DTM_Zm33221_AC192210_1           3291  3433     (0) C DTM_Zm02275_consensus     Unspecified     (109)    145       1  169  
+879   14.8  1.9  3.2  DTM_Zm33228_AC197348_1              1   160  (3389) C DTM_Zm17123_consensus     Unspecified       (0)    265     108  174  
+856   16.1  1.9  3.8  DTM_Zm33228_AC197348_1           3389  3549     (0) + DTM_Zm17123_consensus     Unspecified       108    265     (0)  175  
+1539   11.2  5.4  0.0  RLC_chr4_P_103848399             1942  2181 (12060) C DTC_ZM00070_consensus     Unspecified    (6693)   2286    2034  275 *
+3559   10.2  5.0  9.8  RLC_chr4_P_103848399             1979  2684 (11557) C DTC_ZM00014_consensus     Unspecified    (1167)  12218   11544  276  
+4699    3.3  0.6  0.4  RLC_chr4_P_103848399             3156  3702 (10539) C DTC_ZM00014_consensus     Unspecified    (1891)  11494   10947  278  
+1166    4.0  2.0  0.0  RLC_chr4_P_103848399             4318  4467  (9774) C DTC_ZM00014_consensus     Unspecified    (2537)  10848   10696  281  
+1344   13.4 13.7  0.7  RLC_chr4_P_103848399             6532  6772  (7469) C DTC_ZM00014_consensus     Unspecified   (11527)   1858    1587  283  
+3965    7.3  1.1  2.2  RLC_chr6_D_135785384             5083  5638  (9574) + DTC_ZM00081_consensus     Unspecified      1877   2426  (6649)  312  
+1071    4.9  6.1  2.6  RLC_chr6_D_135785384             6147  6294  (8918) + DTC_ZM00081_consensus     Unspecified      2404   2556  (6519)  313  
+4451    9.0  0.0  1.3  RLC_chr6_D_135785384             6352  6971  (8241) + DTC_ZM00081_consensus     Unspecified      2559   3170  (5905)  314  
+3061   14.2  6.2  6.4  RLC_chr6_D_135785384             7056  7612  (7600) + DTC_ZM00081_consensus     Unspecified      3171   3739  (5336)  315 *
+5481   11.8  7.9  7.9  RLC_chr6_D_135785384             7230  7612  (7600) + DTC_ZM00081_consensus     Unspecified      3591   4027  (5048)  316  
+5481   11.8  7.9  7.9  RLC_chr6_D_135785384             7652  8457  (6755) + DTC_ZM00081_consensus     Unspecified      4028   4780  (4295)  316  
+1284   12.2  0.5  4.2  RLC_chr6_D_135785384             8950  9171  (6041) C DTC_ZM00081_consensus     Unspecified    (6303)   2772    2559  318  
+1071    4.9  6.1  2.6  RLC_chr6_D_135785384             9229  9376  (5836) C DTC_ZM00081_consensus     Unspecified    (6519)   2556    2404  319  
+3978    7.2  1.1  2.4  RLC_chr6_D_135785384             9885 10441  (4771) C DTC_ZM00081_consensus     Unspecified    (6649)   2426    1877  320  
+3525   18.1  3.1  7.0  RLC_chr6_D_62813001              9387 10279  (2858) C DTC_ZM00063_consensus     Unspecified   (12533)   2961    2101  325  
+1265    8.4  0.0  0.0  RLC_ebel_AC211737_11397          2252  2442  (2213) C DTA_ZM00234_consensus     Unspecified     (170)    373     183  366  
+2905    4.5  0.0  0.0  RLC_ekoj_AC194603_4173            920  1277  (2424) C DTH_ZM00154_consensus     Unspecified       (0)    358       1  370  
+21736   11.6  2.8  1.0  RLC_nuhan_AC206272_9161          3491  7021  (6721) + DTH_ZM00024_consensus     Unspecified       545   4138  (1193)  450  
+277   17.3  7.0  9.6  RLC_nuhan_AC206272_9161         13010 13137   (605) + RST_ZmSINE2.1_consensus_0 Unspecified       168    292     (0)  454 *
+986    1.8  0.0  0.0  RLC_nuhan_AC206272_9161         13025 13137   (605) + RST_ZmSINE2.3_consensus_0 Unspecified       191    303     (0)  455  
+1660    8.4  0.0  0.0  RLC_sawujo_AC193398_3610        18182 18406  (1623) C DTH_ZM00019_consensus     Unspecified       (0)   4375    4151  503  
+1469    5.3  1.1  0.0  RLC_sawujo_AC193398_3610        18432 18619  (1410) C DTH_ZM00019_consensus     Unspecified    (4185)    190       1  505  
+1205    2.9  0.0  0.0  RLC_udav_AC196188_5022           3877  4013  (1268) + DTH_ZM00102_consensus     Unspecified         1    137     (0)  512  
+697   18.5  0.6  0.6  RLG_prem1_AC186287_1362          1556  1713  (7097) + DTC_ZM00028_consensus     Unspecified      4621   4778  (2566)  781  
+686   19.1  0.6  0.6  RLG_prem1_AC186287_1362          7056  7213  (1597) + DTC_ZM00028_consensus     Unspecified      4621   4778  (2566)  783  
+1174   16.1  0.7  9.2  RLX_afuv_AC186332_26             2381  2675 (11518) C DTA_ZM00055_consensus     Unspecified     (113)    438     167  925  
+322   10.3  1.2 20.8  RLX_buire_AC194484_4158           136   221  (2406) C DTH_ZM00364_consensus     Unspecified       (0)    121      50  950  
+1327    5.5  0.6  0.0  RLX_buire_AC194484_4158           668   832  (1795) C RST_ZmSINE1_consensus_0   Unspecified       (0)    166       1  951  
+1036   10.8  0.0  0.0  RLX_ebel_AC188777_2128           5140  5278   (279) + DTA_ZM00078_consensus     Unspecified         2    140    (50)  969  
+1265    8.4  0.0  0.0  RLX_ebel_AC211737_11397          2252  2442  (2213) C DTA_ZM00234_consensus     Unspecified     (170)    373     183  973  
+777    4.8  0.0  1.9  RLX_egisu_AC206234_9137           427   531 (13941) C DTA_ZM00321_consensus     Unspecified     (185)    568     466  976  
+1165    8.3  5.4  0.0  RLX_leso_AC215500_13080             1   168  (1210) C DTH_ZM00429_consensus     Unspecified       (5)    177       1 1064  
+1323    9.9  2.1  0.0  RLX_leso_AC215500_13080           224   415   (963) C DTH_ZM00067_consensus     Unspecified       (0)    198       3 1065  
+1175    8.3  5.3  0.0  RLX_leso_AC215500_13080           974  1142   (236) C DTH_ZM00429_consensus     Unspecified       (4)    178       1 1066  
+1226   10.6  0.6  0.0  RLX_leso_AC215500_13080          1200  1378     (0) C DTH_ZM00067_consensus     Unspecified       (0)    198      19 1067  
+1183   15.8  0.0  0.0  RLX_loukuv_AC197842_5799          457   639  (9269) C DTH_ZM00014_consensus     Unspecified       (0)   3642    3460 1070  
+1083    4.9  2.1  0.0  RLX_loukuv_AC197842_5799          647   788  (9120) C DTH_ZM00014_consensus     Unspecified    (3495)    147       3 1071  
+5166    3.9  4.3  0.0  RLX_loukuv_AC197842_5799         1187  1796  (8112) C DTA_ZM00311_consensus     Unspecified       (0)    636       1 1074  
+4241    6.2  1.5  0.0  RLX_loukuv_AC197842_5799         5513  6043  (3865) + DTA_ZM00295_consensus     Unspecified         1    539     (0) 1075  
+2949    4.7  0.0  0.0  RLX_loukuv_AC197842_5799         6152  6512  (3396) C DTH_ZM00233_consensus     Unspecified       (0)    361       1 1077  
+1200    2.2  0.0  0.0  RLX_loukuv_AC197842_5799         9024  9158   (750) C DTC_ZM00014_consensus     Unspecified    (1707)  11678   11544 1078  
+932   12.4  1.3  0.7  RLX_naseup_AC196428_5108         4470  4623  (1864) C DTH_ZM00358_consensus     Unspecified      (68)    210      56 1105  
+21736   11.6  2.8  1.0  RLX_nuhan_AC206272_9161          3491  7021  (7182) + DTH_ZM00024_consensus     Unspecified       545   4138  (1193) 1115  
+1551   17.5  8.0  0.3  RLX_nuhan_AC206272_9161         11066 11352  (2851) C DTH_ZM00098_consensus     Unspecified       (5)    310       2 1118  
+277   17.3  7.0  9.6  RLX_nuhan_AC206272_9161         13471 13598   (605) + RST_ZmSINE2.1_consensus_0 Unspecified       168    292     (0) 1122 *
+986    1.8  0.0  0.0  RLX_nuhan_AC206272_9161         13486 13598   (605) + RST_ZmSINE2.3_consensus_0 Unspecified       191    303     (0) 1123  
+2654    9.8  1.0  3.0  RLX_panen_AC192606_115           2229  2630   (295) C DTH_ZM00437_consensus     Unspecified       (0)    394       1 1143  
+3256    2.1  0.3  0.8  RLX_pute_AC197188_5467           2482  2860  (4123) C DTA_ZM00063_consensus     Unspecified       (0)   1743    1367 1152  
+482   16.1  5.3 19.9  RLX_pute_AC197188_5467           3242  3544  (3439) C DTA_ZM00063_consensus     Unspecified    (1222)    521     256 1153  
+1017   15.7  1.7  0.4  RLX_pute_AC197188_5467           3659  3888  (3095) C DTA_ZM00063_consensus     Unspecified    (1506)    237       5 1154  
+290   19.7  0.0  2.7  RLX_sela_AC195130_4415             52   166  (1559) + DTC_ZM00009_consensus     Unspecified      6402   6513  (4153) 1167  
+266   18.9  6.2  0.8  RLX_sela_AC195130_4415            668   779   (946) + DTC_ZM00009_consensus     Unspecified      6402   6519  (4147) 1170  
+295   17.5  0.0  3.5  RLX_sela_AC195130_4415           1246  1334   (391) + DTC_ZM00009_consensus     Unspecified      6395   6480  (4186) 1172 *
+304   19.7  0.0  2.7  RLX_sela_AC195130_4415           1546  1660    (65) + DTC_ZM00009_consensus     Unspecified      6402   6513  (4153) 1174  
+527   20.0 22.2  0.0  RLX_uwub_AC195372_161            9521  9655   (121) C RST_ZmSINE2.1_consensus_0 Unspecified       (0)    292     128 1200  
+953    9.4  0.0  0.0  RLX_vedi_AC198992_6258           2513  2639   (814) C DTH_ZM00389_consensus     Unspecified       (0)    128       2 1208  
+79028    0.0  0.0  0.0  ZM_CACTA_1                          1  8391     (4) + DTC_ZM00001_consensus     Unspecified         1   8391     (0) 1240  
+100340    0.1  0.9  0.0  ZM_CACTA_10                         1  5310  (5594) + DTC_ZM00008_consensus     Unspecified         1   5310  (5590) 1241  
+100340    0.1  0.9  0.0  ZM_CACTA_10                      5365  6617  (4287) + DTC_ZM00008_consensus     Unspecified      5311   6616  (4284) 1241  
+100340    0.1  0.9  0.0  ZM_CACTA_10                      6667 10900     (4) + DTC_ZM00008_consensus     Unspecified      6617  10898     (2) 1241  
+1298   13.5  0.0  0.0  ZM_CACTA_100                        1   193  (7281) C DTC_ZM00070_consensus     Unspecified    (6693)   2286    2094 1244 *
+1337    8.2  0.0  0.0  ZM_CACTA_100                       12   181  (7293) C DTC_ZM00014_consensus     Unspecified    (1029)  12356   12187 1245 *
+3501    1.6  4.2  0.2  ZM_CACTA_100                      176   601  (6873) C DTC_ZM00014_consensus     Unspecified    (1399)  11986   11544 1246  
+1640    7.5  0.0  7.0  ZM_CACTA_100                     2216  2458  (5016) C DTC_ZM00014_consensus     Unspecified    (1838)  11547   11321 1248  
+9858    2.7  0.7  0.3  ZM_CACTA_100                     3116  4267  (3207) C DTC_ZM00014_consensus     Unspecified    (6847)   6538    5382 1250  
+3236    5.5  1.4  1.1  ZM_CACTA_100                     5271  5707  (1767) C DTC_ZM00014_consensus     Unspecified    (8850)   4535    4098 1253  
+1415   12.6  2.0  2.4  ZM_CACTA_100                     7219  7470     (4) C DTC_ZM00014_consensus     Unspecified   (11548)   1837    1587 1254  
+37757    0.6  0.1  1.0  ZM_CACTA_101                        1  4176  (6564) + DTC_ZM00096_consensus     Unspecified         1   4137  (6494) 1255 *
+57719    0.8  0.2  1.3  ZM_CACTA_101                     4323 10736     (4) + DTC_ZM00096_consensus     Unspecified      4283  10630     (1) 1256  
+72584    0.0  0.0  0.0  ZM_CACTA_102                        1  7719  (4233) + DTC_ZM00097_consensus     Unspecified         1   7719  (4229) 1258  
+39252    0.0  0.0  0.0  ZM_CACTA_102                     7773 11948     (4) + DTC_ZM00097_consensus     Unspecified      7773  11948     (0) 1260  
+57495    0.2  0.2  0.1  ZM_CACTA_103                        1  6123  (4522) + DTC_ZM00098_consensus     Unspecified         1   6131  (4470) 1261  
+39669    0.0  0.0  0.3  ZM_CACTA_103                     6371 10239   (406) + DTC_ZM00098_consensus     Unspecified      6371  10236   (365) 1264 *
+39669    0.0  0.0  0.3  ZM_CACTA_103                    10266 10641     (4) + DTC_ZM00098_consensus     Unspecified     10237  10601     (0) 1266  
+99621    0.0  0.0  0.0  ZM_CACTA_104                        1 10601     (4) + DTC_ZM00099_consensus     Unspecified         1  10601     (0) 1267  
+21526    0.0  0.0  0.0  ZM_CACTA_105                        1  2324  (7533) + DTC_ZM00100_consensus     Unspecified         1   2324  (6129) 1268  
+2853    5.5  1.9  0.0  ZM_CACTA_105                     2325  2688  (7169) + DTA_ZM00107_consensus     Unspecified         1    371     (0) 1269  
+25023    0.0  0.0  0.0  ZM_CACTA_105                     2689  5347  (4510) + DTC_ZM00100_consensus     Unspecified      2325   4983  (3470) 1270  
+32586    0.0  0.0  0.0  ZM_CACTA_105                     6383  9853     (4) + DTC_ZM00100_consensus     Unspecified      4983   8453     (0) 1274  
+68413    0.0  0.0  0.0  ZM_CACTA_106                        1  7268     (4) + DTC_ZM00101_consensus     Unspecified         1   7268     (0) 1275  
+80198    0.0  0.0  0.0  ZM_CACTA_107                        1  8500     (4) + DTC_ZM00102_consensus     Unspecified         1   8500     (0) 1276  
+48883    0.0  0.0  0.0  ZM_CACTA_108                        1  5187     (4) + DTC_ZM00103_consensus     Unspecified         1   5187     (0) 1277  
+51299    0.1  0.9  0.0  ZM_CACTA_109                        1  4247  (6617) + DTC_ZM00104_consensus     Unspecified         1   4295  (6565) 1278  
+51299    0.1  0.9  0.0  ZM_CACTA_109                     4297  5561  (5303) + DTC_ZM00104_consensus     Unspecified      4296   5560  (5300) 1278  
+261    6.6  8.5  0.2  ZM_CACTA_109                     5562  6093  (4771) + (TC)n                     Simple_repeat       1    576     (0) 1280  
+44783    0.0  0.0  0.0  ZM_CACTA_109                     6094 10860     (4) + DTC_ZM00104_consensus     Unspecified      6093  10859     (1) 1281 *
+59070    0.0  0.0  0.0  ZM_CACTA_11                         1  6292  (4378) + DTC_ZM00009_consensus     Unspecified         1   6292  (4374) 1282  
+41276    1.6  1.5  1.1  ZM_CACTA_11                      6524 10588    (82) C DTC_ZM00074_consensus     Unspecified    (6312)   4318     212 1284  
+2044    0.5  0.0  0.0  ZM_CACTA_11                     10447 10666     (4) + DTC_ZM00040_consensus     Unspecified      4884   5103     (0) 1286  
+45350    0.0  0.0  0.0  ZM_CACTA_110                        1  4806     (5) + DTC_ZM00105_consensus     Unspecified         1   4806     (0) 1287  
+89406    0.0  0.0  0.0  ZM_CACTA_12                         1  9492     (0) + DTC_ZM00010_consensus     Unspecified         1   9492     (0) 1288  
+42215    2.1  1.0  1.6  ZM_CACTA_13                         1  4295  (6875) + DTC_ZM00074_consensus     Unspecified         1   4321  (6309) 1289  
+301    5.0  0.0  6.1  ZM_CACTA_13                      4296  4764  (6406) + (AACCCT)n                 Simple_repeat       1    442     (0) 1290  
+60044    0.0  0.0  0.0  ZM_CACTA_13                      4765 11166     (4) + DTC_ZM00011_consensus     Unspecified      4765  11166     (0) 1291  
+79325    0.0  0.0  0.0  ZM_CACTA_14                         1  8408     (4) + DTC_ZM00012_consensus     Unspecified         1   8408     (0) 1292  
+61550    0.0  0.0  0.0  ZM_CACTA_15                         1  6528     (4) + DTC_ZM00013_consensus     Unspecified         1   6528     (0) 1293  
+126037    0.0  0.0  0.0  ZM_CACTA_16                         1 13385     (4) + DTC_ZM00014_consensus     Unspecified         1  13385     (0) 1294  
+51961    0.0  0.0  0.0  ZM_CACTA_17                         1  5583     (6) + DTC_ZM00015_consensus     Unspecified         1   5583     (0) 1295  
+102316    0.0  0.0  0.0  ZM_CACTA_18                         1 11010     (4) + DTC_ZM00016_consensus     Unspecified         1  11010     (0) 1296  
+110932    0.0  0.0  0.0  ZM_CACTA_19                         1 11881     (4) + DTC_ZM00017_consensus     Unspecified         1  11881     (0) 1297  
+83445    0.0  0.4  0.0  ZM_CACTA_2                          1  7870  (1064) + DTC_ZM00002_consensus     Unspecified         1   7883  (1051) 1298  
+83445    0.0  0.4  0.0  ZM_CACTA_2                       7910  8934     (0) + DTC_ZM00002_consensus     Unspecified      7884   8933     (1) 1298  
+1804   10.4  3.6 14.3  ZM_CACTA_20                         1   439  (8711) C DTC_ZM00007_consensus     Unspecified       (0)   9446    9049 1300  
+36556    3.6  0.3  0.4  ZM_CACTA_20                       957  5194  (3956) + DTC_ZM00002_consensus     Unspecified      1099   5330  (3604) 1302  
+18370    4.2  3.6  1.0  ZM_CACTA_20                      5834  8115  (1035) C DTC_ZM00007_consensus     Unspecified    (6198)   3248     908 1303  
+939   15.4  1.4  3.4  ZM_CACTA_20                      7954  8161   (989) C DTC_ZM00026_consensus     Unspecified    (7528)   1212    1009 1304 *
+1038   11.7  2.2  1.6  ZM_CACTA_20                      7961  8143  (1007) C DTC_ZM00028_consensus     Unspecified    (6289)   1055     872 1305 *
+8396    6.0  1.8  1.4  ZM_CACTA_20                      8085  9150     (0) C DTC_ZM00007_consensus     Unspecified    (8364)   1082      13 1306  
+2594   12.0  6.9  1.3  ZM_CACTA_21                         1   448 (10484) C DTC_ZM00075_consensus     Unspecified       (0)  11229   10757 1307 *
+2696    1.9 16.2  0.5  ZM_CACTA_21                        79   448 (10484) + DTC_ZM00090_consensus     Unspecified       211    638 (10673) 1308  
+40336    3.4  2.3  0.6  ZM_CACTA_21                       496  4119  (6813) + DTC_ZM00104_consensus     Unspecified       623   4295  (6565) 1309  
+40336    3.4  2.3  0.6  ZM_CACTA_21                      4169  5352  (5580) + DTC_ZM00104_consensus     Unspecified      4296   5508  (5352) 1309  
+24832    1.9  0.1  0.0  ZM_CACTA_21                      5633  8378  (2554) + DTC_ZM00086_consensus     Unspecified      6500   9247  (1932) 1313  
+14245    2.9  0.3  1.6  ZM_CACTA_21                      9030 10708   (224) C DTC_ZM00008_consensus     Unspecified    (9141)   1759     103 1314  
+8083    4.7  3.1  1.5  ZM_CACTA_21                      9892 10928     (4) C DTC_ZM00052_consensus     Unspecified   (10546)   1053       1 1315 *
+53949    0.1  0.0  0.0  ZM_CACTA_22                         1  5722  (5814) + DTC_ZM00018_consensus     Unspecified         1   5722  (5810) 1316  
+211    5.1  7.5  0.0  ZM_CACTA_22                      5723  6068  (5468) + (TC)n                     Simple_repeat       1    372     (0) 1317  
+37553    0.1  0.0  0.0  ZM_CACTA_22                      6069 10062  (1474) + DTC_ZM00018_consensus     Unspecified      6068  10061  (1471) 1318 *
+12599    0.1  0.0  0.0  ZM_CACTA_22                     10190 11532     (4) + DTC_ZM00018_consensus     Unspecified     10189  11531     (1) 1319 *
+67237    0.1  0.0  0.6  ZM_CACTA_23                         1  7235     (4) + DTC_ZM00019_consensus     Unspecified         1   7195     (0) 1322  
+78743    0.0  0.0  0.0  ZM_CACTA_24                         1  7713   (737) + DTC_ZM00020_consensus     Unspecified         1   7713   (702) 1323  
+78743    0.0  0.0  0.0  ZM_CACTA_24                      7745  8446     (4) + DTC_ZM00020_consensus     Unspecified      7714   8415     (0) 1323  
+11222    0.0  0.0  0.0  ZM_CACTA_25                         1  1191  (7048) + DTC_ZM00021_consensus     Unspecified         1   1191  (6936) 1325  
+36380    0.0  0.0  0.0  ZM_CACTA_25                      1302  5166  (3073) + DTC_ZM00021_consensus     Unspecified      1190   5054  (3073) 1327 *
+41320    4.3  3.1  0.4  ZM_CACTA_25                      3076  5166  (3073) C DTC_ZM00026_consensus     Unspecified    (3486)   5254    3147 1328  
+41320    4.3  3.1  0.4  ZM_CACTA_25                      5216  8239     (0) C DTC_ZM00026_consensus     Unspecified    (5594)   3146       2 1328  
+72776    0.0  0.0  0.0  ZM_CACTA_26                         1  7716     (4) + DTC_ZM00022_consensus     Unspecified         1   7716     (0) 1330  
+49576    0.0  0.0  0.0  ZM_CACTA_27                         1  5276  (4776) + DTC_ZM00023_consensus     Unspecified         1   5276  (4772) 1331  
+286    5.4  0.2  5.4  ZM_CACTA_27                      5277  5722  (4330) + (GGTTAG)n                 Simple_repeat       1    424     (0) 1332  
+41144    1.5  1.2  0.5  ZM_CACTA_27                      5723 10048     (4) C DTC_ZM00074_consensus     Unspecified    (6308)   4322       2 1333  
+63456    0.0  0.0  0.0  ZM_CACTA_28                         1  6735  (4713) + DTC_ZM00024_consensus     Unspecified         1   6735  (4709) 1334  
+342    5.8  0.0  5.3  ZM_CACTA_28                      6736  7270  (4178) + (GGTTAG)n                 Simple_repeat       1    508     (0) 1335  
+39240    0.0  0.0  0.0  ZM_CACTA_28                      7271 11444     (4) + DTC_ZM00024_consensus     Unspecified      7270  11443     (1) 1336  
+95224    0.0  0.0  0.0  ZM_CACTA_29                         1 10158     (3) + DTC_ZM00025_consensus     Unspecified         1  10158     (0) 1337  
+50179    0.0  0.0  0.0  ZM_CACTA_3                          1  5314     (0) + DTC_ZM00003_consensus     Unspecified         1   5314     (0) 1338  
+81796    0.0  0.3  0.0  ZM_CACTA_30                         1   672  (8068) + DTC_ZM00026_consensus     Unspecified         1    672  (8068) 1339  
+81796    0.0  0.3  0.0  ZM_CACTA_30                       703  8740     (0) + DTC_ZM00026_consensus     Unspecified       673   8739     (1) 1339  
+73579    0.0  0.0  0.0  ZM_CACTA_31                         1  7818     (4) + DTC_ZM00027_consensus     Unspecified         1   7818     (0) 1341  
+69129    0.0  0.0  0.0  ZM_CACTA_32                         1  7344     (0) + DTC_ZM00028_consensus     Unspecified         1   7344     (0) 1342  
+38941    0.0  0.0  0.0  ZM_CACTA_33                         1  4142  (6382) + DTC_ZM00029_consensus     Unspecified         1   4142  (6378) 1343 *
+56106    0.3  1.0  0.3  ZM_CACTA_33                      4364  5211  (5313) + DTC_ZM00029_consensus     Unspecified      4363   5251  (5269) 1344  
+56106    0.3  1.0  0.3  ZM_CACTA_33                      5254 10520     (4) + DTC_ZM00029_consensus     Unspecified      5252  10518     (2) 1347  
+64667    0.0  0.0  0.0  ZM_CACTA_34                         1  6856     (4) + DTC_ZM00030_consensus     Unspecified         1   6856     (0) 1348  
+75648    0.0  0.0  0.0  ZM_CACTA_35                         1  8037     (4) + DTC_ZM00031_consensus     Unspecified         1   8037     (0) 1349  
+60489    0.0  0.0  0.0  ZM_CACTA_36                         1  6451  (4566) + DTC_ZM00032_consensus     Unspecified         1   6451  (4562) 1350  
+265    5.0  0.0  5.1  ZM_CACTA_36                      6452  6840  (4177) + (GGTTAG)n                 Simple_repeat       1    370     (0) 1351  
+42105    1.4  1.2  2.1  ZM_CACTA_36                      6841 10935    (82) C DTC_ZM00074_consensus     Unspecified    (6289)   4341     212 1352  
+1974    1.8  0.0  0.0  ZM_CACTA_36                     10794 11013     (4) + DTC_ZM00040_consensus     Unspecified      4884   5103     (0) 1353 *
+1566    2.4  0.4 20.4  ZM_CACTA_37                         1   264  (9942) C DTC_ZM00040_consensus     Unspecified       (0)   5103    4884 1354 *
+1912    3.6  0.0  0.0  ZM_CACTA_37                         1   222  (9984) C DTC_ZM00072_consensus     Unspecified       (0)  11888   11667 1355 *
+40928    1.4  2.4  1.9  ZM_CACTA_37                        41  4184  (6022) + DTC_ZM00074_consensus     Unspecified       137   4342  (6288) 1356 *
+53987    0.0  0.7  0.0  ZM_CACTA_37                      4381  5174  (5032) + DTC_ZM00033_consensus     Unspecified      4337   5171  (4988) 1357  
+53987    0.0  0.7  0.0  ZM_CACTA_37                      5217 10202     (4) + DTC_ZM00033_consensus     Unspecified      5172  10157     (2) 1360  
+69794    0.2  0.1  0.9  ZM_CACTA_38                         1  7622   (162) + DTC_ZM00034_consensus     Unspecified         1   7558     (3) 1361  
+346   19.8  8.4  2.4  ZM_CACTA_38                      7617  7735    (49) + DTC_ZM00034_consensus     Unspecified       140    265  (7296) 1362 *
+296   20.0  7.3 14.8  ZM_CACTA_38                      7658  7780     (4) C DTC_ZM00034_consensus     Unspecified    (7446)    115       1 1363 *
+56593    0.0  0.0  0.0  ZM_CACTA_39                         1  6025  (4390) + DTC_ZM00035_consensus     Unspecified         1   6025  (4386) 1364  
+40590    1.5  1.9  2.1  ZM_CACTA_39                      6279 10329    (86) C DTC_ZM00074_consensus     Unspecified    (6287)   4343     224 1366 *
+1864    0.5  4.8  0.0  ZM_CACTA_39                     10202 10411     (4) + DTC_ZM00040_consensus     Unspecified      4884   5103     (0) 1368  
+77786    0.0  0.0  0.0  ZM_CACTA_4                          1  8255     (4) + DTC_ZM00004_consensus     Unspecified         1   8255     (0) 1369  
+58914    0.0  0.0  0.0  ZM_CACTA_40                         1  6249     (0) + DTC_ZM00036_consensus     Unspecified         1   6249     (0) 1370  
+75600    0.0  0.0  0.0  ZM_CACTA_41                         1  8049     (4) + DTC_ZM00037_consensus     Unspecified         1   8049     (0) 1371  
+71130    0.0  0.0  0.0  ZM_CACTA_42                         1  7560     (4) + DTC_ZM00038_consensus     Unspecified         1   7560     (0) 1372  
+77135    0.0  0.0  0.0  ZM_CACTA_43                         1  8186     (4) + DTC_ZM00039_consensus     Unspecified         1   8186     (0) 1373  
+45884    0.0  0.0  0.0  ZM_CACTA_44                         1  4889   (368) + DTC_ZM00040_consensus     Unspecified         1   4889   (214) 1374  
+15892    0.6  0.1  0.0  ZM_CACTA_44                      3524  5253     (4) + DTC_ZM00009_consensus     Unspecified      8935  10666     (0) 1375 *
+95539    0.0  0.0  0.0  ZM_CACTA_45                         1 10167     (4) + DTC_ZM00041_consensus     Unspecified         1  10167     (0) 1376  
+51439    0.1  0.0  0.0  ZM_CACTA_46                         1  5468  (6331) + DTC_ZM00042_consensus     Unspecified         1   5468  (6327) 1377  
+40353    0.0  0.0  0.0  ZM_CACTA_46                      5760 10046  (1753) + DTC_ZM00042_consensus     Unspecified      5759  10045  (1750) 1379 *
+15242    0.1  0.0  0.0  ZM_CACTA_46                     10175 11795     (4) + DTC_ZM00042_consensus     Unspecified     10174  11794     (1) 1380 *
+6166    0.0  0.0  0.0  ZM_CACTA_47                         6   672  (5963) + DTC_ZM00043_consensus     Unspecified         1    667  (5166) 1383  
+1139   19.6  0.8  2.7  ZM_CACTA_47                       673   934  (5701) C DTT_ZM00053_consensus     Unspecified       (0)    257       1 1384  
+15270    0.0  0.0  0.0  ZM_CACTA_47                       935  2570  (4065) + DTC_ZM00043_consensus     Unspecified       668   2303  (3530) 1385  
+4674    3.4  0.4  0.0  ZM_CACTA_47                      2571  3101  (3534) + DTA_ZM00322_consensus     Unspecified         1    533     (0) 1386  
+33186    0.0  0.0  0.0  ZM_CACTA_47                      3103  6632     (3) + DTC_ZM00043_consensus     Unspecified      2304   5833     (0) 1387  
+66145    0.0  0.0  0.0  ZM_CACTA_48                         1  7007     (4) + DTC_ZM00044_consensus     Unspecified         1   7007     (0) 1388  
+69315    0.0  0.0  0.0  ZM_CACTA_5                          1  7350     (4) + DTC_ZM00005_consensus     Unspecified         1   7350     (0) 1389  
+79776    0.0  0.0  0.0  ZM_CACTA_50                         1  8474     (4) + DTC_ZM00046_consensus     Unspecified         1   8474     (0) 1390  
+79676    0.0  0.0  0.0  ZM_CACTA_51                         1  8441     (4) + DTC_ZM00047_consensus     Unspecified         1   8441     (0) 1391  
+72703    0.0  0.0  0.0  ZM_CACTA_52                         1  7727  (1347) + DTC_ZM00048_consensus     Unspecified         1   7727  (1343) 1392  
+12063    0.0  0.0  0.0  ZM_CACTA_52                      7772  9070     (4) + DTC_ZM00048_consensus     Unspecified      7771   9069     (1) 1394  
+40546    0.0  0.0  0.0  ZM_CACTA_53                         1  4314  (6409) + DTC_ZM00049_consensus     Unspecified         1   4314  (6366) 1395 *
+56144    0.8  0.5  1.1  ZM_CACTA_53                      4458 10719     (4) + DTC_ZM00049_consensus     Unspecified      4457  10679     (1) 1396  
+60524    0.0  0.0  0.0  ZM_CACTA_54                         1  6440  (4686) + DTC_ZM00050_consensus     Unspecified         1   6440  (4682) 1398  
+291    4.6  0.0  5.7  ZM_CACTA_54                      6441  6869  (4257) + (GGTTAG)n                 Simple_repeat       1    406     (0) 1399  
+40010    0.0  0.0  0.0  ZM_CACTA_54                      6870 11122     (4) + DTC_ZM00050_consensus     Unspecified      6869  11121     (1) 1400  
+108492    0.0  0.0  0.0  ZM_CACTA_55                         1 11593     (4) + DTC_ZM00051_consensus     Unspecified         1  11593     (0) 1401  
+107915    0.1  0.5  0.1  ZM_CACTA_56                         1  7306  (4343) + DTC_ZM00052_consensus     Unspecified         1   7307  (4292) 1402  
+107915    0.1  0.5  0.1  ZM_CACTA_56                      7360 11290   (359) + DTC_ZM00052_consensus     Unspecified      7308  11286   (313) 1402  
+107915    0.1  0.5  0.1  ZM_CACTA_56                     11325 11645     (4) + DTC_ZM00052_consensus     Unspecified     11287  11598     (1) 1402  
+85316    0.0  0.0  0.0  ZM_CACTA_57                         1  9077     (4) + DTC_ZM00053_consensus     Unspecified         1   9077     (0) 1405  
+60574    0.0  0.0  0.0  ZM_CACTA_58                         1  6472  (4758) + DTC_ZM00054_consensus     Unspecified         1   6472  (4754) 1406  
+265    5.4  0.2  6.3  ZM_CACTA_58                      6473  6909  (4321) + (GGTTAG)n                 Simple_repeat       1    412     (0) 1407  
+41878    1.7  0.8  1.8  ZM_CACTA_58                      6910 11226     (4) C DTC_ZM00074_consensus     Unspecified    (6308)   4322       2 1408  
+83422    0.0  0.0  0.0  ZM_CACTA_59                         1  8869     (4) + DTC_ZM00055_consensus     Unspecified         1   8869     (0) 1409  
+24669    2.0  0.1  0.0  ZM_CACTA_6                       1064  3799     (0) C DTC_ZM00086_consensus     Unspecified    (1298)   9881    7143 1412  
+74253    0.0  0.0  0.0  ZM_CACTA_60                         1  7894     (4) + DTC_ZM00056_consensus     Unspecified         1   7894     (0) 1413  
+99728    0.0  0.0  0.0  ZM_CACTA_61                         1 10595     (3) + DTC_ZM00057_consensus     Unspecified         1  10595     (0) 1414  
+55686    0.0  0.1  0.0  ZM_CACTA_62                         1  5921  (4652) + DTC_ZM00058_consensus     Unspecified         1   5924  (4603) 1415  
+284    6.5  0.0  5.0  ZM_CACTA_62                      5922  6380  (4193) + (GGTTAG)n                 Simple_repeat       1    437     (0) 1416  
+38856    0.0  0.0  0.4  ZM_CACTA_62                      6381 10295   (278) + DTC_ZM00058_consensus     Unspecified      6380  10291   (236) 1417 *
+38856    0.0  0.0  0.4  ZM_CACTA_62                     10322 10569     (4) + DTC_ZM00058_consensus     Unspecified     10292  10526     (1) 1419  
+30482    0.0  0.0  0.0  ZM_CACTA_63                         1  3240  (3023) + DTC_ZM00059_consensus     Unspecified         1   3240  (3019) 1420  
+28029    0.8  0.1  0.1  ZM_CACTA_63                      3326  6259     (4) + DTC_ZM00059_consensus     Unspecified      3325   6258     (1) 1422 *
+86084    0.0  0.0  0.0  ZM_CACTA_64                         1  9256     (4) + DTC_ZM00060_consensus     Unspecified         1   9256     (0) 1423  
+93435    0.0  0.0  0.0  ZM_CACTA_65                         1  9907     (0) + DTC_ZM00061_consensus     Unspecified         1   9907     (0) 1424  
+33984    0.0  0.0  0.0  ZM_CACTA_66                         1  3620  (6162) + DTC_ZM00062_consensus     Unspecified         1   3620  (6032) 1425  
+1001    7.1  0.0  0.0  ZM_CACTA_66                      3621  3746  (6036) + DTH_ZM00389_consensus     Unspecified         2    127     (1) 1426  
+55886    0.0  0.0  0.0  ZM_CACTA_66                      3747  9778     (4) + DTC_ZM00062_consensus     Unspecified      3621   9652     (0) 1427  
+80504    0.0  0.0  0.0  ZM_CACTA_67                         1  8573  (7062) + DTC_ZM00063_consensus     Unspecified         1   8573  (6921) 1428  
+424   14.8 21.4  0.9  ZM_CACTA_67                      8574  8662  (6973) + DTH_ZM00119_consensus     Unspecified         1    107     (0) 1429  
+4811    0.8  0.0  0.0  ZM_CACTA_67                      8663  9183  (6452) + DTC_ZM00063_consensus     Unspecified      8574   9094  (6400) 1430  
+60454    0.0  0.0  0.0  ZM_CACTA_67                      9222 15635     (0) + DTC_ZM00063_consensus     Unspecified      9081  15494     (0) 1432  
+63169    0.0  0.0  0.0  ZM_CACTA_68                         1  6723     (4) + DTC_ZM00064_consensus     Unspecified         1   6723     (0) 1433  
+108139    0.0  0.0  0.0  ZM_CACTA_69                         1 11487     (4) + DTC_ZM00065_consensus     Unspecified         1  11487     (0) 1434  
+41707    0.0  0.0  0.0  ZM_CACTA_7                          1  4462  (6178) + DTC_ZM00006_consensus     Unspecified         1   4461  (6036) 1435  
+56346    0.0  0.0  0.0  ZM_CACTA_7                       4594 10636     (4) + DTC_ZM00006_consensus     Unspecified      4455  10497     (0) 1437  
+55936    0.1  0.0  0.0  ZM_CACTA_70                         1  5942  (5987) + DTC_ZM00066_consensus     Unspecified         1   5942  (5983) 1438  
+40234    0.0  0.0  0.0  ZM_CACTA_70                      6222 10495  (1434) + DTC_ZM00066_consensus     Unspecified      6221  10494  (1431) 1440 *
+13050    0.0  0.0  0.0  ZM_CACTA_70                     10536 11925     (4) + DTC_ZM00066_consensus     Unspecified     10535  11924     (1) 1441  
+49346    0.1  0.9  0.0  ZM_CACTA_71                         1  4191  (6245) + DTC_ZM00067_consensus     Unspecified         1   4239  (6193) 1443  
+49346    0.1  0.9  0.0  ZM_CACTA_71                      4241  5358  (5078) + DTC_ZM00067_consensus     Unspecified      4240   5357  (5075) 1443  
+44233    0.0  0.0  0.0  ZM_CACTA_71                      5722 10432     (4) + DTC_ZM00067_consensus     Unspecified      5722  10432     (0) 1446  
+92835    0.0  0.0  0.0  ZM_CACTA_72                         1  9931     (4) + DTC_ZM00068_consensus     Unspecified         1   9931     (0) 1447  
+97116    0.0  0.0  0.0  ZM_CACTA_73                         1 10364     (3) + DTC_ZM00069_consensus     Unspecified         1  10364     (0) 1448  
+84759    0.0  0.0  0.0  ZM_CACTA_74                         1  8979     (4) + DTC_ZM00070_consensus     Unspecified         1   8979     (0) 1449  
+49624    1.7  2.7  1.7  ZM_CACTA_75                         1  4962  (6138) + DTC_ZM00090_consensus     Unspecified         1   5002  (6309) 1450  
+49624    1.7  2.7  1.7  ZM_CACTA_75                      4994  5902  (5198) + DTC_ZM00090_consensus     Unspecified      5003   5926  (5385) 1450  
+38752    1.6  1.9  0.3  ZM_CACTA_75                      5535  9925  (1175) + DTC_ZM00090_consensus     Unspecified      5683  10143  (1168) 1452 *
+9683    2.8  0.4  0.4  ZM_CACTA_75                      9973 11096     (4) + DTC_ZM00090_consensus     Unspecified     10188  11310     (1) 1454 *
+22962    0.0  0.0  0.0  ZM_CACTA_76                         1  2446  (9643) + DTC_ZM00072_consensus     Unspecified         1   2446  (9442) 1455  
+86656    0.2  0.6  0.5  ZM_CACTA_76                      2585  7122  (4967) + DTC_ZM00072_consensus     Unspecified      2425   6975  (4913) 1458  
+86656    0.2  0.6  0.5  ZM_CACTA_76                      7173 12085     (4) + DTC_ZM00072_consensus     Unspecified      6976  11887     (1) 1458  
+73584    0.0  0.0  0.0  ZM_CACTA_77                         1  7811     (4) + DTC_ZM00073_consensus     Unspecified         1   7811     (0) 1460  
+97523    0.2  0.9  0.1  ZM_CACTA_78                         1  4294  (6340) + DTC_ZM00074_consensus     Unspecified         1   4340  (6290) 1461  
+97523    0.2  0.9  0.1  ZM_CACTA_78                      4344  5264  (5370) + DTC_ZM00074_consensus     Unspecified      4341   5304  (5326) 1461  
+97523    0.2  0.9  0.1  ZM_CACTA_78                      5307 10630     (4) + DTC_ZM00074_consensus     Unspecified      5305  10628     (2) 1461  
+62128    0.0  0.0  0.0  ZM_CACTA_79                         1  6594  (4682) + DTC_ZM00075_consensus     Unspecified         1   6594  (4635) 1464  
+351    5.9  0.0  5.2  ZM_CACTA_79                      6595  7141  (4135) + (GGTTAG)n                 Simple_repeat       1    520     (0) 1465  
+38831    1.8  1.3  0.3  ZM_CACTA_79                      7142 11238    (38) C DTC_ZM00074_consensus     Unspecified    (6308)   4322     220 1466  
+1149    2.9 25.3  1.4  ZM_CACTA_79                     11095 11272     (4) + DTC_ZM00040_consensus     Unspecified      4884   5103     (0) 1467 *
+78236    0.0  0.0  0.0  ZM_CACTA_8                          1  8311  (1395) + DTC_ZM00007_consensus     Unspecified         1   8311  (1135) 1468  
+993    3.5  0.0  0.0  ZM_CACTA_8                       8520  8633  (1073) + DTC_ZM00059_consensus     Unspecified      5476   5589   (670) 1470 *
+10701    0.0  0.0  0.0  ZM_CACTA_8                       8572  9706     (0) + DTC_ZM00007_consensus     Unspecified      8312   9446     (0) 1471  
+103032    0.0  0.0  0.4  ZM_CACTA_80                         1 11092     (4) + DTC_ZM00076_consensus     Unspecified         1  11052     (0) 1472  
+93185    0.0  0.0  0.0  ZM_CACTA_81                         1  9991     (5) + DTC_ZM00077_consensus     Unspecified         1   9991     (0) 1473  
+1719    3.7  1.4  0.9  ZM_CACTA_83                         1   219 (10511) C DTC_ZM00040_consensus     Unspecified       (0)   5103    4884 1474 *
+41997    1.5  1.3  2.1  ZM_CACTA_83                        77  4176  (6554) + DTC_ZM00074_consensus     Unspecified       211   4340  (6290) 1475  
+203    4.7  0.0  4.7  ZM_CACTA_83                      4177  4463  (6267) + (AACCCT)n                 Simple_repeat       1    274     (0) 1476  
+58047    0.0  0.7  0.0  ZM_CACTA_83                      4464  5371  (5359) + DTC_ZM00079_consensus     Unspecified      4464   5412  (5314) 1477  
+58047    0.0  0.7  0.0  ZM_CACTA_83                      5414 10726     (4) + DTC_ZM00079_consensus     Unspecified      5413  10725     (1) 1479  
+54830    0.0  0.0  0.0  ZM_CACTA_84                         1  5860     (8) + DTC_ZM00080_consensus     Unspecified         1   5860     (0) 1480  
+73164    0.0  0.0  0.0  ZM_CACTA_85                         1  7770  (1947) + DTC_ZM00081_consensus     Unspecified         1   7770  (1305) 1481  
+5795    1.6  0.0  0.0  ZM_CACTA_85                      7772  8407  (1310) + DTA_ZM00311_consensus     Unspecified         1    636     (0) 1482 *
+12247    0.1  0.0  0.0  ZM_CACTA_85                      8406  9713     (4) + DTC_ZM00081_consensus     Unspecified      7768   9075     (0) 1483  
+102171    0.1  0.3  0.4  ZM_CACTA_86                         1   707 (10474) + DTC_ZM00082_consensus     Unspecified         1    707 (10385) 1484  
+102171    0.1  0.3  0.4  ZM_CACTA_86                       753  5864  (5317) + DTC_ZM00082_consensus     Unspecified       708   5852  (5240) 1484  
+102171    0.1  0.3  0.4  ZM_CACTA_86                      5899 11177     (4) + DTC_ZM00082_consensus     Unspecified      5853  11091     (1) 1484  
+100397    0.2  0.4  0.0  ZM_CACTA_87                         1 10156   (739) + DTC_ZM00083_consensus     Unspecified         1  10193   (698) 1487  
+100397    0.2  0.4  0.0  ZM_CACTA_87                     10197 10891     (4) + DTC_ZM00083_consensus     Unspecified     10194  10890     (1) 1487  
+84269    0.0  0.0  0.0  ZM_CACTA_88                         1  8933     (0) + DTC_ZM00084_consensus     Unspecified         1   8933     (0) 1489  
+86532    0.0  0.0  0.0  ZM_CACTA_89                         1  9172     (0) + DTC_ZM00085_consensus     Unspecified         1   9172     (0) 1490  
+29647    4.6  2.1  0.9  ZM_CACTA_9                          1  3623  (5285) + DTC_ZM00101_consensus     Unspecified       242   3905  (3363) 1491  
+23759    7.5  1.0  1.8  ZM_CACTA_9                       4346  7565  (1343) + DTC_ZM00101_consensus     Unspecified      3912   7107   (161) 1495  
+53173    0.1  0.8  0.0  ZM_CACTA_90                         1  4177  (7006) + DTC_ZM00086_consensus     Unspecified         1   4225  (6954) 1500  
+53173    0.1  0.8  0.0  ZM_CACTA_90                      4227  5757  (5426) + DTC_ZM00086_consensus     Unspecified      4226   5756  (5423) 1500  
+48144    0.0  0.6  0.0  ZM_CACTA_90                      6001  6464  (4719) + DTC_ZM00086_consensus     Unspecified      6001   6464  (4715) 1503  
+48144    0.0  0.6  0.0  ZM_CACTA_90                      6499 11179     (4) + DTC_ZM00086_consensus     Unspecified      6465  11178     (1) 1503  
+43547    1.3  1.0  2.0  ZM_CACTA_91                         1  4309  (6779) + DTC_ZM00074_consensus     Unspecified         1   4340  (6290) 1505  
+258    5.7  0.0  6.4  ZM_CACTA_91                      4310  4741  (6347) + (AACCCT)n                 Simple_repeat       1    406     (0) 1506  
+58365    0.2  0.8  0.1  ZM_CACTA_91                      4742  5573  (5515) + DTC_ZM00087_consensus     Unspecified      4742   5614  (5470) 1507  
+58365    0.2  0.8  0.1  ZM_CACTA_91                      5616 11084     (4) + DTC_ZM00087_consensus     Unspecified      5615  11083     (1) 1509  
+71123    0.0  0.0  0.0  ZM_CACTA_92                         1  7592     (5) + DTC_ZM00088_consensus     Unspecified         1   7592     (0) 1510  
+112605    0.0  0.0  0.0  ZM_CACTA_93                         1 12061     (4) + DTC_ZM00089_consensus     Unspecified         1  12061     (0) 1511  
+95243    0.0  0.0  0.0  ZM_CACTA_94                         1 10143  (1172) + DTC_ZM00090_consensus     Unspecified         1  10143  (1168) 1512  
+10516    0.0  0.0  0.0  ZM_CACTA_94                     10189 11311     (4) + DTC_ZM00090_consensus     Unspecified     10188  11310     (1) 1514 *
+20578    0.0  0.0  0.0  ZM_CACTA_95                         1  2202  (5860) + DTC_ZM00091_consensus     Unspecified         1   2202  (5630) 1515  
+1361   16.2  0.8  0.4  ZM_CACTA_95                      2188  2429  (5633) C DTH_ZM00008_consensus     Unspecified    (4342)   1004     762 1516 *
+52698    0.0  0.0  0.0  ZM_CACTA_95                      2426  8057     (5) + DTC_ZM00091_consensus     Unspecified      2201   7832     (0) 1517  
+92759    0.0  0.0  0.0  ZM_CACTA_96                         1  9945     (4) + DTC_ZM00092_consensus     Unspecified         1   9945     (0) 1518  
+85607    0.0  0.0  0.0  ZM_CACTA_97                         1  9114     (4) + DTC_ZM00093_consensus     Unspecified         1   9114     (0) 1519  
+103355    0.0  0.0  0.0  ZM_CACTA_98                         1 11085     (0) + DTC_ZM00094_consensus     Unspecified         1  11085     (0) 1520  
+49163    0.0  0.0  0.0  ZM_CACTA_99                         1  5260  (4140) + DTC_ZM00095_consensus     Unspecified         1   5260  (3741) 1521  
+35117    0.0  0.0  0.0  ZM_CACTA_99                      5658  9400     (0) + DTC_ZM00095_consensus     Unspecified      5259   9001     (0) 1523  
+242   18.1  0.0 15.2  ZM_CACTA_noncoding_1                4    94   (577) + DTC_ZM00023_consensus     Unspecified         1     79  (9969) 1524 *
+323   16.7  4.9  4.9  ZM_CACTA_noncoding_1               37   118   (553) C DTC_ZM00035_consensus     Unspecified     (108)  10303   10222 1527 *
+5047    3.2  0.0  0.0  ZM_CACTA_noncoding_1               85   668     (3) + DTC_ZM00111_consensus     Unspecified       235    818     (0) 1528  
+1090   10.5 25.3  0.0  ZM_CACTA_noncoding_10               4   232   (420) + DTC_ZM00123_consensus     Unspecified         1    287   (694) 1529 *
+1478    9.1  0.0  0.0  ZM_CACTA_noncoding_10               4   200   (452) C DTC_ZM00121_consensus     Unspecified       (0)    774     578 1530  
+3629    1.4  0.2  0.2  ZM_CACTA_noncoding_10             230   649     (3) C DTC_ZM00114_consensus     Unspecified     (442)    420       1 1531  
+1091    6.1  0.8  0.0  ZM_CACTA_noncoding_11               3   134   (354) + DTC_ZM00122_consensus     Unspecified         3    135  (1303) 1532  
+2138    3.6  7.6  7.0  ZM_CACTA_noncoding_11             141   469    (19) + DTC_ZM00122_consensus     Unspecified      1053   1383    (55) 1534  
+1466   14.8  6.6  0.0  ZM_CACTA_noncoding_12               4   260     (3) C DTC_ZM00070_consensus     Unspecified    (6693)   2286    2013 1535  
+1082    7.5  2.8  2.8  ZM_CACTA_noncoding_13             343   521   (144) + DTC_ZM00120_consensus     Unspecified       373    551   (318) 1537 *
+1047   18.1 10.3  4.2  ZM_CACTA_noncoding_13             351   662     (3) + DTC_ZM00117_consensus     Unspecified       562    891     (0) 1538 *
+711   10.7  0.9  3.5  ZM_CACTA_noncoding_15               4   119   (122) C DTC_ZM00045_consensus     Unspecified       (0)   7920    7808 1540 *
+1198    8.6  6.5  6.0  ZM_CACTA_noncoding_15              40   238     (3) C DTC_ZM00045_consensus     Unspecified    (7720)    200       1 1541  
+871   17.8  2.3  0.6  ZM_CACTA_noncoding_16               4   178    (81) C DTC_ZM00123_consensus     Unspecified       (0)    981     804 1543 *
+1335   12.6  3.3  0.5  ZM_CACTA_noncoding_16              42   256     (3) + DTC_ZM00112_consensus     Unspecified       207    427     (0) 1544 *
+1507    4.5  0.0  0.0  ZM_CACTA_noncoding_16              80   256     (3) + DTC_ZM00114_consensus     Unspecified       686    862     (0) 1545  
+1625    5.1  8.7  0.4  ZM_CACTA_noncoding_17               4   221     (3) C DTC_ZM00126_consensus     Unspecified       (0)    236       1 1546  
+1928    2.7  0.0  0.0  ZM_CACTA_noncoding_18               4   223   (162) + DTC_ZM00114_consensus     Unspecified         1    220   (642) 1547  
+1168    6.3  0.0  0.0  ZM_CACTA_noncoding_18             241   382     (3) C DTC_ZM00123_consensus     Unspecified     (839)    142       1 1550  
+6483    2.7  5.0  0.5  ZM_CACTA_noncoding_2                4   786     (3) + DTC_ZM00111_consensus     Unspecified         1    818     (0) 1553  
+2827   13.2  1.1 13.1  ZM_CACTA_noncoding_21               4   637     (3) + DTC_ZM00119_consensus     Unspecified         1    567     (0) 1556 *
+3057    7.9  0.0  0.2  ZM_CACTA_noncoding_21             233   637     (3) C DTC_ZM00073_consensus     Unspecified    (7407)    404       1 1557  
+318   16.2  1.6 19.2  ZM_CACTA_noncoding_22               4   125    (21) + DTC_ZM00004_consensus     Unspecified         1    104  (8151) 1558 *
+536   19.2  4.2  0.0  ZM_CACTA_noncoding_22              24   143     (3) C DTC_ZM00070_consensus     Unspecified    (8854)    125       1 1560  
+724   18.4  5.2  7.4  ZM_CACTA_noncoding_23               2   195   (265) + DTC_ZM00122_consensus     Unspecified         2    191  (1247) 1561  
+723   19.4  8.6 14.3  ZM_CACTA_noncoding_23               4   304   (156) + DTC_ZM00047_consensus     Unspecified         1    286  (8155) 1562 *
+2329   13.2  4.5  2.6  ZM_CACTA_noncoding_23              39   457     (3) + DTC_ZM00073_consensus     Unspecified      7385   7811     (0) 1563  
+393   18.6 13.4  4.4  ZM_CACTA_noncoding_24               2   232    (97) C DTC_ZM00063_consensus     Unspecified     (279)  15215   14965 1565  
+279   19.3  6.7  8.4  ZM_CACTA_noncoding_24               6   260    (69) + DTC_ZM00100_consensus     Unspecified       284    534  (7919) 1566 *
+3044   17.5  9.7  0.8  ZM_CACTA_noncoding_25             148   799     (3) + DTC_ZM00123_consensus     Unspecified       273    981     (0) 1569 *
+3144   14.8  2.9  1.7  ZM_CACTA_noncoding_25             218   799     (3) + DTC_ZM00120_consensus     Unspecified       281    869     (0) 1570  
+702   16.1 15.2  2.5  ZM_CACTA_noncoding_26               4   181    (21) + DTC_ZM00119_consensus     Unspecified         1    200   (367) 1571 *
+1066    7.9  0.0  0.0  ZM_CACTA_noncoding_26              60   199     (3) C DTC_ZM00004_consensus     Unspecified    (8115)    140       1 1572  
+1965   10.8  2.9  1.3  ZM_CACTA_noncoding_27               4   311    (81) + DTC_ZM00024_consensus     Unspecified         1    313 (11131) 1573  
+2415    3.8  2.0  0.3  ZM_CACTA_noncoding_27              96   389     (3) + DTC_ZM00072_consensus     Unspecified     11590  11888     (0) 1575  
+450   14.5 22.1  6.2  ZM_CACTA_noncoding_28               4   157    (88) C DTC_ZM00007_consensus     Unspecified       (0)   9446    9270 1576 *
+1404    8.8 12.3  1.2  ZM_CACTA_noncoding_28              23   242     (3) C DTC_ZM00005_consensus     Unspecified    (7106)    244       1 1577 *
+1532    3.8  0.0  2.7  ZM_CACTA_noncoding_28              52   242     (3) C DTC_ZM00063_consensus     Unspecified   (15308)    186       1 1578  
+602   17.4  2.9  9.9  ZM_CACTA_noncoding_29               4   175    (11) + DTC_ZM00085_consensus     Unspecified         1    161  (9011) 1579 *
+686   17.4  0.0  0.0  ZM_CACTA_noncoding_29               4   118    (68) + DTC_ZM00012_consensus     Unspecified         1    115  (8293) 1580  
+1404    3.0  0.6  0.6  ZM_CACTA_noncoding_3                4   173     (3) + DTH_ZM00071_consensus     Unspecified         1    170     (0) 1581  
+1442    8.7  1.7 14.5  ZM_CACTA_noncoding_30               4   298    (81) + DTC_ZM00112_consensus     Unspecified         1    262   (165) 1582  
+891   18.8 11.1  4.9  ZM_CACTA_noncoding_30             125   376     (3) C DTC_ZM00066_consensus     Unspecified   (11658)    267       1 1583 *
+1760    3.8  0.0  1.9  ZM_CACTA_noncoding_30             161   376     (3) + DTC_ZM00121_consensus     Unspecified       563    774     (0) 1584  
+5285    2.1  3.1  3.2  ZM_CACTA_noncoding_32              17   667     (3) C DTC_ZM00034_consensus     Unspecified    (6911)    650       1 1588  
+430   16.5  4.1 15.4  ZM_CACTA_noncoding_33               4   125    (22) + DTC_ZM00036_consensus     Unspecified         1    110  (6139) 1589 *
+1427    9.4  8.8  6.5  ZM_CACTA_noncoding_34               1   273     (1) C DTC_ZM00070_consensus     Unspecified    (6690)   2289    2011 1591  
+305   18.6  9.4 19.7  ZM_CACTA_noncoding_35               4   258    (44) + DTC_ZM00038_consensus     Unspecified         1    233  (7327) 1592 *
+1033    0.9  0.0  0.0  ZM_CACTA_noncoding_36               2   115   (444) + DTC_ZM00091_consensus     Unspecified         2    115  (7717) 1596 *
+3810    0.7  0.2  1.4  ZM_CACTA_noncoding_36             115   556     (3) + DTC_ZM00091_consensus     Unspecified      7396   7832     (0) 1597  
+1953   15.5  3.2  0.0  ZM_CACTA_noncoding_37               4   319    (31) C DTC_ZM00073_consensus     Unspecified       (0)   7811    7486 1598  
+916   13.8  7.2 11.3  ZM_CACTA_noncoding_37             127   347     (3) C DTC_ZM00073_consensus     Unspecified    (7598)    213       1 1599 *
+2495   11.5  7.0 16.3  ZM_CACTA_noncoding_38               4   616     (3) C DTC_ZM00113_consensus     Unspecified       (0)    564       1 1600  
+1682    6.5  0.0  0.0  ZM_CACTA_noncoding_39               4   202   (331) + DTC_ZM00034_consensus     Unspecified         1    199  (7362) 1601  
+291   18.1  7.3 14.8  ZM_CACTA_noncoding_39             408   530     (3) C DTC_ZM00034_consensus     Unspecified    (7446)    115       1 1603 *
+2204    2.7  0.0  0.4  ZM_CACTA_noncoding_4                4   263     (3) + DTC_ZM00125_consensus     Unspecified         1    259     (0) 1604  
+1261    4.5  0.0  0.0  ZM_CACTA_noncoding_41               4   157   (515) + DTC_ZM00106_consensus     Unspecified         1    154  (3239) 1610  
+1905    6.4 10.0 13.0  ZM_CACTA_noncoding_41             291   669     (3) C DTC_ZM00113_consensus     Unspecified     (195)    369       1 1612 *
+2060   11.1  0.3  6.3  ZM_CACTA_noncoding_41             333   669     (3) + DTC_ZM00106_consensus     Unspecified      3076   3393     (0) 1613  
+1683    9.1  4.6  2.6  ZM_CACTA_noncoding_42               4   263   (274) + DTC_ZM00106_consensus     Unspecified         1    265  (3128) 1615  
+2959   15.2  4.8  0.7  ZM_CACTA_noncoding_43              35   576     (3) C DTC_ZM00103_consensus     Unspecified    (4623)    564       1 1617  
+1063   18.3  8.6  0.5  ZM_CACTA_noncoding_44               4   201   (544) + DTC_ZM00119_consensus     Unspecified         1    214   (353) 1618  
+1047    6.2  0.0  6.8  ZM_CACTA_noncoding_46               4   160   (420) C DTC_ZM00122_consensus     Unspecified       (0)   1438    1292 1623 *
+1903    9.1  9.3  0.6  ZM_CACTA_noncoding_46             142   441   (139) C DTC_ZM00122_consensus     Unspecified    (1071)    367      42 1624  
+804   16.3  2.8 19.8  ZM_CACTA_noncoding_46             325   577     (3) C DTC_ZM00073_consensus     Unspecified    (7594)    217       1 1626 *
+1567    6.4  3.9  0.5  ZM_CACTA_noncoding_46             374   577     (3) C DTC_ZM00122_consensus     Unspecified    (1224)    214       4 1627  
+2081    2.5  0.0  0.0  ZM_CACTA_noncoding_5                4   239     (3) + DTC_ZM00126_consensus     Unspecified         1    236     (0) 1628  
+1663    6.1  0.5  0.9  ZM_CACTA_noncoding_6                2   215    (20) + DTC_ZM00122_consensus     Unspecified         2    214  (1224) 1629  
+461   19.2 15.0  4.8  ZM_CACTA_noncoding_6               80   232     (3) C DTC_ZM00118_consensus     Unspecified     (405)    168       1 1630 *
+855    8.6 18.6  4.3  ZM_CACTA_noncoding_7                4   186   (616) C DTC_ZM00121_consensus     Unspecified       (0)    774     567 1631 *
+4840    9.0  0.3  4.4  ZM_CACTA_noncoding_7               65   799     (3) + DTC_ZM00120_consensus     Unspecified       164    869     (0) 1632  
+445   13.1 30.9  4.7  ZM_CACTA_noncoding_8                4   155    (22) C DTC_ZM00122_consensus     Unspecified       (0)   1438    1249 1633 *
+1228    3.8 11.5  0.0  ZM_CACTA_noncoding_8               20   176     (1) C DTC_ZM00122_consensus     Unspecified    (1262)    176       2 1634  
+1473   12.8  1.8  0.0  ZM_CACTA_noncoding_9                4   222   (307) C DTC_ZM00123_consensus     Unspecified       (0)    981     759 1635  
+1677   19.3  1.1  2.9  ZM_CACTA_noncoding_9              170   526     (3) + DTC_ZM00112_consensus     Unspecified        77    427     (0) 1637 *
+1803   11.4  0.4  1.1  ZM_CACTA_noncoding_9              253   526     (3) C DTC_ZM00120_consensus     Unspecified     (597)    272       1 1638  
+87408    0.0  0.4  0.0  ZM_Doppia4_like_CACTA_82            1   582  (8767) + DTC_ZM00078_consensus     Unspecified         1    619  (8730) 1639  
+87408    0.0  0.4  0.0  ZM_Doppia4_like_CACTA_82          621  9349     (0) + DTC_ZM00078_consensus     Unspecified       620   9348     (1) 1639  
+74629    0.0  0.0  0.0  ZM_EN_like_CACTA_49                 1  7920     (0) + DTC_ZM00045_consensus     Unspecified         1   7920     (0) 1641  
+28019    0.0  0.0  0.0  ZM_Mariner_1                        3  2976     (7) + DTT_ZM00001_consensus     Unspecified         1   2974     (0) 1642  
+31270    0.0  0.0  0.0  ZM_Mariner_2                        3  3319     (7) + DTT_ZM00002_consensus     Unspecified         1   3317     (0) 1643  
+24519    4.9  1.5  1.4  ZM_Mariner_3                        3  3046   (419) + DTT_ZM00003_consensus     Unspecified         1   3049   (152) 1644  
+1161   12.6  1.1  0.5  ZM_Mariner_3                     3276  3458     (7) + DTT_ZM00003_consensus     Unspecified      3018   3201     (0) 1645  
+30044    0.0  0.0  0.0  ZM_Mariner_4                        3  3203     (7) + DTT_ZM00003_consensus     Unspecified         1   3201     (0) 1646  
+30044    0.0  0.0  0.0  ZM_Mariner_5                        3  3203     (7) + DTT_ZM00003_consensus     Unspecified         1   3201     (0) 1647  
+24450    0.0  0.0  0.0  ZM_Mariner_6                        3  2610     (7) + DTT_ZM00004_consensus     Unspecified         1   2608     (0) 1648  
+26902    0.0  0.0  0.0  ZM_Mariner_7                        3  2863     (7) + DTT_ZM00005_consensus     Unspecified         1   2861     (0) 1649  
+3081    0.0  0.0  0.0  ZM_Mariner_8                        3   334  (2754) + DTT_ZM00006_consensus     Unspecified         1    332  (2416) 1650  
+1174   16.0  0.0  0.0  ZM_Mariner_8                      337   517  (2571) C DTH_ZM00014_consensus     Unspecified       (2)   3640    3460 1651  
+1135    5.6  0.7  0.0  ZM_Mariner_8                      525   668  (2420) C DTH_ZM00014_consensus     Unspecified    (3495)    147       3 1652 *
+22577    0.0  0.0  0.2  ZM_Mariner_8                      661  3086     (2) + DTT_ZM00006_consensus     Unspecified       327   2748     (0) 1653  
+35007    0.0  0.0  0.0  ZM_Mariner_9                        3  3719     (7) + DTT_ZM00007_consensus     Unspecified         1   3717     (0) 1654  
+36102    0.0  0.0  0.0  ZM_PIF/Harbinger_1                  1  3833     (0) + DTH_ZM00001_consensus     Unspecified         1   3833     (0) 1655  
+50846    0.0  0.0  0.0  ZM_PIF/Harbinger_10                 1  5384     (0) + DTH_ZM00009_consensus     Unspecified         1   5384     (0) 1656  
+55854    0.0  0.0  0.0  ZM_PIF/Harbinger_11                 1  5917     (0) + DTH_ZM00010_consensus     Unspecified         1   5917     (0) 1657  
+40514    0.0  0.0  0.0  ZM_PIF/Harbinger_12                 1  4300     (0) + DTH_ZM00011_consensus     Unspecified         1   4300     (0) 1658  
+43859    0.0  0.0  0.0  ZM_PIF/Harbinger_13                 1  4663     (0) + DTH_ZM00012_consensus     Unspecified         1   4663     (0) 1659  
+36727    0.0  0.0  0.0  ZM_PIF/Harbinger_14                 1  3901     (0) + DTH_ZM00013_consensus     Unspecified         1   3901     (0) 1660  
+34299    0.0  0.0  0.0  ZM_PIF/Harbinger_15                 1  3642     (0) + DTH_ZM00014_consensus     Unspecified         1   3642     (0) 1661  
+43276    0.0  0.0  0.0  ZM_PIF/Harbinger_16                 1  4607     (0) + DTH_ZM00015_consensus     Unspecified         1   4607     (0) 1662  
+47396    0.0  0.0  0.0  ZM_PIF/Harbinger_17                 1  5048     (0) + DTH_ZM00016_consensus     Unspecified         1   5048     (0) 1663  
+41918    0.0  0.0  0.0  ZM_PIF/Harbinger_18                 1  4491     (0) + DTH_ZM00017_consensus     Unspecified         1   4491     (0) 1664  
+45846    0.0  0.0  0.0  ZM_PIF/Harbinger_19                 1  4875     (0) + DTH_ZM00018_consensus     Unspecified         1   4875     (0) 1665  
+6191    0.0  0.0  0.0  ZM_PIF/Harbinger_2                  1   661  (3677) + DTH_ZM00028_consensus     Unspecified         4    664  (3680) 1666  
+34056    0.0  0.0  0.0  ZM_PIF/Harbinger_2                707  4338     (0) + DTH_ZM00028_consensus     Unspecified       710   4341     (3) 1668  
+41154    0.0  0.0  0.0  ZM_PIF/Harbinger_20                 1  4375     (0) + DTH_ZM00019_consensus     Unspecified         1   4375     (0) 1669  
+38091    0.0  0.0  0.0  ZM_PIF/Harbinger_21                 1  4043     (0) + DTH_ZM00020_consensus     Unspecified         1   4043     (0) 1670  
+45884    0.0  0.0  0.0  ZM_PIF/Harbinger_22                 1  4904     (0) + DTH_ZM00021_consensus     Unspecified         1   4904     (0) 1671  
+41078    0.0  0.0  0.0  ZM_PIF/Harbinger_23                 1  4357     (0) + DTH_ZM00022_consensus     Unspecified         1   4357     (0) 1672  
+37562    0.0  0.0  0.0  ZM_PIF/Harbinger_24                 1  3986     (0) + DTH_ZM00023_consensus     Unspecified         1   3986     (0) 1673  
+50332    0.0  0.0  0.0  ZM_PIF/Harbinger_25                 1  5331     (0) + DTH_ZM00024_consensus     Unspecified         1   5331     (0) 1674  
+19000    0.0  0.0  0.0  ZM_PIF/Harbinger_26                 1  2018     (0) + DTH_ZM00025_consensus     Unspecified         1   2018     (0) 1675  
+39191    0.0  0.0  0.0  ZM_PIF/Harbinger_27                 1  4173     (0) + DTH_ZM00026_consensus     Unspecified         1   4173     (0) 1676  
+37617    0.0  0.0  0.0  ZM_PIF/Harbinger_28                 1  4008     (0) + DTH_ZM00027_consensus     Unspecified         1   4008     (0) 1677  
+6217    0.0  0.0  0.0  ZM_PIF/Harbinger_29                 1   664  (3680) + DTH_ZM00028_consensus     Unspecified         1    664  (3680) 1678  
+34082    0.0  0.0  0.0  ZM_PIF/Harbinger_29               710  4344     (0) + DTH_ZM00028_consensus     Unspecified       710   4344     (0) 1680  
+38108    0.0  0.0  0.0  ZM_PIF/Harbinger_3                  1  4064     (0) + DTH_ZM00003_consensus     Unspecified         1   4064     (0) 1681  
+45674    0.0  0.0  0.0  ZM_PIF/Harbinger_30                 1  4862     (0) + DTH_ZM00029_consensus     Unspecified         1   4862     (0) 1682  
+41956    0.0  0.0  0.0  ZM_PIF/Harbinger_31                 1  4466     (0) + DTH_ZM00030_consensus     Unspecified         1   4466     (0) 1683  
+41906    0.0  0.0  0.0  ZM_PIF/Harbinger_32                 1  4459     (0) + DTH_ZM00031_consensus     Unspecified         1   4459     (0) 1684  
+47988    0.0  0.0  0.0  ZM_PIF/Harbinger_33                 4  5087     (3) + DTH_ZM00004_consensus     Unspecified         1   5084     (0) 1685  
+48236    0.0  0.0  0.0  ZM_PIF/Harbinger_34                 1  5113     (0) + DTH_ZM00032_consensus     Unspecified         1   5113     (0) 1686  
+55761    0.0  0.0  0.0  ZM_PIF/Harbinger_35                 1  5907     (0) + DTH_ZM00033_consensus     Unspecified         1   5907     (0) 1687  
+57223    0.0  0.0  0.0  ZM_PIF/Harbinger_36                 1  6060     (0) + DTH_ZM00034_consensus     Unspecified         1   6060     (0) 1688  
+59210    0.0  0.0  0.0  ZM_PIF/Harbinger_37                 1  6279     (0) + DTH_ZM00035_consensus     Unspecified         1   6279     (0) 1689  
+41231    0.0  0.0  0.0  ZM_PIF/Harbinger_38                 1  4379     (0) + DTH_ZM00036_consensus     Unspecified         1   4379     (0) 1690  
+47988    0.0  0.0  0.0  ZM_PIF/Harbinger_4                  1  5084     (0) + DTH_ZM00004_consensus     Unspecified         1   5084     (0) 1691  
+48048    0.0  0.0  0.0  ZM_PIF/Harbinger_5                  1  5088     (0) + DTH_ZM00005_consensus     Unspecified         1   5088     (0) 1692  
+50505    0.0  0.0  0.0  ZM_PIF/Harbinger_6                  1  5348     (0) + DTH_ZM00006_consensus     Unspecified         1   5348     (0) 1693  
+51270    0.0  0.0  0.0  ZM_PIF/Harbinger_7                  1  5429     (0) + DTH_ZM00007_consensus     Unspecified         1   5429     (0) 1694  
+50489    0.0  0.0  0.0  ZM_PIF/Harbinger_8                  1  5346     (0) + DTH_ZM00008_consensus     Unspecified         1   5346     (0) 1695  
+6091    4.6  4.5  1.0  ZM_PIF/Harbinger_9                  1   795  (4179) C DTH_ZM00004_consensus     Unspecified       (0)   5084    4262 1696 *
+37074    2.5  0.0  0.1  ZM_PIF/Harbinger_9                791  4974     (0) C DTH_ZM00004_consensus     Unspecified     (902)   4182       1 1697  
+730    1.2  0.0  0.0  ZM_Stowaway_1                       3    82     (2) C DTT_ZM00031_consensus     Unspecified       (0)     80       1 1698  
+623    6.2  0.0  1.2  ZM_Stowaway_10                      3    83     (2) C DTT_ZM00031_consensus     Unspecified       (0)     80       1 1699  
+488   16.2  0.0  0.0  ZM_Stowaway_104                     3    82     (2) + DTT_ZM00037_consensus     Unspecified         1     80     (0) 1704  
+644    6.2  0.0  0.0  ZM_Stowaway_105                     3    82     (2) + DTT_ZM00057_consensus     Unspecified         1     80     (0) 1705  
+435   18.8  0.0  0.0  ZM_Stowaway_107                     3    82     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1707  
+581   10.0  0.0  0.0  ZM_Stowaway_109                     3    82     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1709  
+563    8.8  0.0  2.5  ZM_Stowaway_11                      3    84     (2) + DTT_ZM00055_consensus     Unspecified         1     80     (0) 1710  
+401   18.8  0.0  1.2  ZM_Stowaway_110                     3    83     (2) + DTT_ZM00048_consensus     Unspecified         1     80     (0) 1711  
+1077   12.5  0.0  0.0  ZM_Stowaway_113                     3   162     (2) C DTT_ZM00026_consensus     Unspecified       (0)    160       1 1714  
+1235    5.7  0.6  0.0  ZM_Stowaway_12                      3   161     (2) + DTT_ZM00026_consensus     Unspecified         1    160     (0) 1716  
+552   13.8  0.0  0.0  ZM_Stowaway_17                      3    82     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1721  
+400    3.6  0.0 33.3  ZM_Stowaway_18                      1    84     (0) + DTA_ZM00106_consensus     Unspecified       432    494   (413) 1722  
+586    6.2  0.0  3.8  ZM_Stowaway_2                       3    85     (2) C DTT_ZM00055_consensus     Unspecified       (0)     80       1 1724  
+410   17.5  0.0  0.0  ZM_Stowaway_20                      3    82     (2) + DTT_ZM00048_consensus     Unspecified         1     80     (0) 1725  
+588    8.9  0.0  1.3  ZM_Stowaway_21                      3    82     (3) C DTT_ZM00037_consensus     Unspecified       (0)     80       2 1726  
+521   16.2  0.0  0.0  ZM_Stowaway_22                      3    82     (2) + DTT_ZM00037_consensus     Unspecified         1     80     (0) 1727  
+633    8.6  0.0  0.0  ZM_Stowaway_25                      1    81     (3) C DTT_ZM00010_consensus     Unspecified      (37)     82       2 1730  
+516   17.5  0.0  0.0  ZM_Stowaway_26                      3    82     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1731  
+1188   10.1  0.0  0.0  ZM_Stowaway_30                      3   161     (2) + DTT_ZM00044_consensus     Unspecified         1    159     (0) 1736  
+605   11.0  0.0  0.0  ZM_Stowaway_33                      1    82     (2) C DTT_ZM00010_consensus     Unspecified      (37)     82       1 1739  
+584    6.3  0.0  5.0  ZM_Stowaway_35                      3    86     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1741  
+527   13.8  0.0  0.0  ZM_Stowaway_42                      3    82     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1749  
+1053    9.5  1.3  0.0  ZM_Stowaway_43                      3   160     (2) + DTT_ZM00026_consensus     Unspecified         1    160     (0) 1750  
+525   16.2  0.0  0.0  ZM_Stowaway_45                      3    82     (2) C DTT_ZM00031_consensus     Unspecified       (0)     80       1 1752  
+363    5.3  0.0 33.3  ZM_Stowaway_46                      1    84     (0) + DTA_ZM00106_consensus     Unspecified       432    494   (413) 1753  
+520   13.9  0.0  1.3  ZM_Stowaway_49                      4    83     (2) + DTT_ZM00037_consensus     Unspecified         2     80     (0) 1756  
+640    7.5  0.0  0.0  ZM_Stowaway_5                       3    82     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1757  
+500   15.0  0.0  0.0  ZM_Stowaway_51                      3    82     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1759  
+566   12.5  0.0  0.0  ZM_Stowaway_53                      3    82     (2) + DTT_ZM00048_consensus     Unspecified         1     80     (0) 1761  
+531    8.8  0.0  5.0  ZM_Stowaway_54                      3    86     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1762  
+525   16.2  0.0  0.0  ZM_Stowaway_57                      3    82     (2) + DTT_ZM00037_consensus     Unspecified         1     80     (0) 1765  
+1360    5.2  5.8  0.0  ZM_Stowaway_6                       3   174     (2) + DTT_ZM00056_consensus     Unspecified         1    182     (0) 1768  
+1145   12.3  7.1  0.0  ZM_Stowaway_62                      3   172     (2) + DTT_ZM00056_consensus     Unspecified         1    182     (0) 1771  
+504   16.2  0.0  0.0  ZM_Stowaway_65                      3    82     (2) + DTT_ZM00037_consensus     Unspecified         1     80     (0) 1774  
+2090    5.7  0.0  0.0  ZM_Stowaway_66                      3   248     (2) + DTT_ZM00038_consensus     Unspecified         1    246     (0) 1775  
+936   12.8  2.6  0.0  ZM_Stowaway_68                      3   158     (2) C DTT_ZM00026_consensus     Unspecified       (0)    160       1 1777  
+2258    8.7  3.0  4.8  ZM_Stowaway_69                      3   339     (2) + DTT_ZM00021_consensus     Unspecified         1    331     (0) 1778  
+2523    8.2  0.3  1.8  ZM_Stowaway_7                       3   338     (2) + DTT_ZM00021_consensus     Unspecified         1    331     (0) 1779  
+569    5.1  0.0 10.1  ZM_Stowaway_75                      4    90     (2) + DTT_ZM00037_consensus     Unspecified         2     80     (0) 1785  
+984   12.0  1.3  0.0  ZM_Stowaway_76                      3   160     (2) C DTT_ZM00030_consensus     Unspecified       (0)    160       1 1786  
+970   10.5  5.3  0.0  ZM_Stowaway_77                      3   154     (2) C DTT_ZM00026_consensus     Unspecified       (0)    160       1 1787  
+545   12.5  0.0  0.0  ZM_Stowaway_79                      3    82     (2) + DTT_ZM00048_consensus     Unspecified         1     80     (0) 1789  
+2186    1.2  0.4  0.4  ZM_Stowaway_8                       3   261     (2) + DTT_ZM00012_consensus     Unspecified         1    259     (0) 1790  
+1342    4.4  0.0  0.0  ZM_Stowaway_80                      3   162     (2) + DTT_ZM00027_consensus     Unspecified         1    160     (0) 1791  
+1072   12.5  0.0  0.0  ZM_Stowaway_82                      3   162     (2) C DTT_ZM00030_consensus     Unspecified       (0)    160       1 1793  
+2485    3.5  0.0  0.7  ZM_Stowaway_85                      3   290    (11) + DTT_ZM00021_consensus     Unspecified         1    286    (45) 1796  
+2769    1.6  5.1  0.0  ZM_Stowaway_86                      3   317     (2) + DTT_ZM00021_consensus     Unspecified         1    331     (0) 1797  
+927   16.2  0.0  0.0  ZM_Stowaway_88                      3   162     (2) C DTT_ZM00026_consensus     Unspecified       (0)    160       1 1799  
+625    7.5  0.0  0.0  ZM_Stowaway_9                       3    82     (2) C DTT_ZM00055_consensus     Unspecified       (0)     80       1 1801  
+505   13.8  0.0  0.0  ZM_Stowaway_92                      2    81     (2) C DTT_ZM00037_consensus     Unspecified       (0)     80       1 1804  
+1010   11.3  0.6  1.2  ZM_Stowaway_95                      3   163     (2) + DTT_ZM00026_consensus     Unspecified         1    160     (0) 1806  
+629    5.1  0.0  1.3  ZM_Stowaway_96                      3    82     (2) + DTT_ZM00040_consensus     Unspecified         1     79     (0) 1807  
+906   15.0  0.0  0.6  ZM_Stowaway_99                      3   163     (2) C DTT_ZM00026_consensus     Unspecified       (0)    160       1 1810  
+972    6.0  0.0  0.0  ZM_Tourist_1                        1   117     (0) C DTH_ZM00276_consensus     Unspecified       (0)    117       1 1811  
+2697    7.6  0.0  0.0  ZM_Tourist_10                       4   345     (3) C DTH_ZM00311_consensus     Unspecified       (0)    342       1 1812  
+742   15.4  0.0  0.0  ZM_Tourist_13                       4   120     (3) C DTH_ZM00276_consensus     Unspecified       (0)    117       1 1816  
+5033    2.5  0.0  0.2  ZM_Tourist_14                       4   567     (3) C DTH_ZM00101_consensus     Unspecified       (0)    563       1 1817  
+720   13.9  0.9  0.9  ZM_Tourist_16                       4   119     (3) + DTH_ZM00249_consensus     Unspecified         1    116     (0) 1819  
+2486    2.8  0.0  0.0  ZM_Tourist_17                       4   289     (3) + DTH_ZM00162_consensus     Unspecified         1    286     (0) 1820  
+393   19.2  0.9  3.8  ZM_Tourist_2                        4   111   (250) C DTH_ZM00244_consensus     Unspecified       (0)    582     478 1823  
+1009   14.4  0.6  0.0  ZM_Tourist_2                      186   358     (3) + DTH_ZM00292_consensus     Unspecified       428    601     (0) 1824  
+279   15.4  3.7  3.7  ZM_Tourist_20                     209   289     (3) + DTH_ZM00162_consensus     Unspecified       206    286     (0) 1825  
+717   11.2  0.0  0.0  ZM_Tourist_21                       4   101     (3) + DTH_ZM00460_consensus     Unspecified         1     98     (0) 1826  
+714   11.4  1.7  0.9  ZM_Tourist_23                       4   118     (3) C DTH_ZM00249_consensus     Unspecified       (0)    116       1 1828  
+814   12.8  0.0  0.0  ZM_Tourist_24                       4   120     (3) C DTH_ZM00276_consensus     Unspecified       (0)    117       1 1829  
+1698   15.8  2.9  2.3  ZM_Tourist_25                       4   347     (3) C DTH_ZM00093_consensus     Unspecified       (0)    346       1 1830  
+1439    3.1  0.0  0.0  ZM_Tourist_26                       4   165   (239) + DTH_ZM00194_consensus     Unspecified         1    162   (171) 1832  
+1192    2.2  0.0  0.7  ZM_Tourist_26                     266   401     (3) + DTH_ZM00194_consensus     Unspecified       199    333     (0) 1834  
+830   12.8  0.0  0.0  ZM_Tourist_3                        4   120     (3) C DTH_ZM00276_consensus     Unspecified       (0)    117       1 1837  
+645   18.8  0.0  0.8  ZM_Tourist_30                       4   121     (3) + DTH_ZM00276_consensus     Unspecified         1    117     (0) 1838  
+1462    3.1  0.0  0.0  ZM_Tourist_31                       4   165   (250) + DTH_ZM00194_consensus     Unspecified         1    162   (171) 1840  
+1232    2.2  0.0  0.0  ZM_Tourist_31                     278   412     (3) + DTH_ZM00194_consensus     Unspecified       199    333     (0) 1842  
+649   15.7  0.9  0.9  ZM_Tourist_32                       4   119     (3) C DTH_ZM00249_consensus     Unspecified       (0)    116       1 1843  
+1016   12.3  0.0  0.0  ZM_Tourist_34                       4   157   (218) C DTH_ZM00236_consensus     Unspecified       (0)    801     648 1847  
+549   20.0  0.9  0.0  ZM_Tourist_35                     271   380     (3) C DTH_ZM00311_consensus     Unspecified     (231)    111       1 1849  
+1889   17.3  0.7  4.9  ZM_Tourist_36                       4   409     (3) + DTH_ZM00367_consensus     Unspecified         1    390     (0) 1850  
+635   17.8  0.8  0.8  ZM_Tourist_38                       4   122     (3) C DTH_ZM00348_consensus     Unspecified       (0)    119       1 1853  
+1102    8.3  1.9  0.0  ZM_Tourist_39                       4   160   (394) + DTH_ZM00292_consensus     Unspecified         1    160   (441) 1854  
+1544   17.3  5.3  7.6  ZM_Tourist_39                     177   551     (3) + DTH_ZM00292_consensus     Unspecified       235    601     (0) 1855  
+799   12.1  0.0  0.9  ZM_Tourist_4                        4   120     (3) + DTH_ZM00249_consensus     Unspecified         1    116     (0) 1856  
+1243    1.5  0.0  0.0  ZM_Tourist_41                       4   138   (278) C DTH_ZM00194_consensus     Unspecified       (0)    333     199 1858  
+1483    1.9  0.0  0.0  ZM_Tourist_41                     252   413     (3) C DTH_ZM00194_consensus     Unspecified     (171)    162       1 1860  
+2417    9.7  0.8  3.5  ZM_Tourist_42                       4   354     (3) + DTH_ZM00311_consensus     Unspecified         1    342     (0) 1861  
+2694    9.3  0.5  1.0  ZM_Tourist_45                       4   393     (3) + DTH_ZM00331_consensus     Unspecified         1    388     (0) 1865  
+2347    7.7  5.9  0.3  ZM_Tourist_49                       4   327     (3) C DTH_ZM00311_consensus     Unspecified       (0)    342       1 1871  
+577   15.7  1.7  0.8  ZM_Tourist_5                      176   291     (0) + DTH_ZM00031_consensus     Unspecified      4343   4459     (0) 1873  
+988   11.6  0.5  6.3  ZM_Tourist_50                       4   187   (185) C DTH_ZM00292_consensus     Unspecified       (0)    601     428 1874  
+257   17.9  0.8 24.5  ZM_Tourist_50                     244   369     (3) C DTH_ZM00244_consensus     Unspecified     (480)    102       1 1875 *
+436   17.3  0.9  3.8  ZM_Tourist_50                     262   369     (3) + DTH_ZM00244_consensus     Unspecified       478    582     (0) 1876  
+1161   17.4  0.5  0.0  ZM_Tourist_51                       1   207   (512) C DTH_ZM00030_consensus     Unspecified       (0)   4466    4259 1877  
+952   16.8  1.6  1.6  ZM_Tourist_51                     538   719     (0) C DTH_ZM00030_consensus     Unspecified    (4284)    182       1 1878  
+3360    3.9  0.0  0.3  ZM_Tourist_52                       4   394     (3) + DTH_ZM00367_consensus     Unspecified         1    390     (0) 1879  
+2490    9.9  0.3  0.0  ZM_Tourist_55                       4   348     (3) C DTH_ZM00093_consensus     Unspecified       (0)    346       1 1882  
+664   19.5  0.8  0.0  ZM_Tourist_56                       4   121     (3) + DTH_ZM00348_consensus     Unspecified         1    119     (0) 1883  
+717   14.2  3.5  0.0  ZM_Tourist_57                       4   116     (3) C DTH_ZM00276_consensus     Unspecified       (0)    117       1 1884  
+763   14.7  0.0  0.9  ZM_Tourist_59                       4   120     (3) + DTH_ZM00249_consensus     Unspecified         1    116     (0) 1888  
+745   10.5  1.7  0.9  ZM_Tourist_6                        4   118     (3) + DTH_ZM00249_consensus     Unspecified         1    116     (0) 1889  
+694   16.4  0.9  0.0  ZM_Tourist_60                       4   119     (3) + DTH_ZM00276_consensus     Unspecified         1    117     (0) 1890  
+867   18.5  0.6  0.6  ZM_Tourist_61                       1   174   (195) + DTH_ZM00004_consensus     Unspecified         1    174  (4910) 1891 *
+949   14.3  0.0  0.0  ZM_Tourist_61                       1   154   (215) C DTH_ZM00236_consensus     Unspecified       (0)    801     648 1892  
+707   17.5  1.4  1.4  ZM_Tourist_61                     231   369     (0) + DTH_ZM00004_consensus     Unspecified      4946   5084     (0) 1894  
+1151   16.6  0.0  0.0  ZM_Tourist_62                       1   181   (155) C DTH_ZM00014_consensus     Unspecified       (0)   3642    3462 1895  
+1108    7.5  0.7  0.0  ZM_Tourist_62                     191   336     (0) C DTH_ZM00014_consensus     Unspecified    (3495)    147       1 1896  
+1582    9.1  0.5  0.0  ZM_Tourist_63                       1   221   (211) C DTH_ZM00019_consensus     Unspecified       (3)   4372    4151 1897  
+1397    6.0  0.0  0.0  ZM_Tourist_63                     251   432     (0) C DTH_ZM00019_consensus     Unspecified    (4190)    185       4 1899  
+1700    2.5  0.0  0.5  ZM_Tourist_64                       1   204   (337) C DTH_ZM00020_consensus     Unspecified       (3)   4040    3838 1900  
+942    1.9  0.0  0.0  ZM_Tourist_64                     197   304   (237) C DTH_ZM00020_consensus     Unspecified     (256)   3787    3680 1901 *
+1992    2.1  0.0  1.7  ZM_Tourist_64                     300   541     (0) C DTH_ZM00020_consensus     Unspecified    (3802)    241       4 1902  
+2241    3.6  7.5  0.0  ZM_Tourist_65                       4   282   (152) C DTH_ZM00320_consensus     Unspecified       (0)    300       1 1903  
+833   16.1  0.7  0.0  ZM_Tourist_65                     283   431     (3) C DTH_ZM00409_consensus     Unspecified      (29)    150       1 1904  
+5149    1.4  0.0  0.4  ZM_Tourist_66                       1   565     (0) + DTH_ZM00101_consensus     Unspecified         1    563     (0) 1905  
+1550    0.9  0.0  0.4  ZM_Tourist_67                       1   231   (251) C DTH_ZM00025_consensus     Unspecified       (0)   2018    1789 1906  
+2250    0.4  0.0  0.0  ZM_Tourist_67                     233   476     (6) C DTH_ZM00025_consensus     Unspecified    (1774)    244       1 1907  
+634   17.2  0.8  1.7  ZM_Tourist_8                        4   121     (3) C DTH_ZM00276_consensus     Unspecified       (0)    117       1 1910  
+414   19.2  0.9  2.9  ZM_Tourist_9                        4   110   (272) C DTH_ZM00244_consensus     Unspecified       (0)    582     478 1911  
+1038   12.7  0.6  0.0  ZM_Tourist_9                      207   379     (3) + DTH_ZM00292_consensus     Unspecified       428    601     (0) 1912  
+38595    0.0  0.0  0.0  ZM_hAT_1                            9  4112     (7) + DTA_ZM00001_consensus     Unspecified         1   4104     (0) 1913  
+35757    0.1  0.0  0.0  ZM_hAT_10                           9  3806   (245) + DTA_ZM00010_consensus     Unspecified         1   3798   (238) 1914  
+1738    0.0  0.0  0.0  ZM_hAT_10                        3856  4044     (7) + DTA_ZM00010_consensus     Unspecified      3848   4036     (0) 1916 *
+38291    0.0  0.0  0.0  ZM_hAT_11                           9  4072     (7) + DTA_ZM00011_consensus     Unspecified         1   4064     (0) 1917  
+38256    0.0  0.0  0.0  ZM_hAT_12                           9  4064     (7) + DTA_ZM00012_consensus     Unspecified         1   4056     (0) 1918  
+37847    0.0  0.0  0.0  ZM_hAT_13                           9  4022     (7) + DTA_ZM00013_consensus     Unspecified         1   4014     (0) 1919  
+40824    0.0  0.0  0.0  ZM_hAT_14                           9  4352     (7) + DTA_ZM00014_consensus     Unspecified         1   4344     (0) 1920  
+30893    0.0  0.0  0.0  ZM_hAT_15                           9  3295     (7) + DTA_ZM00015_consensus     Unspecified         1   3287     (0) 1921  
+35830    0.0  0.0  0.0  ZM_hAT_16                           9  3824     (7) + DTA_ZM00016_consensus     Unspecified         1   3816     (0) 1922  
+37771    0.0  0.0  0.0  ZM_hAT_17                           9  4023     (7) + DTA_ZM00017_consensus     Unspecified         1   4015     (0) 1923  
+33328    0.0  0.0  0.0  ZM_hAT_18                           9  3547     (7) + DTA_ZM00018_consensus     Unspecified         1   3539     (0) 1924  
+34587    0.0  0.0  0.0  ZM_hAT_19                           9  3680     (7) + DTA_ZM00019_consensus     Unspecified         1   3672     (0) 1925  
+28897    0.0  0.0  0.0  ZM_hAT_2                            9  3078     (7) + DTA_ZM00002_consensus     Unspecified         1   3070     (0) 1926  
+35461    0.0  0.0  0.0  ZM_hAT_20                           9  3774     (7) + DTA_ZM00020_consensus     Unspecified         1   3766     (0) 1927  
+34422    0.0  0.0  0.0  ZM_hAT_21                           9  3671     (7) + DTA_ZM00021_consensus     Unspecified         1   3663     (0) 1928  
+35282    0.0  0.0  0.0  ZM_hAT_22                           9  3760     (7) + DTA_ZM00022_consensus     Unspecified         1   3752     (0) 1929  
+27421    0.0  0.0  0.0  ZM_hAT_23                           9  2942   (886) + DTA_ZM00023_consensus     Unspecified         1   2934   (879) 1930  
+6875    0.0  0.0  0.0  ZM_hAT_23                        3058  3821     (7) + DTA_ZM00023_consensus     Unspecified      3050   3813     (0) 1932  
+38167    0.0  0.0  0.0  ZM_hAT_24                           9  4081     (7) + DTA_ZM00024_consensus     Unspecified         1   4073     (0) 1933  
+32771    1.0  1.3  0.1  ZM_hAT_25                           9   487  (3211) + DTA_ZM00025_consensus     Unspecified         1    523  (3160) 1934  
+32771    1.0  1.3  0.1  ZM_hAT_25                         534  3691     (7) + DTA_ZM00025_consensus     Unspecified       524   3682     (1) 1934  
+32384    1.1  1.6  0.4  ZM_hAT_26                           9  3164   (537) C DTA_ZM00025_consensus     Unspecified       (1)   3682     525 1936  
+32384    1.1  1.6  0.4  ZM_hAT_26                        3211  3693     (8) C DTA_ZM00025_consensus     Unspecified    (3159)    524       2 1936  
+35469    0.0  0.0  0.0  ZM_hAT_27                           9  3778     (7) + DTA_ZM00026_consensus     Unspecified         1   3770     (0) 1938  
+44006    0.0  0.0  0.0  ZM_hAT_28                           9  4725     (7) + DTA_ZM00027_consensus     Unspecified         1   4717     (0) 1939  
+37657    0.0  0.0  0.0  ZM_hAT_29                           9  4019     (7) + DTA_ZM00028_consensus     Unspecified         1   4011     (0) 1940  
+6948    0.0  0.0  0.0  ZM_hAT_3                            9   755     (7) + DTA_ZM00003_consensus     Unspecified         1    747     (0) 1941  
+37918    0.0  0.0  0.0  ZM_hAT_30                           9  4054     (7) + DTA_ZM00029_consensus     Unspecified         1   4046     (0) 1942  
+34236    0.0  0.0  0.0  ZM_hAT_31                           9  3652     (7) + DTA_ZM00030_consensus     Unspecified         1   3644     (0) 1943  
+35849    0.0  0.0  0.0  ZM_hAT_32                           9  3821     (7) + DTA_ZM00031_consensus     Unspecified         1   3813     (0) 1944  
+32840    0.0  0.0  0.0  ZM_hAT_33                           9  3492     (7) + DTA_ZM00032_consensus     Unspecified         1   3484     (0) 1945  
+35057    0.0  0.8  0.0  ZM_hAT_34                           9   530  (3263) + DTA_ZM00033_consensus     Unspecified         1    522  (3256) 1946  
+35057    0.0  0.8  0.0  ZM_hAT_34                         563  3786     (7) + DTA_ZM00033_consensus     Unspecified       523   3777     (1) 1946  
+33945    0.0  0.0  0.0  ZM_hAT_35                           9  3610     (7) + DTA_ZM00034_consensus     Unspecified         1   3602     (0) 1948  
+34372    0.0  0.0  0.0  ZM_hAT_36                           9  3657     (7) + DTA_ZM00035_consensus     Unspecified         1   3649     (0) 1949  
+2658    0.0  0.0  0.0  ZM_hAT_37                           9   295  (3148) + DTA_ZM00036_consensus     Unspecified         1    287  (3141) 1950 *
+28815    0.0  0.0  0.0  ZM_hAT_37                         368  3436     (7) + DTA_ZM00036_consensus     Unspecified       359   3427     (1) 1951  
+31601    0.0  0.0  0.0  ZM_hAT_38                           9  3381     (7) + DTA_ZM00037_consensus     Unspecified         1   3373     (0) 1953  
+31749    0.0  0.0  0.0  ZM_hAT_39                           9  3398     (7) + DTA_ZM00038_consensus     Unspecified         1   3390     (0) 1954  
+6319    0.0  0.0  0.0  ZM_hAT_4                            9   698  (4511) + DTA_ZM00004_consensus     Unspecified         1    690  (4504) 1955 *
+21859    1.0  0.7  0.1  ZM_hAT_4                          603   698  (4511) + DTA_ZM00004_consensus     Unspecified       640    750  (4444) 1956  
+21859    1.0  0.7  0.1  ZM_hAT_4                          760  3105  (2104) + DTA_ZM00004_consensus     Unspecified       751   3096  (2098) 1956  
+18284    0.0  1.6  0.0  ZM_hAT_4                         3158  3882  (1327) + DTA_ZM00004_consensus     Unspecified      3150   3907  (1287) 1959  
+18284    0.0  1.6  0.0  ZM_hAT_4                         3917  5202     (7) + DTA_ZM00004_consensus     Unspecified      3908   5193     (1) 1959  
+28531    0.0  0.0  0.0  ZM_hAT_40                           9  3049     (7) + DTA_ZM00039_consensus     Unspecified         1   3041     (0) 1961  
+7317    0.0  0.0  0.0  ZM_hAT_5                            9   791     (7) + DTA_ZM00005_consensus     Unspecified         1    783     (0) 1962  
+25021    0.0  0.0  0.1  ZM_hAT_6                            9  2708  (1323) + DTA_ZM00006_consensus     Unspecified         1   2700  (1316) 1963  
+11841    0.5  0.1  0.0  ZM_hAT_6                         2774  4024     (7) + DTA_ZM00006_consensus     Unspecified      2765   4015     (1) 1965 *
+34687    0.0  0.0  0.0  ZM_hAT_7                            9  3707     (7) + DTA_ZM00007_consensus     Unspecified         1   3699     (0) 1966  
+38190    0.1  1.0  0.0  ZM_hAT_8                            9  2713  (1463) + DTA_ZM00008_consensus     Unspecified         1   2705  (1456) 1967  
+38190    0.1  1.0  0.0  ZM_hAT_8                         2755  4169     (7) + DTA_ZM00008_consensus     Unspecified      2706   4160     (1) 1967  
+34793    0.0  0.0  0.0  ZM_hAT_9                            9  3734     (7) + DTA_ZM00009_consensus     Unspecified         1   3726     (0) 1969  
+5320    6.8  1.2  0.4  ZM_hAT_noncoding_1                  9   697     (8) C DTA_ZM00172_consensus     Unspecified       (0)    694       1 1970  
+5307    4.8  3.4  0.3  ZM_hAT_noncoding_10                 9   655     (8) C DTA_ZM00373_consensus     Unspecified       (0)    667       1 1971  
+1359    3.9  0.0  0.0  ZM_hAT_noncoding_100                9   164     (8) C DTA_ZM00243_consensus     Unspecified       (0)    156       1 1972  
+905   14.7  2.4  1.2  ZM_hAT_noncoding_101                9   173     (8) C DTA_ZM00339_consensus     Unspecified       (0)    167       1 1973  
+2552   12.2  6.0  1.4  ZM_hAT_noncoding_102                9   406     (8) + DTA_ZM00325_consensus     Unspecified         1    416     (0) 1974  
+3964    6.9  2.0  0.4  ZM_hAT_noncoding_103                9   506    (27) C DTA_ZM00165_consensus     Unspecified       (0)    572      67 1975  
+1465    6.7  0.4 14.4  ZM_hAT_noncoding_104                9   253   (281) + DTA_ZM00281_consensus     Unspecified         1    215   (164) 1977 *
+1530    1.2  0.0  0.0  ZM_hAT_noncoding_104                9   178   (356) + DTA_ZM00349_consensus     Unspecified         1    170   (389) 1978  
+304   15.0  2.5  0.0  ZM_hAT_noncoding_104              189   268   (266) + DTA_ZM00036_consensus     Unspecified       278    359  (3069) 1979 *
+1819    1.4  0.4  4.5  ZM_hAT_noncoding_104              298   526     (8) + DTA_ZM00281_consensus     Unspecified       160    379     (0) 1991  
+1555    1.7  0.0  0.0  ZM_hAT_noncoding_105                9   186     (8) C DTA_ZM00109_consensus     Unspecified       (0)    178       1 1992  
+3912    4.3  0.0  0.4  ZM_hAT_noncoding_106              278   747     (8) C DTA_ZM00155_consensus     Unspecified     (146)    468       1 1995  
+6535    3.2  2.9  0.5  ZM_hAT_noncoding_107                9   804     (8) C DTA_ZM00140_consensus     Unspecified       (0)    815       1 1996  
+1349    3.7  6.1  0.0  ZM_hAT_noncoding_108                9   171     (8) C DTA_ZM00345_consensus     Unspecified       (0)    173       1 1997  
+1156   13.0  0.0  2.2  ZM_hAT_noncoding_109                9   197     (8) + DTA_ZM00142_consensus     Unspecified         1    185     (0) 1998  
+3965    4.2  2.7  0.0  ZM_hAT_noncoding_11                 9   490    (25) C DTA_ZM00098_consensus     Unspecified       (0)    559      65 1999  
+327   19.6  5.5  2.6  ZM_hAT_noncoding_11               394   503    (12) C DTA_ZM00177_consensus     Unspecified     (351)    167      55 2000 *
+6362    4.6  1.6  0.0  ZM_hAT_noncoding_110                9   762     (8) C DTA_ZM00354_consensus     Unspecified       (0)    766       1 2002  
+6621    0.6  1.1  0.3  ZM_hAT_noncoding_112                9   739     (8) + DTA_ZM00193_consensus     Unspecified         1    737     (0) 2006  
+3037    2.8  0.6  0.0  ZM_hAT_noncoding_113                9   369     (8) C DTA_ZM00163_consensus     Unspecified       (0)    363       1 2007  
+5190    8.1  5.3  1.5  ZM_hAT_noncoding_114                9   731     (8) + DTA_ZM00235_consensus     Unspecified         1    750     (0) 2008  
+1537   10.0  0.0  0.0  ZM_hAT_noncoding_115                9   218     (8) + DTA_ZM00274_consensus     Unspecified         1    210     (0) 2009  
+4326    4.2  3.3  0.0  ZM_hAT_noncoding_116                9   529     (8) C DTA_ZM00169_consensus     Unspecified       (0)    538       1 2010  
+3560    6.7 12.7  0.0  ZM_hAT_noncoding_117                9   127   (409) C DTA_ZM00098_consensus     Unspecified       (0)    559     426 2011  
+3560    6.7 12.7  0.0  ZM_hAT_noncoding_117              153   528     (8) C DTA_ZM00098_consensus     Unspecified     (134)    425       2 2011  
+3412    4.4  4.4  0.5  ZM_hAT_noncoding_119               34   463     (8) + DTA_ZM00098_consensus     Unspecified       113    559     (0) 2015  
+4463    2.9  0.2  0.2  ZM_hAT_noncoding_12                 9   524     (8) C DTA_ZM00261_consensus     Unspecified       (0)    516       1 2016  
+3076   11.0  5.3  4.7  ZM_hAT_noncoding_120                9   495     (8) C DTA_ZM00334_consensus     Unspecified       (0)    490       1 2017  
+3664    3.2  3.4  7.5  ZM_hAT_noncoding_121                9   509     (8) + DTA_ZM00100_consensus     Unspecified         1    482     (0) 2018  
+2217   13.2 15.1  2.9  ZM_hAT_noncoding_122                9   446     (8) + DTA_ZM00334_consensus     Unspecified         1    490     (0) 2019  
+4949    2.2  3.9  0.3  ZM_hAT_noncoding_123                9   595     (8) + DTA_ZM00342_consensus     Unspecified         1    608     (0) 2020  
+3278    5.2  3.7  3.2  ZM_hAT_noncoding_124               15   474     (8) + DTA_ZM00177_consensus     Unspecified        57    518     (0) 2021  
+1548    3.6  0.0  2.1  ZM_hAT_noncoding_125                9   191   (389) C DTA_ZM00349_consensus     Unspecified       (0)    559     381 2022  
+930   16.9  2.8  6.3  ZM_hAT_noncoding_125              359   572     (8) C DTA_ZM00281_consensus     Unspecified     (172)    207       1 2026  
+5393    2.8  3.1  0.0  ZM_hAT_noncoding_126                9   625     (8) + DTA_ZM00311_consensus     Unspecified         1    636     (0) 2027  
+3922    4.4  2.2  6.2  ZM_hAT_noncoding_127                9   546     (8) C DTA_ZM00177_consensus     Unspecified       (0)    518       1 2028  
+5736    4.5  0.3  0.6  ZM_hAT_noncoding_128               63   753     (8) C DTA_ZM00242_consensus     Unspecified      (93)    689       1 2030  
+4334    3.9  1.0  0.0  ZM_hAT_noncoding_13                 9   521     (8) C DTA_ZM00177_consensus     Unspecified       (0)    518       1 2034  
+5760    6.6  2.9  3.1  ZM_hAT_noncoding_130                9   793     (8) + DTA_ZM00135_consensus     Unspecified         1    784     (0) 2035  
+5988    3.1  0.0  0.1  ZM_hAT_noncoding_131                9   684     (8) C DTA_ZM00333_consensus     Unspecified       (0)    675       1 2036  
+930   16.9  2.8  6.3  ZM_hAT_noncoding_132                9   222   (300) + DTA_ZM00281_consensus     Unspecified         1    207   (172) 2039  
+1637    6.0  1.8  4.1  ZM_hAT_noncoding_132              289   514     (8) + DTA_ZM00281_consensus     Unspecified       159    379     (0) 2040  
+401    9.8  5.8  5.8  ZM_hAT_noncoding_133                9    95   (365) + DTA_ZM00012_consensus     Unspecified         1     87  (3969) 2041 *
+3237    7.5  2.6  0.7  ZM_hAT_noncoding_133               24   452     (8) C DTA_ZM00334_consensus     Unspecified      (53)    437       1 2042  
+5545    4.2  0.8  0.8  ZM_hAT_noncoding_134                9   673     (8) + DTA_ZM00222_consensus     Unspecified         1    665     (0) 2043  
+5223    2.8  1.5  0.0  ZM_hAT_noncoding_135                9   613     (8) + DTA_ZM00111_consensus     Unspecified         1    614     (0) 2044  
+4680    4.1  1.5  0.0  ZM_hAT_noncoding_136                9   548     (8) C DTA_ZM00086_consensus     Unspecified       (0)    548       1 2045  
+1376    2.6  0.0  0.6  ZM_hAT_noncoding_137                9   165     (8) C DTA_ZM00378_consensus     Unspecified       (0)    156       1 2046  
+5451    2.4  2.1  0.0  ZM_hAT_noncoding_138                9   634     (8) + DTA_ZM00254_consensus     Unspecified         1    639     (0) 2047  
+4653    4.0  2.6  0.0  ZM_hAT_noncoding_139                9   553     (8) + DTA_ZM00349_consensus     Unspecified         1    559     (0) 2048  
+5495    4.1  0.0  0.0  ZM_hAT_noncoding_14                 9   647     (8) C DTA_ZM00254_consensus     Unspecified       (0)    639       1 2049  
+4321    4.0  5.7  0.0  ZM_hAT_noncoding_140                9   537     (8) C DTA_ZM00098_consensus     Unspecified       (0)    559       1 2050  
+4469    2.6  6.1  0.0  ZM_hAT_noncoding_141                9   546     (8) + DTA_ZM00188_consensus     Unspecified         1    571     (0) 2051  
+6988    0.6  2.0  0.4  ZM_hAT_noncoding_142                9   804     (8) C DTA_ZM00366_consensus     Unspecified       (0)    809       1 2052  
+5357    6.2  2.2  0.3  ZM_hAT_noncoding_143                9   689     (8) + DTA_ZM00172_consensus     Unspecified         1    694     (0) 2053  
+5051    2.6  0.3  5.8  ZM_hAT_noncoding_144                9   659     (8) + DTA_ZM00199_consensus     Unspecified         1    617     (0) 2054  
+6465    0.3  1.8  0.4  ZM_hAT_noncoding_145               88   807     (8) + DTA_ZM00366_consensus     Unspecified        79    808     (1) 2055  
+6197    3.2  3.7  0.0  ZM_hAT_noncoding_146                9   731     (8) + DTA_ZM00235_consensus     Unspecified         1    750     (0) 2057  
+4821    2.2  0.0  0.0  ZM_hAT_noncoding_147                9   546     (8) + DTA_ZM00292_consensus     Unspecified         1    538     (0) 2058  
+1359    3.9  0.0  0.0  ZM_hAT_noncoding_148                9   164     (8) C DTA_ZM00243_consensus     Unspecified       (0)    156       1 2059  
+905   14.7  2.4  1.2  ZM_hAT_noncoding_149                9   173     (8) C DTA_ZM00339_consensus     Unspecified       (0)    167       1 2060  
+4980    0.6  0.0  0.0  ZM_hAT_noncoding_15                 9   544     (8) + DTA_ZM00314_consensus     Unspecified         1    536     (0) 2061  
+2552   12.2  6.0  1.4  ZM_hAT_noncoding_150                9   406     (8) + DTA_ZM00325_consensus     Unspecified         1    416     (0) 2062  
+3964    6.9  2.0  0.4  ZM_hAT_noncoding_151                9   506    (27) C DTA_ZM00165_consensus     Unspecified       (0)    572      67 2063  
+1465    6.7  0.4 14.4  ZM_hAT_noncoding_152                9   253   (281) + DTA_ZM00281_consensus     Unspecified         1    215   (164) 2065 *
+1530    1.2  0.0  0.0  ZM_hAT_noncoding_152                9   178   (356) + DTA_ZM00349_consensus     Unspecified         1    170   (389) 2066  
+304   15.0  2.5  0.0  ZM_hAT_noncoding_152              189   268   (266) + DTA_ZM00036_consensus     Unspecified       278    359  (3069) 2067 *
+1819    1.4  0.4  4.5  ZM_hAT_noncoding_152              298   526     (8) + DTA_ZM00281_consensus     Unspecified       160    379     (0) 2079  
+1555    1.7  0.0  0.0  ZM_hAT_noncoding_153                9   186     (8) C DTA_ZM00109_consensus     Unspecified       (0)    178       1 2080  
+3912    4.3  0.0  0.4  ZM_hAT_noncoding_154              278   747     (8) C DTA_ZM00155_consensus     Unspecified     (146)    468       1 2083  
+6535    3.2  2.9  0.5  ZM_hAT_noncoding_155                9   804     (8) C DTA_ZM00140_consensus     Unspecified       (0)    815       1 2084  
+1349    3.7  6.1  0.0  ZM_hAT_noncoding_156                9   171     (8) C DTA_ZM00345_consensus     Unspecified       (0)    173       1 2085  
+1156   13.0  0.0  2.2  ZM_hAT_noncoding_157                9   197     (8) + DTA_ZM00142_consensus     Unspecified         1    185     (0) 2086  
+6362    4.6  1.6  0.0  ZM_hAT_noncoding_158                9   762     (8) C DTA_ZM00354_consensus     Unspecified       (0)    766       1 2087  
+2921   13.5  3.2  5.1  ZM_hAT_noncoding_16                 9   507     (8) C DTA_ZM00334_consensus     Unspecified       (0)    490       1 2091  
+6621    0.6  1.1  0.3  ZM_hAT_noncoding_160                9   739     (8) + DTA_ZM00193_consensus     Unspecified         1    737     (0) 2092  
+3037    2.8  0.6  0.0  ZM_hAT_noncoding_161                9   369     (8) C DTA_ZM00163_consensus     Unspecified       (0)    363       1 2093  
+5190    8.1  5.3  1.5  ZM_hAT_noncoding_162                9   731     (8) + DTA_ZM00235_consensus     Unspecified         1    750     (0) 2094  
+1537   10.0  0.0  0.0  ZM_hAT_noncoding_163                9   218     (8) + DTA_ZM00274_consensus     Unspecified         1    210     (0) 2095  
+4326    4.2  3.3  0.0  ZM_hAT_noncoding_164                9   529     (8) C DTA_ZM00169_consensus     Unspecified       (0)    538       1 2096  
+3560    6.7 12.7  0.0  ZM_hAT_noncoding_165                9   127   (409) C DTA_ZM00098_consensus     Unspecified       (0)    559     426 2097  
+3560    6.7 12.7  0.0  ZM_hAT_noncoding_165              153   528     (8) C DTA_ZM00098_consensus     Unspecified     (134)    425       2 2097  
+3412    4.4  4.4  0.5  ZM_hAT_noncoding_167               34   463     (8) + DTA_ZM00098_consensus     Unspecified       113    559     (0) 2101  
+4495    3.2  4.0  0.0  ZM_hAT_noncoding_168                9   535     (8) + DTA_ZM00139_consensus     Unspecified         1    548     (0) 2102  
+2734    8.6 10.8  4.9  ZM_hAT_noncoding_169                9   472     (8) + DTA_ZM00334_consensus     Unspecified         1    490     (0) 2103  
+6515    0.8  0.0  0.0  ZM_hAT_noncoding_17                 9   714     (8) + DTA_ZM00244_consensus     Unspecified         1    706     (0) 2104  
+6625    0.7  0.8  0.0  ZM_hAT_noncoding_170                9   741    (71) C DTA_ZM00154_consensus     Unspecified       (0)    802      64 2105  
+3587    2.2  0.0 14.8  ZM_hAT_noncoding_171                9   536     (8) + DTA_ZM00324_consensus     Unspecified         1    460     (0) 2108  
+3257    2.7  9.0  7.9  ZM_hAT_noncoding_172                9   485     (8) + DTA_ZM00100_consensus     Unspecified         1    482     (0) 2109  
+4120    2.5  5.9  0.0  ZM_hAT_noncoding_173                9   497     (8) C DTA_ZM00177_consensus     Unspecified       (0)    518       1 2110  
+5658    7.9  4.9  0.3  ZM_hAT_noncoding_174                9   757     (8) C DTA_ZM00135_consensus     Unspecified       (0)    784       1 2111  
+6129    1.2  0.7  0.1  ZM_hAT_noncoding_175                9   696     (8) C DTA_ZM00228_consensus     Unspecified       (0)    692       1 2112  
+4118    2.7  0.0  2.7  ZM_hAT_noncoding_176                9   503     (8) + DTA_ZM00100_consensus     Unspecified         1    482     (0) 2113  
+2950    7.6  2.4  4.3  ZM_hAT_noncoding_177                9   432     (8) C DTA_ZM00325_consensus     Unspecified       (0)    416       1 2114  
+7126    0.8  1.1  0.1  ZM_hAT_noncoding_178                9   792     (8) C DTA_ZM00315_consensus     Unspecified       (0)    792       1 2116  
+2923   10.9  8.8  1.0  ZM_hAT_noncoding_179                9   463     (8) + DTA_ZM00334_consensus     Unspecified         1    490     (0) 2117  
+5647    1.6  1.1  0.0  ZM_hAT_noncoding_18                 9   637     (8) C DTA_ZM00311_consensus     Unspecified       (0)    636       1 2118  
+1954    5.2  0.0  0.0  ZM_hAT_noncoding_180                9   239     (8) + DTA_ZM00124_consensus     Unspecified         1    231     (0) 2119  
+6283    3.1  4.7  0.9  ZM_hAT_noncoding_181                9   793     (8) C DTA_ZM00140_consensus     Unspecified       (0)    815       1 2120  
+1489    2.4  0.0  0.0  ZM_hAT_noncoding_182                9   175     (8) C DTA_ZM00364_consensus     Unspecified       (0)    167       1 2121  
+5578    5.7  4.2  5.7  ZM_hAT_noncoding_183                9   804     (8) + DTA_ZM00135_consensus     Unspecified         1    784     (0) 2122  
+1497    3.5  0.0 16.4  ZM_hAT_noncoding_184                9   249   (274) + DTA_ZM00281_consensus     Unspecified         1    207   (172) 2123 *
+1514    1.8  0.0  0.0  ZM_hAT_noncoding_184                9   178   (345) + DTA_ZM00349_consensus     Unspecified         1    170   (389) 2124  
+328   13.8  2.5  0.0  ZM_hAT_noncoding_184              189   268   (255) + DTA_ZM00036_consensus     Unspecified       278    359  (3069) 2125  
+1699    5.0  0.0  6.3  ZM_hAT_noncoding_184              281   515     (8) + DTA_ZM00281_consensus     Unspecified       159    379     (0) 2132  
+6250    2.5  2.8  0.4  ZM_hAT_noncoding_185                9   728     (8) + DTA_ZM00265_consensus     Unspecified         1    737     (0) 2133  
+6774    1.6  0.0  0.0  ZM_hAT_noncoding_186                9   746     (8) C DTA_ZM00330_consensus     Unspecified       (0)    738       1 2134  
+7368    0.0  0.0  0.0  ZM_hAT_noncoding_187                9   792     (8) C DTA_ZM00214_consensus     Unspecified       (0)    784       1 2135  
+3923    6.5  3.8  0.0  ZM_hAT_noncoding_188                9   170   (379) + DTA_ZM00194_consensus     Unspecified         1    173   (350) 2136  
+3923    6.5  3.8  0.0  ZM_hAT_noncoding_188              201   541     (8) + DTA_ZM00194_consensus     Unspecified       174    522     (1) 2136  
+5039    1.4  0.0  0.0  ZM_hAT_noncoding_189                9   559     (8) C DTA_ZM00224_consensus     Unspecified       (0)    551       1 2138  
+3784    6.1  0.9  7.0  ZM_hAT_noncoding_19                 9   557     (8) C DTA_ZM00177_consensus     Unspecified       (0)    518       1 2139  
+4093    7.8  6.3  0.0  ZM_hAT_noncoding_190                9   544     (8) C DTA_ZM00297_consensus     Unspecified       (0)    570       1 2140  
+5457    4.6  3.4  0.0  ZM_hAT_noncoding_191                9   679     (8) C DTA_ZM00172_consensus     Unspecified       (0)    694       1 2141  
+2273   10.2  0.2  5.7  ZM_hAT_noncoding_2                  9   413     (8) C DTA_ZM00383_consensus     Unspecified       (0)    384       1 2142  
+6459    3.0  0.7  0.0  ZM_hAT_noncoding_20                 9   740     (8) C DTA_ZM00265_consensus     Unspecified       (0)    737       1 2144  
+4783    2.4  0.0  0.0  ZM_hAT_noncoding_21                 9   540     (8) C DTA_ZM00300_consensus     Unspecified       (0)    532       1 2145  
+5196    1.2  0.0  0.0  ZM_hAT_noncoding_22                 9   578     (8) C DTA_ZM00297_consensus     Unspecified       (0)    570       1 2146  
+2528    6.1  9.6  4.6  ZM_hAT_noncoding_23                 9   405     (8) C DTA_ZM00325_consensus     Unspecified       (0)    416       1 2147  
+4719    4.2  6.8  0.3  ZM_hAT_noncoding_24                 9   608     (8) + DTA_ZM00254_consensus     Unspecified         1    639     (0) 2148  
+3001   12.3  1.1  9.0  ZM_hAT_noncoding_25                 9   536     (8) + DTA_ZM00334_consensus     Unspecified         1    490     (0) 2149  
+3164    8.7  2.9  7.3  ZM_hAT_noncoding_26                 9   519     (8) C DTA_ZM00334_consensus     Unspecified       (0)    490       1 2150  
+1641    0.6  0.0  0.0  ZM_hAT_noncoding_27                 9   185     (8) C DTA_ZM00238_consensus     Unspecified       (0)    177       1 2151  
+5060    1.1  0.2  0.2  ZM_hAT_noncoding_28                 9   568     (8) C DTA_ZM00371_consensus     Unspecified       (0)    560       1 2152  
+4108    1.9  0.0  0.2  ZM_hAT_noncoding_29                 9   475     (8) + DTA_ZM00208_consensus     Unspecified         1    466     (0) 2153  
+4553   10.3  4.2  0.0  ZM_hAT_noncoding_3                  9   648     (8) + DTA_ZM00373_consensus     Unspecified         1    667     (0) 2154  
+6312    3.4  2.0  0.4  ZM_hAT_noncoding_30                 9   746     (8) + DTA_ZM00235_consensus     Unspecified         1    750     (0) 2155  
+6286    5.4  0.8  2.8  ZM_hAT_noncoding_31                 9   808     (8) C DTA_ZM00135_consensus     Unspecified       (0)    784       1 2156  
+4022    5.9  0.0  2.5  ZM_hAT_noncoding_32                 9   531     (8) C DTA_ZM00156_consensus     Unspecified       (0)    510       1 2157  
+5105    2.1  0.0  0.0  ZM_hAT_noncoding_33                 9   585     (8) C DTA_ZM00338_consensus     Unspecified       (0)    577       1 2158  
+4571    3.1  0.9  1.5  ZM_hAT_noncoding_34                 9   559     (8) + DTA_ZM00139_consensus     Unspecified         1    548     (0) 2159  
+4735    3.7  7.9  0.2  ZM_hAT_noncoding_35                 9   601     (8) C DTA_ZM00254_consensus     Unspecified       (0)    639       1 2160  
+4258    1.0  5.5  0.0  ZM_hAT_noncoding_37                 9   499     (8) C DTA_ZM00177_consensus     Unspecified       (0)    518       1 2164  
+2851    6.6  0.9  7.2  ZM_hAT_noncoding_38                 9   450     (8) C DTA_ZM00325_consensus     Unspecified       (0)    416       1 2165  
+4964    2.9  0.0  0.0  ZM_hAT_noncoding_39                 9   562     (8) + DTA_ZM00368_consensus     Unspecified         1    554     (0) 2166  
+5601    4.5  0.8  0.8  ZM_hAT_noncoding_4                  9   675     (8) + DTA_ZM00373_consensus     Unspecified         1    667     (0) 2167  
+4959    3.2  0.4  0.0  ZM_hAT_noncoding_40                 9   568     (8) + DTA_ZM00090_consensus     Unspecified         1    562     (0) 2168  
+4693    3.6  0.2  0.0  ZM_hAT_noncoding_41                 9   540     (8) C DTA_ZM00322_consensus     Unspecified       (0)    533       1 2169  
+6061    5.1  2.0  5.2  ZM_hAT_noncoding_42                 9   817     (8) + DTA_ZM00135_consensus     Unspecified         1    784     (0) 2170  
+5434    2.5  0.2  0.0  ZM_hAT_noncoding_43                 9   621     (8) C DTA_ZM00155_consensus     Unspecified       (0)    614       1 2171  
+2681   14.7  6.0  0.6  ZM_hAT_noncoding_44                 9   473     (8) + DTA_ZM00334_consensus     Unspecified         1    490     (0) 2172  
+2410   10.7  0.0  3.1  ZM_hAT_noncoding_45                 9   404     (8) C DTA_ZM00383_consensus     Unspecified       (0)    384       1 2173  
+4771    2.2  6.6  0.2  ZM_hAT_noncoding_46                 9   181   (458) C DTA_ZM00111_consensus     Unspecified       (0)    614     405 2174  
+4771    2.2  6.6  0.2  ZM_hAT_noncoding_46               229   631     (8) C DTA_ZM00111_consensus     Unspecified     (210)    404       2 2174  
+2885   10.6  0.2  3.9  ZM_hAT_noncoding_47                 9   439     (8) C DTA_ZM00325_consensus     Unspecified       (0)    416       1 2176  
+4729    4.6  8.9  0.5  ZM_hAT_noncoding_48                 9   623     (8) + DTA_ZM00373_consensus     Unspecified         1    667     (0) 2177  
+5169    5.2  4.2  0.3  ZM_hAT_noncoding_49                 9   650     (8) + DTA_ZM00373_consensus     Unspecified         1    667     (0) 2178  
+2702    2.4  2.1  0.0  ZM_hAT_noncoding_5                 57   384     (8) C DTA_ZM00117_consensus     Unspecified      (46)    336       2 2179  
+6184    4.1  2.9  0.0  ZM_hAT_noncoding_50                 9   737     (8) + DTA_ZM00235_consensus     Unspecified         1    750     (0) 2181  
+2797   11.8  6.6  5.9  ZM_hAT_noncoding_51                 9   495     (8) C DTA_ZM00334_consensus     Unspecified       (0)    490       1 2182  
+2599   13.8 10.9  0.0  ZM_hAT_noncoding_52                 9   450     (8) + DTA_ZM00334_consensus     Unspecified         1    490     (0) 2183  
+5770    2.6  1.8  0.0  ZM_hAT_noncoding_53                 9   663     (8) C DTA_ZM00373_consensus     Unspecified       (0)    667       1 2184  
+3161   12.9  2.3  1.2  ZM_hAT_noncoding_54                 9   493     (8) + DTA_ZM00334_consensus     Unspecified         1    490     (0) 2185  
+4302    4.1  5.2  0.4  ZM_hAT_noncoding_55                 9   541     (8) C DTA_ZM00098_consensus     Unspecified       (0)    559       1 2186  
+4365    6.3 11.5  0.1  ZM_hAT_noncoding_56                 9   607     (8) + DTA_ZM00373_consensus     Unspecified         1    667     (0) 2187  
+4631    4.0  0.8  3.1  ZM_hAT_noncoding_57                 9   598     (8) C DTA_ZM00338_consensus     Unspecified       (0)    577       1 2188  
+4692    2.2  1.3  0.0  ZM_hAT_noncoding_58                 9   554     (8) + DTA_ZM00313_consensus     Unspecified         1    553     (0) 2189  
+3239   11.0  1.2  4.5  ZM_hAT_noncoding_59                 9   514     (8) C DTA_ZM00334_consensus     Unspecified       (0)    490       1 2190  
+4831    0.9  0.2  0.2  ZM_hAT_noncoding_6                  9   544     (8) C DTA_ZM00283_consensus     Unspecified       (0)    536       1 2191  
+974   17.5  2.2  2.2  ZM_hAT_noncoding_60                 9   189     (8) C DTA_ZM00323_consensus     Unspecified       (0)    181       1 2192  
+4766    4.8  9.2  0.1  ZM_hAT_noncoding_61                 9   620     (8) C DTA_ZM00373_consensus     Unspecified       (0)    667       1 2193  
+3132    9.8  6.2  1.4  ZM_hAT_noncoding_62                 9   476     (8) C DTA_ZM00334_consensus     Unspecified       (0)    490       1 2194  
+4438    3.7  4.3  0.0  ZM_hAT_noncoding_63                 9   544     (8) + DTA_ZM00349_consensus     Unspecified         1    559     (0) 2195  
+4807    6.2  1.0  0.2  ZM_hAT_noncoding_64                 9   589     (8) + DTA_ZM00126_consensus     Unspecified         1    586     (0) 2196  
+4383    4.0  2.5  0.0  ZM_hAT_noncoding_65                 9   534     (8) + DTA_ZM00295_consensus     Unspecified         1    539     (0) 2197  
+1491    2.9  0.6  0.6  ZM_hAT_noncoding_66                 9   182     (8) + DTA_ZM00360_consensus     Unspecified         1    174     (0) 2198  
+4921    0.4  0.0  0.0  ZM_hAT_noncoding_67                 9   537     (8) + DTA_ZM00180_consensus     Unspecified         1    529     (0) 2199  
+5516    2.2  1.6  0.2  ZM_hAT_noncoding_68                 9   640     (8) + DTA_ZM00267_consensus     Unspecified         1    641     (0) 2200  
+3853    3.4  1.0  8.5  ZM_hAT_noncoding_69                 9   526     (8) + DTA_ZM00100_consensus     Unspecified         1    482     (0) 2201  
+3678   13.2  0.0  0.2  ZM_hAT_noncoding_7                  9   547     (8) + DTA_ZM00169_consensus     Unspecified         1    538     (0) 2202  
+1299   11.6  0.0  1.6  ZM_hAT_noncoding_70                 9   201     (8) + DTA_ZM00174_consensus     Unspecified         1    190     (0) 2203  
+4671    5.1  1.1  0.0  ZM_hAT_noncoding_71                 9   574     (8) + DTA_ZM00165_consensus     Unspecified         1    572     (0) 2204  
+7178    1.4  0.0  0.5  ZM_hAT_noncoding_72                 9   808     (8) + DTA_ZM00184_consensus     Unspecified         1    796     (0) 2205  
+6240    0.6  0.0  0.0  ZM_hAT_noncoding_73                 9   673    (73) C DTA_ZM00240_consensus     Unspecified       (0)    730      66 2206  
+3214    5.8  0.0  2.2  ZM_hAT_noncoding_74                 9   433     (8) C DTA_ZM00325_consensus     Unspecified       (0)    416       1 2208  
+4881    1.9  6.4  0.0  ZM_hAT_noncoding_75                 9   181   (476) C DTA_ZM00111_consensus     Unspecified       (0)    614     405 2209  
+4881    1.9  6.4  0.0  ZM_hAT_noncoding_75               247   649     (8) C DTA_ZM00111_consensus     Unspecified     (210)    404       2 2209  
+4628    3.6  2.5  1.6  ZM_hAT_noncoding_76                 9   580     (8) + DTA_ZM00338_consensus     Unspecified         1    577     (0) 2211  
+5896    1.4  0.1  0.0  ZM_hAT_noncoding_77                 9   660     (8) C DTA_ZM00275_consensus     Unspecified       (0)    653       1 2212  
+5393    2.8  3.1  0.0  ZM_hAT_noncoding_78                 9   625     (8) + DTA_ZM00311_consensus     Unspecified         1    636     (0) 2213  
+3922    4.4  2.2  6.2  ZM_hAT_noncoding_79                 9   546     (8) C DTA_ZM00177_consensus     Unspecified       (0)    518       1 2214  
+4444    4.3  1.5  0.0  ZM_hAT_noncoding_8                  9   539     (8) + DTA_ZM00295_consensus     Unspecified         1    539     (0) 2215  
+5736    4.5  0.3  0.6  ZM_hAT_noncoding_80                63   753     (8) C DTA_ZM00242_consensus     Unspecified      (93)    689       1 2217  
+5760    6.6  2.9  3.1  ZM_hAT_noncoding_82                 9   793     (8) + DTA_ZM00135_consensus     Unspecified         1    784     (0) 2221  
+5988    3.1  0.0  0.1  ZM_hAT_noncoding_83                 9   684     (8) C DTA_ZM00333_consensus     Unspecified       (0)    675       1 2222  
+930   16.9  2.8  6.3  ZM_hAT_noncoding_84                 9   222   (300) + DTA_ZM00281_consensus     Unspecified         1    207   (172) 2225  
+1637    6.0  1.8  4.1  ZM_hAT_noncoding_84               289   514     (8) + DTA_ZM00281_consensus     Unspecified       159    379     (0) 2226  
+401    9.8  5.8  5.8  ZM_hAT_noncoding_85                 9    95   (365) + DTA_ZM00012_consensus     Unspecified         1     87  (3969) 2227 *
+3237    7.5  2.6  0.7  ZM_hAT_noncoding_85                24   452     (8) C DTA_ZM00334_consensus     Unspecified      (53)    437       1 2228  
+5545    4.2  0.8  0.8  ZM_hAT_noncoding_86                 9   673     (8) + DTA_ZM00222_consensus     Unspecified         1    665     (0) 2229  
+5223    2.8  1.5  0.0  ZM_hAT_noncoding_87                 9   613     (8) + DTA_ZM00111_consensus     Unspecified         1    614     (0) 2230  
+4680    4.1  1.5  0.0  ZM_hAT_noncoding_88                 9   548     (8) C DTA_ZM00086_consensus     Unspecified       (0)    548       1 2231  
+1376    2.6  0.0  0.6  ZM_hAT_noncoding_89                 9   165     (8) C DTA_ZM00378_consensus     Unspecified       (0)    156       1 2232  
+2234    9.6  2.5  5.7  ZM_hAT_noncoding_9                  9   404     (8) C DTA_ZM00383_consensus     Unspecified       (0)    384       1 2233  
+5451    2.4  2.1  0.0  ZM_hAT_noncoding_90                 9   634     (8) + DTA_ZM00254_consensus     Unspecified         1    639     (0) 2234  
+4653    4.0  2.6  0.0  ZM_hAT_noncoding_91                 9   553     (8) + DTA_ZM00349_consensus     Unspecified         1    559     (0) 2235  
+4321    4.0  5.7  0.0  ZM_hAT_noncoding_92                 9   537     (8) C DTA_ZM00098_consensus     Unspecified       (0)    559       1 2236  
+4469    2.6  6.1  0.0  ZM_hAT_noncoding_93                 9   546     (8) + DTA_ZM00188_consensus     Unspecified         1    571     (0) 2237  
+6988    0.6  2.0  0.4  ZM_hAT_noncoding_94                 9   804     (8) C DTA_ZM00366_consensus     Unspecified       (0)    809       1 2238  
+5357    6.2  2.2  0.3  ZM_hAT_noncoding_95                 9   689     (8) + DTA_ZM00172_consensus     Unspecified         1    694     (0) 2239  
+5051    2.6  0.3  5.8  ZM_hAT_noncoding_96                 9   659     (8) + DTA_ZM00199_consensus     Unspecified         1    617     (0) 2240  
+6465    0.3  1.8  0.4  ZM_hAT_noncoding_97                88   807     (8) + DTA_ZM00366_consensus     Unspecified        79    808     (1) 2241  
+6197    3.2  3.7  0.0  ZM_hAT_noncoding_98                 9   731     (8) + DTA_ZM00235_consensus     Unspecified         1    750     (0) 2243  
+4821    2.2  0.0  0.0  ZM_hAT_noncoding_99                 9   546     (8) + DTA_ZM00292_consensus     Unspecified         1    538     (0) 2244  

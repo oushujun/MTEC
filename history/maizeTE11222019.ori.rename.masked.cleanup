@@ -1,0 +1,146 @@
+CL569186.1#subtelomere/4-12-1	Sequence tail has 20 bp missing
+Hip1_1#DNA/Helitron	0.412177985948478 missing
+Hip1_15#DNA/Helitron	0.306709265175719 missing
+Hip1_15#DNA/Helitron	Sequence tail has 18 bp missing
+Hip1_5#DNA/Helitron	0.386404293381038 missing
+Hip1_5#DNA/Helitron	Sequence tail has 18 bp missing
+Hip6_2#DNA/Helitron	0.322195704057279 missing
+ZM00027_consensus#DNA/DTA	Sequence head has 20 bp missing
+ZM00079_consensus#DNA/DTA	0.418803418803419 missing
+ZM00080_consensus#DNA/DTA	0.30261780104712 missing
+ZM00129_consensus#MITE/DTA	0.437238493723849 missing
+ZM00129_consensus#MITE/DTA	Sequence tail has 20 bp missing
+ZM00138_consensus#DNA/DTA	Sequence head has 20 bp missing
+ZM00204_consensus#MITE/DTA	0.691056910569106 missing
+ZM00204_consensus#MITE/DTA	Sequence head has 20 bp missing
+ZM00204_consensus#MITE/DTA	Only 38 bp left after cleanup
+ZM00232_consensus#DNA/DTA	0.319693094629156 missing
+ZM00268_consensus#MITE/DTA	0.525974025974026 missing
+ZM00268_consensus#MITE/DTA	Sequence tail has 20 bp missing
+ZM00268_consensus#MITE/DTA	Only 73 bp left after cleanup
+ZM00326_consensus#MITE/DTA	Sequence head has 20 bp missing
+ZM00327_consensus#DNA/DTA	0.603936039360394 missing
+ZM00008_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00009_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00011_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00019_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00023_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00024_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00029_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00032_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00033_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00035_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00037_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00040_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00042_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00046_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00049_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00050_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00052_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00054_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00055_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00058_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00064_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00065_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00066_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00067_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00072_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00074_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00075_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00079_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00086_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00087_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00090_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00096_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00097_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00098_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00099_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00104_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00111_consensus#DNA/DTC	0.482885085574572 missing
+ZM00111_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00112_consensus#MITE/DTC	0.5807962529274 missing
+ZM00112_consensus#MITE/DTC	Sequence tail has 20 bp missing
+ZM00114_consensus#DNA/DTC	0.509280742459397 missing
+ZM00114_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00117_consensus#DNA/DTC	0.439955106621773 missing
+ZM00117_consensus#DNA/DTC	Sequence head has 18 bp missing
+ZM00120_consensus#DNA/DTC	0.41542002301496 missing
+ZM00120_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00121_consensus#DNA/DTC	0.453488372093023 missing
+ZM00121_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00123_consensus#DNA/DTC	0.433231396534149 missing
+ZM00123_consensus#DNA/DTC	Sequence head has 20 bp missing
+ZM00124_consensus#DNA/DTC	0.456730769230769 missing
+ZM00124_consensus#DNA/DTC	Sequence tail has 20 bp missing
+ZM00049_consensus#MITE/DTH	0.440318302387268 missing
+ZM00049_consensus#MITE/DTH	Sequence tail has 20 bp missing
+ZM00084_consensus#MITE/DTH	0.336734693877551 missing
+ZM00084_consensus#MITE/DTH	Sequence head has 20 bp missing
+ZM00098_consensus#MITE/DTH	Sequence tail has 20 bp missing
+ZM00124_consensus#MITE/DTH	0.763565891472868 missing
+ZM00124_consensus#MITE/DTH	Sequence tail has 20 bp missing
+ZM00124_consensus#MITE/DTH	Only 61 bp left after cleanup
+ZM00131_consensus#MITE/DTH	0.496402877697842 missing
+ZM00131_consensus#MITE/DTH	Sequence head has 20 bp missing
+ZM00131_consensus#MITE/DTH	Only 70 bp left after cleanup
+ZM00135_consensus#MITE/DTH	0.345864661654135 missing
+ZM00135_consensus#MITE/DTH	Sequence head has 20 bp missing
+ZM00159_consensus#MITE/DTH	0.38974358974359 missing
+ZM00159_consensus#MITE/DTH	Sequence tail has 20 bp missing
+ZM00199_consensus#MITE/DTH	0.376288659793814 missing
+ZM00199_consensus#MITE/DTH	Sequence tail has 20 bp missing
+ZM00240_consensus#DNA/DTH	Sequence head has 20 bp missing
+ZM00285_consensus#MITE/DTH	0.428571428571429 missing
+ZM00285_consensus#MITE/DTH	Sequence head has 20 bp missing
+ZM00288_consensus#MITE/DTH	0.393048128342246 missing
+ZM00288_consensus#MITE/DTH	Sequence tail has 20 bp missing
+ZM00391_consensus#MITE/DTH	0.50887573964497 missing
+ZM00391_consensus#MITE/DTH	Sequence tail has 20 bp missing
+ZM00433_consensus#MITE/DTH	0.604010025062657 missing
+ZM00433_consensus#MITE/DTH	Sequence tail has 20 bp missing
+bosohe_AC205838_9025#LTR/Gypsy	Sequence head has 20 bp missing
+bosohe_AC206838_9357#LTR/Gypsy	0.413509649749821 missing
+kubi_AC195480_4624#LTR/Gypsy	Sequence head has 20 bp missing
+lyruom_AC185669_1267#LTR/Gypsy	Sequence tail has 20 bp missing
+prem1_AC184142_802#LTR/Gypsy	Sequence tail has 20 bp missing
+prem1_AC186287_1362#LTR/Gypsy	Sequence tail has 20 bp missing
+prem1_AC191715_3282#LTR/Gypsy	Sequence tail has 20 bp missing
+prem1_AC200740_6986#LTR/Gypsy	Sequence tail has 20 bp missing
+prem1_AC201801_7095#LTR/Gypsy	Sequence tail has 20 bp missing
+prem1_AC215184_12949#LTR/Gypsy	Sequence tail has 20 bp missing
+alaw_AC197914_166#LTR/unknown	0.381925766541151 missing
+arar_AC208428_9858#LTR/unknown	0.593093455687032 missing
+ilofaw_AC186598_1545#LTR/unknown	0.368421052631579 missing
+luteja_AC183974_769#LTR/unknown	1 missing
+luteja_AC183974_769#LTR/unknown	Sequence head has 20 bp missing
+luteja_AC183974_769#LTR/unknown	Sequence tail has 20 bp missing
+luteja_AC183974_769#LTR/unknown	Only 0 bp left after cleanup
+nisow_AC208616_9947#LTR/unknown	0.369188445667125 missing
+oweiw_AC190860_2662#LTR/unknown	0.444574095682614 missing
+ubel_AC183941_731#LTR/unknown	0.394210040036957 missing
+uluil_AC185306_17#LTR/unknown	0.634827332843497 missing
+uluil_AC185306_17#LTR/unknown	Sequence tail has 20 bp missing
+vafim_AC196676_5176#LTR/unknown	0.303655660377358 missing
+RST_AU_consensus_0#SINE/tRNA	0.575418994413408 missing
+RST_AU_consensus_0#SINE/tRNA	Sequence tail has 20 bp missing
+RST_AU_consensus_0#SINE/tRNA	Only 76 bp left after cleanup
+RST_ZmSINE1_consensus_0#SINE/tRNA	1 missing
+RST_ZmSINE1_consensus_0#SINE/tRNA	Sequence head has 20 bp missing
+RST_ZmSINE1_consensus_0#SINE/tRNA	Sequence tail has 20 bp missing
+RST_ZmSINE1_consensus_0#SINE/tRNA	Only 0 bp left after cleanup
+RST_ZmSINE2.1_consensus_0#SINE/tRNA	1 missing
+RST_ZmSINE2.1_consensus_0#SINE/tRNA	Sequence head has 20 bp missing
+RST_ZmSINE2.1_consensus_0#SINE/tRNA	Sequence tail has 20 bp missing
+RST_ZmSINE2.1_consensus_0#SINE/tRNA	Only 0 bp left after cleanup
+RST_ZmSINE2.2_consensus_0#SINE/tRNA	0.964601769911504 missing
+RST_ZmSINE2.2_consensus_0#SINE/tRNA	Sequence head has 20 bp missing
+RST_ZmSINE2.2_consensus_0#SINE/tRNA	Sequence tail has 19 bp missing
+RST_ZmSINE2.2_consensus_0#SINE/tRNA	Only 12 bp left after cleanup
+RST_ZmSINE2.3_consensus_0#SINE/tRNA	1 missing
+RST_ZmSINE2.3_consensus_0#SINE/tRNA	Sequence head has 20 bp missing
+RST_ZmSINE2.3_consensus_0#SINE/tRNA	Sequence tail has 20 bp missing
+RST_ZmSINE2.3_consensus_0#SINE/tRNA	Only 0 bp left after cleanup
+RST_ZmSINE3_consensus_0#SINE/tRNA	0.992805755395683 missing
+RST_ZmSINE3_consensus_0#SINE/tRNA	Sequence head has 19 bp missing
+RST_ZmSINE3_consensus_0#SINE/tRNA	Sequence tail has 20 bp missing
+RST_ZmSINE3_consensus_0#SINE/tRNA	Only 1 bp left after cleanup

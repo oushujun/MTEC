@@ -1,0 +1,792 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+DTA_ZM00001_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00002_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00006_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00007_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00009_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00010_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00011_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00012_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00014_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00015_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00017_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00019_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00020_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00021_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00022_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00023_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00024_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00025_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00026_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00027_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00028_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00029_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00030_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00031_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00032_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00033_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00034_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00035_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTA_ZM00036_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00039_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00041_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00042_consensus	TIR	hAT	unknown	unknown	-	TPase|hAT
+DTA_ZM00071_consensus	TIR	hAT	unknown	unknown	+	TPase|hAT
+DTC_ZM00001_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00002_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00004_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00005_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00006_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00007_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00008_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00009_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00010_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00011_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00012_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00013_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00015_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00016_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00017_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00018_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00019_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00020_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00021_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00022_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00023_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00024_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00026_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00027_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00029_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00030_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00031_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00032_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00033_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00034_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00035_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00036_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00037_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00038_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00039_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00040_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00041_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00042_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00043_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00044_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00045_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00046_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00048_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00049_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00050_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00051_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00052_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00053_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00054_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00055_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00056_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00058_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00059_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00060_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00061_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00062_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00063_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00064_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00065_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00066_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00067_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00068_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00069_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00070_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00072_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00073_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00074_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00075_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00077_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00078_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00079_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00080_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00081_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00082_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00083_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00084_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00085_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00086_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00087_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00088_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00089_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00090_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00091_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00092_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00093_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00094_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00095_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00096_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00097_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00098_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00099_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00100_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00101_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00102_consensus	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+DTC_ZM00103_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00104_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTC_ZM00105_consensus	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+DTH_ZM00001_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00003_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00004_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00005_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00006_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00007_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00008_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00009_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00010_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00011_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00012_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00013_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00014_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00015_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00016_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00017_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00018_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00019_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00020_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00021_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00022_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00023_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00024_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00025_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00026_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00027_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00028_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00029_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00030_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00031_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00032_consensus	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+DTH_ZM00033_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00034_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00035_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00036_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTH_ZM00104_consensus	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+DTM_Jittery_AF247646	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_MuDR_M76978	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm00030_AC190592_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm00197_AC185211_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm00346_AC182611_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm00628_AC207419_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm00665_AC184764_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm00743_AC177943_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm00851_AC186342_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm00884_AC214130_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm01310_AC182611_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm01468_AC186160_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm01980_AC186668_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm02066_AC183508_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm02117_AC177838_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm02569_AC177893_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm02656_AC189800_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm02661_AC177816_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm02731_AC194595_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm02947_AC197071_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm03723_AC185669_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm03788_AC184173_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm04488_AC195819_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm04817_AC194407_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm05901_AC190666_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm06094_AC207124_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm06136_AC196794_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm06455_AC195585_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm06456_AC194253_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm08014_AC190710_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm08178_AC186417_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm08670_AC200188_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm08959_AC199876_1	mixture	mixture	unknown	unknown	?	aRH|TatIII TPase|MuDR_Mutator
+DTM_Zm09546_AC191082_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm10271_AC186904_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm10582IC_AC215679_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm10723_AC196159_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm11868_AC202888_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm12576_AC196989_1	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+DTM_Zm12720_AC207543_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm13585_AC195825_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm14108_AC190892_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm14377_AC199567_1	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+DTM_Zm14961_AC204776_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm15816_AC194642_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm16884_AC205840_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm17242_AC197682_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm17880_AC193398_3	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm18165_AC204287_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm19206IC_AC205063_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm19358_AC198478_1	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+DTM_Zm20218_AC204546_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm20301_AC191081_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm21089_AC203211_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm21757_AC193965_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm22051IC_AC201818_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm22805IC_AC207689_1	mixture	mixture	unknown	unknown	?	TPase|MuDR_Mutator RH|LINE
+DTM_Zm23554_AC210619_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm25163_AC210240_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm25481IC_AC203285_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm25996_AC205363_1	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+DTM_Zm26908_AC183312_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm27731_AC205570_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm27984_AC204868_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm28013_AC199567_1	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+DTM_Zm28681_AC214113_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm29517_AC196442_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm30706_AC211930_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm31138_AC184695_1	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+DTM_Zm32353_AC204762_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33202_AC177945_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33205_AC203276_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33206_AC209693_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33208_AC195911_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33209_AC185668_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33210IC_AC204277_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33211_AC210532_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33212_AC204930_1	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+DTM_Zm33213_AC206876_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33220_AC177941_1	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+DTM_Zm33222_AC190995_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33223_AC208969_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33225IC_AC186510_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33226_AC202438_1	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+DTM_Zm33227IC_AC208221_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33230IC_AC206516_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33232IC_AC187847_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTM_Zm33233_AC206057_1	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+DTT_ZM00001_consensus	TIR	Tc1_Mariner	unknown	unknown	+	TPase|Tc1_Mariner
+DTT_ZM00002_consensus	TIR	Tc1_Mariner	unknown	unknown	-	TPase|Tc1_Mariner
+DTT_ZM00003_consensus	TIR	Tc1_Mariner	unknown	unknown	+	TPase|Tc1_Mariner
+DTT_ZM00004_consensus	TIR	Tc1_Mariner	unknown	unknown	-	TPase|Tc1_Mariner
+DTT_ZM00005_consensus	TIR	Tc1_Mariner	unknown	unknown	+	TPase|Tc1_Mariner
+DTT_ZM00006_consensus	TIR	Tc1_Mariner	unknown	unknown	+	TPase|Tc1_Mariner
+DTT_ZM00007_consensus	TIR	Tc1_Mariner	unknown	unknown	+	TPase|Tc1_Mariner
+PPP_PPO_AC185414	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+RIL_afeda_AC208414_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_cin4_AC210188_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_ejoet_AC212216_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_etiti_AC211734_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_gifife_AC206630_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_gugyve_AC194248_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_ijij_AC200508_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_jikeuf_AC211152_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_keneat_AC209697_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_koajav_AC205853_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_loneok_AC193379_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_naefe_AC212820_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_nubo_AC212389_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_nugimu_AC203843_0	mixture	mixture	unknown	unknown	?	RH|Ale RT|LINE
+RIL_odoif_AC210308_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_ogepy_AC198740_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_okor_AC198695_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_otiot_AC206557_1	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_oviev_AC204897_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_piivi_AC212400_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE RH|LINE
+RIL_pyelum_AC203928_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_rebaew_AC210723_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE RH|LINE
+RIL_totyru_AC203014_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_udag_AC207804_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIL_yliij_AC206507_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIT_colonist_AC209460_0	LINE	unknown	unknown	unknown	+	RT|LINE
+RIT_jare_AC204843_0	LINE	unknown	unknown	unknown	+	RT|LINE
+RIX_dager_AC206622_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIX_edaej_AC215611_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIX_ekeje_AC197537_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIX_leijoh_AC212369_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RIX_nugimu_AC203843_0	mixture	mixture	unknown	unknown	?	RH|Ale RT|LINE
+RIX_okor_AC205906_0	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+RLC_afad_AC199807_6594	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_ajajog_AC191578_3186	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_ajit_AC191382_3096	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_anar_AC206985_9422	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_atej_AC187217_40	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale INT|Ale RT|Ale
+RLC_atop_AC195158_4437	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_bavav_AC208118_9781	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_bihar_AC195875_4766	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RH|Ale
+RLC_bipide_AC205969_9058	LTR	Copia	Ivana	no	+	PROT|Ivana RT|Ivana RH|Ivana GAG|Ivana INT|Ivana
+RLC_bote_AC211535_11252	LTR	Gypsy	Reina	no	+	PROT|Reina
+RLC_bovo_AC197547_5647	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_bowuow_AC212139_11611	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_chr10_D_107123494	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr10_P_98050947	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr1_D_275633391	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr1_P_193017007	LTR	Copia	SIRE	no	+	GAG|SIRE PROT|SIRE RT|SIRE RH|SIRE
+RLC_chr2_D_224980689	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr2_D_48986571	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr3_P_39978843	LTR	Copia	SIRE	no	+	INT|SIRE RT|SIRE RH|SIRE
+RLC_chr4_D_40959532	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr4_D_46804832	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr4_P_103002213	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr4_P_118808430	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr4_P_19323329	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr4_P_242404877	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr4_P_246400268	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr5_D_119412279	LTR	Copia	SIRE	no	+	GAG|SIRE PROT|SIRE RT|SIRE RH|SIRE
+RLC_chr5_P_133655019	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr5_P_170822725	LTR	Copia	SIRE	no	+	GAG|SIRE RT|SIRE RH|SIRE
+RLC_chr5_P_76002780	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr5_P_9712308	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr6_D_43881252	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr6_D_62813001	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr6_P_42873635	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr6_P_87978263	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr7_D_125343800	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr8_P_116327109	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr9_D_120499978	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr9_D_32444039	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_chr9_P_79032327	LTR	Copia	SIRE	no	+	GAG|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_dadeir_AC201957_7187	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_debeh_AC177840_246	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+RLC_depuw_AC208349_9837	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_dijap_AC211466_11198	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_dolovu_AC189774_2249	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_donuil_AC196196_5026	LTR	Copia	Ikeros	yes	+	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+RLC_dugiab_AC207724_9683	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+RLC_ebel_AC188777_2128	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_ebel_AC195143_4427	LTR	Copia	Ale	no	+	GAG|Osser INT|Ale RT|Ale RH|Ale
+RLC_ehahu_AC202972_7568	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_eninu_AC191055_2893	LTR	Copia	TAR	yes	+	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+RLC_erev_AC194741_136	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina
+RLC_finaij_AC194312_4026	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_giepum_AC197531_5634	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_giepum_AC211155_11010	LTR	Copia	Tork	no	+	GAG|Tork
+RLC_giepum_AC211251_11074	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_gilovu_AC196048_4919	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_gori_AC193308_3536	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_gudyeg_AC206942_9404	LTR	Copia	TAR	yes	+	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+RLC_guvi_AC185473_1128	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_gylu_AC188833_2139	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_hago_AC195807_4722	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_hesa_AC204349_8207	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_huta_AC210008_10542	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_ibulaf_AC186801_1662	LTR	Copia	Bianca	no	+	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+RLC_ijaat_AC199510_6486	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_ijiret_AC211361_11134	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_iteki_AC214131_12504	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLC_iwim_AC203300_7761	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_ji_AC186528_1508	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_ji_AC193479_3665	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_ji_AC200613_6936	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_ji_AC202456_7443	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_ji_AC207234_9488	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_ji_AC211489_11215	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_ji_AC213834_12382	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_ji_AC215728_13156	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_kameer_AC194009_3819	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_kase_AC212771_11956	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_kise_AC204537_8302	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_kupu_AC216069_13264	LTR	Gypsy	Reina	no	+	RH|Ivana GAG|Reina PROT|Reina RT|Reina INT|Reina CHD|Reina
+RLC_kuvi_AC207313_9512	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_kuvi_AC207807_9734	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_labe_AC203760_7937	LTR	Copia	Ale	no	+	INT|Ale RT|Alesia RH|Ale
+RLC_leviathan_AC208826_10024	LTR	Gypsy	Tekay	no	+	INT|Tekay GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay
+RLC_lowy_AC190530_2366	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_lusi_AC198175_5903	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_lute_AC206502_9225	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_machiavelli_AC200490_6883	LTR	Copia	TAR	yes	+	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+RLC_mauky_AC195954_4843	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_mywur_AC197359_5559	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_naasuj_AC211569_11281	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_neha_AC215285_13046	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_nene_AC204294_8188	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_nida_AC206942_9401	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_niki_AC217821_13540	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_notu_AC200254_6827	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_nowuv_AC215510_13095	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_oguod_AC209724_10327	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_omud_AC203533_7881	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_opie_AC185480_1137	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC187149_1780	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC187207_1792	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC188002_2029	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC196469_5133	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC197084_5382	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC197201_5474	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC197691_5727	LTR	Copia	SIRE	no	+	PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC198173_5898	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC198924_6206	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC201793_7083	LTR	Copia	SIRE	no	+	PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC202020_7258	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC202033_7274	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC211653_11340	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC214122_12495	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_opie_AC217577_13524	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_ovikoh_AC190747_86	LTR	Gypsy	Reina	no	+	GAG|Reina
+RLC_owiit_AC196151_4998	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_pifo_AC209023_10096	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_pute_AC197188_5467	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale RT|Ale RH|Ale
+RLC_raider_AC197426_5583	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_rely_AC199569_6530	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_ruda_AC202870_7495	LTR	Copia	SIRE	no	+	GAG|SIRE
+RLC_ruda_AC206281_9164	LTR	Copia	SIRE	no	+	GAG|SIRE
+RLC_ruhi_AC205536_8890	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_seufyt_AC194940_4361	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_soger_AC204598_8342	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_stonor_AC212476_11849	LTR	Copia	Ikeros	no	+	RT|Ikeros RH|Ikeros
+RLC_taname_AC194273_3998	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_tata_AC205418_8792	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_tatu_AC212076_11563	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_tisy_AC193518_123	LTR	Copia	Ivana	no	+	PROT|Ivana
+RLC_tiwe_AC187032_1709	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_tiwewi_AC210937_10935	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_totu_AC194464_4142	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_tufe_AC211502_11228	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_ubel_AC194376_4060	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_ubep_AC210005_10539	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_ufonah_AC194064_3852	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_ugog_AC206863_9375	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_uhun_AC200619_6943	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_ulyg_AC196397_5082	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_ures_AC199044_6279	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_urum_AC198861_6159	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_uwew_AC187787_1947	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_victim_AC182414_456	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_victim_AC183319_577	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_volo_AC195546_4646	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_votaed_AC215881_13209	LTR	Copia	Ale	no	+	RH|Ale
+RLC_vuijon_AC194895_4312	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_wamenu_AC191287_3028	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_waneer_AC195414_4606	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_wawo_AC216857_13424	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLC_wemu_AC204680_8396	LTR	Gypsy	Reina	no	+	GAG|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLC_wiwa_AC191531_3153	LTR	Copia	Angela	yes	+	GAG|Angela PROT|Angela INT|Angela RT|Angela RH|Angela
+RLC_ydut_AC191122_2965	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLC_yrer_AC198936_6221	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLC_ytar_AC194428_4096	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_abiri_AC203571_7891	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_agep_AC205112_8618	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_ahoru_AC187284_1845	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ajajog_AC191578_3186	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE CHD|Reina
+RLG_amiin_AC191769_3319	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_aneas_AC203312_7773	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ansuya_AC191576_3184	LTR	Gypsy	CRM	no	+	RT|CRM RH|CRM INT|CRM CHDCR|CRM
+RLG_ansuya_AC207803_9728	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+RLG_anysaf_AC211487_11211	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_apil_AC198662_6085	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_apil_AC204354_8209	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_bobobo_AC201919_7182	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_bogu_AC196148_4995	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_boha_AC205574_8933	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_boja_AC200053_6723	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_bomevy_AC195138_4424	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_bosohe_AC185471_1125	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_bosohe_AC190752_2561	LTR	Gypsy	Reina	no	+	GAG|Reina CHD|Reina
+RLG_bosohe_AC191654_3248	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_bosohe_AC205330_8724	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_bosohe_AC205838_9025	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_bosohe_AC206838_9357	LTR	Gypsy	Reina	no	+	GAG|Reina
+RLG_bosohe_AC212057_11553	LTR	Gypsy	Reina	no	+	PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_bosohe_AC213600_12201	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_cinful_zeon_AC177813_189	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_cinful_zeon_AC177930_407	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC183943_734	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC186530_1513	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_cinful_zeon_AC186614_1565	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC192460_3502	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLG_cinful_zeon_AC193672_3742	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand INT|Retand
+RLG_cinful_zeon_AC194347_4039	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand INT|Retand
+RLG_cinful_zeon_AC194588_4160	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand aRH|Retand INT|Retand
+RLG_cinful_zeon_AC194954_4372	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLG_cinful_zeon_AC194967_4388	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC195790_4706	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC198933_6214	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLG_cinful_zeon_AC199396_6426	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLG_cinful_zeon_AC199790_6582	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC199960_6694	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC200200_6794	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLG_cinful_zeon_AC201757_7049	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand INT|Retand
+RLG_cinful_zeon_AC202991_7588	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC203004_7602	LTR	Gypsy	Retand	no	-	PROT|Retand RT|Retand INT|Retand
+RLG_cinful_zeon_AC203825_7980	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC205031_8560	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLG_cinful_zeon_AC205118_8623	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC205768_9013	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_cinful_zeon_AC206171_9091	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_cinful_zeon_AC206615_9266	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_cinful_zeon_AC207332_9527	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC207755_9705	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC208228_9805	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC208420_9852	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC208661_9976	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC209373_10201	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC210140_10614	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_cinful_zeon_AC211144_11003	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLG_cinful_zeon_AC211573_11290	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC212696_11896	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand aRH|Retand INT|Retand
+RLG_cinful_zeon_AC213887_12415	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_cinful_zeon_AC215255_13029	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLG_cinful_zeon_AC216587_13387	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLG_dagaf_AC182835_556	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_dagaf_AC195302_4533	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_dagaf_AC208646_9966	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_doke_AC186158_1307	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+RLG_doke_AC197224_5479	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_ekoj_AC194603_4173	LTR	Gypsy	Reina	no	+	RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_epohi_AC205903_9050	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ewib_AC207533_9599	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ewiut_AC194106_3871	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ewog_AC212715_11905	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_fege_AC205532_8884	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_feki_AC195127_4412	LTR	Copia	Ivana	no	+	PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLG_flip_AC193970_3791	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_flip_AC194904_4319	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_flip_AC203163_7675	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_flip_AC208040_9765	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_flip_AC211750_11412	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_flip_AC213672_12280	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_flip_AC214266_12595	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_fourf_AC202975_7570	LTR	Copia	TAR	yes	+	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+RLG_fuved_AC204055_8151	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_gati_AC195589_4669	LTR	Gypsy	Reina	yes	?	CHD|Reina GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina
+RLG_gofi_AC196116_4977	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_grande_AC200214_6803	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+RLG_guhis_AC198413_5999	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+RLG_guwiot_AC207006_9429	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_gyma_AC197250_5506	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_gyma_AC198939_6228	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_gyma_AC206653_9288	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_gyte_AC207411_9568	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_hera_AC214536_12775	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_homy_AC197914_5822	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_huck_AC186577_1525	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC186603_1556	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC186656_1609	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand aRH|Retand INT|Retand
+RLG_huck_AC190900_2713	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand
+RLG_huck_AC191259_3001	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC193313_3542	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand
+RLG_huck_AC194973_4393	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand INT|Retand
+RLG_huck_AC195575_4652	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand
+RLG_huck_AC199418_6452	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC199444_6460	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand
+RLG_huck_AC203007_7610	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC208546_9913	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC208842_10038	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC210079_10574	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC210804_10865	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand aRH|Retand INT|Retand
+RLG_huck_AC212331_11708	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC213042_12069	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC213612_12218	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand INT|Retand
+RLG_huck_AC214833_12913	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_huck_AC216048_13250	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+RLG_hute_AC204317_8199	LTR	Gypsy	Reina	no	+	PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ikal_AC190798_2599	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_iseb_AC207352_9544	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_ivuk_AC194103_3869	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_iwim_AC203300_7761	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_janoov_AC209690_10294	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_jaws_AC186187_1320	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina RT|Reina CHD|Reina
+RLG_kubi_AC195480_4624	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_kubi_AC196180_5016	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_labu_AC188126_2057	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_laiwa_AC214288_12602	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_lata_AC191117_2960	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand INT|Retand
+RLG_lute_AC217373_13492	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_lyruom_AC185669_1267	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_lywy_AC194967_4386	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_moorud_AC199961_6697	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_mufeub_AC194206_3950	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_muojo_AC186807_1674	LTR	Copia	SIRE	no	+	PROT|SIRE INT|SIRE RT|SIRE
+RLG_naijaj_AC205556_8907	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_nakovu_AC206324_9191	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_nihep_AC194441_4115	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand INT|Retand
+RLG_nobe_AC198224_5924	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_nopip_AC188036_2052	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ojam_AC198400_5989	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ojav_AC202435_7427	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ojokat_AC204297_8192	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_okopam_AC187789_1948	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_omoha_AC184843_894	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_onal_AC186648_1594	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_ovamef_AC196977_5281	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_oveah_AC206282_9165	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ovikoh_AC200886_1_999999	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_pebi_AC207888_9755	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_piube_AC183505_603	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_prem1_AC186287_1362	LTR	Gypsy	Tekay	no	+	GAG|Tekay
+RLG_prem1_AC196065_4927	LTR	Gypsy	Tekay	no	+	RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_prem1_AC200105_6751	LTR	Gypsy	Tekay	no	+	RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_prem1_AC201801_7095	LTR	Gypsy	Tekay	no	+	CHD|Tekay
+RLG_prem1_AC212325_11702	LTR	Gypsy	Tekay	no	+	RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_puck_AC215312_13067	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLG_puji_AC202156_7367	LTR	Gypsy	Retand	no	-	INT|Retand RT|Retand RH|Retand
+RLG_reina_AC200147_6773	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_riiryl_AC193745_3743	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_rijuep_AC188965_2150	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina INT|Reina CHD|Reina
+RLG_rimaar_AC197236_5493	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_rowi_AC203429_7862	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_rufefu_AC193384_3596	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ruugu_AC214105_12477	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_satulo_AC197006_5311	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_sehoad_AC198380_5972	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_seko_AC188710_2086	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_seuwe_AC210840_10901	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_sokiit_AC210743_10848	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_sowu_AC215679_13136	LTR	Gypsy	Reina	no	+	RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_suda_AC215200_12975	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_sywu_AC183899_694	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina RT|Reina RH|Reina CHD|Reina
+RLG_taro_AC203167_7686	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_tekay_AC211245_11065	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_tituer_AC196493_5158	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ubid_AC210086_10583	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_udav_AC196188_5022	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_udokup_AC210420_10735	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ulik_AC205416_8790	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_umojev_AC204420_8262	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_uper_AC185487_1151	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_usif_AC206781_9344	LTR	Gypsy	Reina	no	+	RT|Reina RH|Reina CHD|Reina
+RLG_usuf_AC208533_9903	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_uvet_AC194145_3904	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_vodida_AC203384_7831	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLG_vufi_AC198989_6257	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_waepo_AC190953_2782	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_weaniv_AC196414_5097	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_weki_AC194431_4099	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_wuge_AC190810_2615	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLG_wuwe_AC212122_11600	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_wyly_AC198779_6150	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_xilon_diguus_AC203313_7774	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLG_yfages_AC197085_5383	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ytub_AC187411_1880	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ywuv_AC197432_5589	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLG_ywyt_AC209975_10517	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+RLX_adun_AC193506_122	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana
+RLX_ahov_AC193643_3726	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLX_ajeb_AC188141_66	LTR	Gypsy	CRM	no	+	CHDCR|CRM GAG|CRM
+RLX_ajipe_AC183372_580	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+RLX_awuhe_AC190897_2710	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_baha_AC187214_39	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana
+RLX_bawigu_AC208532_9902	LTR	Gypsy	Reina	no	+	RH|Reina
+RLX_beboso_AC190260_76	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana
+RLX_beby_AC214433_12667	LTR	Gypsy	Reina	no	+	PROT|Reina
+RLX_bene_AC198379_5969	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLX_biwa_AC194319_131	LTR	Gypsy	CRM	no	?	GAG|CRM CHDCR|CRM PROT|CRM
+RLX_bobeg_AC193485_3670	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+RLX_bogu_AC198870_6180	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_bosovu_AC193480_119	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana INT|Ivana RH|Ivana
+RLX_bula_AC195180_138	LTR	Gypsy	Athila	no	+	GAG|Athila
+RLX_crm_AC206920_9397	LTR	Gypsy	CRM	no	+	INT|CRM CHDCR|CRM
+RLX_dabe_AC212399_11783	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina RT|Reina RH|Reina CHD|Reina
+RLX_dady_AC210684_10809	LTR	Gypsy	Reina	no	+	INT|Reina CHD|Reina
+RLX_doba_AC190263_77	LTR	Gypsy	Galadriel	no	+	GAG|Galadriel PROT|Galadriel RH|Galadriel CHD|Galadriel
+RLX_ebeg_AC213788_12351	LTR	Copia	Ale	no	+	RH|Ale
+RLX_ebel_AC210216_10670	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale INT|Ale RH|Ale
+RLX_ebel_AC213044_12072	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+RLX_efaw_AC190815_91	LTR	Gypsy	CRM	no	+	CHDCR|CRM GAG|CRM
+RLX_egisu_AC206234_9137	LTR	Gypsy	Tekay	no	+	RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLX_elalal_AC211887_11443	LTR	Copia	Ivana	no	+	GAG|Ivana
+RLX_etin_AC194319_129	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+RLX_eugene_AC200048_6717	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+RLX_eweko_AC200180_6781	LTR	Gypsy	Retand	no	+	RT|Retand RH|Retand INT|Retand
+RLX_ewigyw_AC185312_18	LTR	Gypsy	Reina	no	+	GAG|Reina
+RLX_ewot_AC210077_10573	LTR	Gypsy	Reina	no	+	PROT|Reina
+RLX_ewuof_AC188199_68	LTR	Gypsy	CRM	no	+	CHDCR|CRM GAG|CRM
+RLX_fageri_AC204875_8470	LINE	unknown	unknown	unknown	?	ENDO|LINE RT|LINE GAG|Ikeros
+RLX_fara_AC188142_67	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+RLX_fehod_AC184774_851	LTR	Copia	Ivana	no	+	PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+RLX_gate_AC197186_143	LTR	Gypsy	CRM	no	+	CHDCR|CRM GAG|CRM
+RLX_gekog_AC203828_7984	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLX_geta_AC187066_33	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale INT|Ale
+RLX_giream_AC204000_8116	LTR	Copia	Ale	no	+	GAG|Ale RH|Ale
+RLX_gotur_AC201794_7086	LTR	Gypsy	Reina	no	+	PROT|Reina
+RLX_guafa_AC188016_60	LTR	Gypsy	Galadriel	no	+	GAG|Galadriel PROT|Galadriel
+RLX_guali_AC190263_78	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+RLX_gugu_AC193480_120	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana
+RLX_gunu_AC200292_6838	LTR	Copia	SIRE	no	+	GAG|SIRE
+RLX_gunu_AC204937_8509	LTR	Copia	SIRE	no	+	PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+RLX_gunu_AC209758_10359	LTR	Copia	SIRE	no	+	PROT|SIRE INT|SIRE RT|SIRE RH|SIRE GAG|SIRE
+RLX_guwo_AC183661_638	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLX_halo_AC205330_8725	LTR	Gypsy	Reina	no	+	GAG|Reina INT|Reina CHD|Reina
+RLX_hani_AC186285_1359	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLX_hooni_AC211474_11202	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_hopscotch_AC209396_10229	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLX_huti_AC197153_5449	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLX_jelat_AC194217_3960	LTR	Copia	Ale	no	-	RH|Ale
+RLX_jupek_AC208518_9894	LTR	Gypsy	Reina	no	+	PROT|Reina INT|Reina CHD|Reina
+RLX_juta_AC190498_2318	LTR	Gypsy	Reina	no	+	GAG|Reina RT|Reina
+RLX_kake_AC186604_1559	LTR	Copia	Bianca	no	+	RH|Bianca
+RLX_keja_AC214049_12475	LTR	Gypsy	CRM	no	-	CHDCR|CRM
+RLX_kinosi_AC183924_714	LTR	Gypsy	Reina	no	+	PROT|Reina
+RLX_kupu_AC216069_13264	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_lafa_AC205893_9045	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+RLX_lamyab_AC208713_10008	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina INT|Reina CHD|Reina
+RLX_liove_AC207121_9462	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLX_loba_AC194942_4364	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina RT|Reina CHD|Reina
+RLX_lyna_AC194093_3868	LTR	Copia	Bianca	no	+	RH|Bianca
+RLX_mada_AC208456_9876	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+RLX_mada_AC208673_9982	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLX_mada_AC211927_11478	LTR	Gypsy	Retand	no	+	GAG|Retand
+RLX_mafogo_AC199961_6695	LTR	Gypsy	Reina	no	+	RH|Reina
+RLX_magellan_AC194897_4313	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_maono_AC208340_9832	LTR	Gypsy	Reina	no	+	GAG|Reina
+RLX_mapu_AC191705_3277	LTR	Copia	SIRE	no	+	GAG|SIRE
+RLX_maro_AC204359_8211	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_milt_AC198975_6250	LTR	Gypsy	Ogre	no	+	GAG|Ogre
+RLX_milt_AC211742_11402	LTR	Gypsy	Ogre	no	+	GAG|Ogre PROT|Ogre RT|Ogre aRH|Ogre INT|Ogre
+RLX_mopin_AC187657_153	LTR	Gypsy	Reina	no	+	CHD|Reina
+RLX_muekeh_AC184787_871	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+RLX_naadira_AC201761_7053	LTR	Gypsy	CRM	no	+	GAG|CRM PROT|CRM CHDCR|CRM
+RLX_naadira_AC206864_9376	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+RLX_nabu_AC187471_45	LTR	Copia	Tork	no	+	GAG|Tork PROT|Tork INT|Tork
+RLX_nabu_AC187882_57	LTR	Copia	Tork	no	+	GAG|Tork PROT|Tork INT|Tork
+RLX_nakuuv_AC199045_169	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina
+RLX_nasi_AC205509_8857	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_nitat_AC190618_2442	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+RLX_niypo_AC191087_2935	LTR	Copia	Ivana	no	+	GAG|Ivana
+RLX_ohag_AC187801_48	LTR	Gypsy	Ogre	no	-	GAG|Ogre
+RLX_olepo_AC212207_11645	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_onub_AC190523_2356	LTR	Gypsy	Ogre	no	+	GAG|Ogre PROT|Ogre
+RLX_ovev_AC199878_6641	LTR	Copia	Ale	no	?	PROT|Ale RH|Ale
+RLX_oviil_AC187836_55	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+RLX_pagof_AC198204_5908	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_peeve_AC209948_10499	LTR	Gypsy	Retand	no	-	GAG|Retand
+RLX_pute_AC197188_5467	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale RT|Ale RH|Ale
+RLX_raga_AC196386_5066	LTR	Gypsy	Reina	no	+	INT|Reina CHD|Reina
+RLX_ruda_AC195952_4839	LTR	Copia	SIRE	no	+	GAG|SIRE
+RLX_sagyfy_AC187059_1735	LTR	Copia	Ivana	no	?	PROT|Ivana GAG|Ivana RT|Ale
+RLX_sego_AC188397_69	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale
+RLX_sema_AC187810_51	LTR	Copia	Ivana	no	?	INT|Tork GAG|Ivana PROT|Ivana
+RLX_sido_AC204367_8219	LTR	Gypsy	Reina	no	+	INT|Reina CHD|Reina
+RLX_small_AC217574_13522	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+RLX_soefes_AC212121_11599	LTR	Gypsy	Reina	no	+	GAG|Reina
+RLX_sofi_AC215261_13035	LTR	Copia	Ivana	no	+	GAG|Ivana
+RLX_tojena_AC187554_1910	LTR	Copia	Ale	no	?	INT|Ale PROT|Ale RH|Ale
+RLX_toro_AC197199_5471	LTR	Gypsy	Reina	no	+	RH|Reina INT|Reina CHD|Reina
+RLX_tuku_AC177929_405	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_tywo_AC187810_53	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana INT|Ivana
+RLX_ugano_AC216043_13241	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_ukov_AC204842_177	LTR	Copia	Tork	no	+	GAG|Tork
+RLX_umip_AC190747_87	LTR	Gypsy	Reina	no	+	PROT|Reina GAG|Reina CHD|Reina
+RLX_upus_AC200875_7012	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_urogor_AC186334_1406	LTR	Copia	Ivana	no	+	GAG|Ivana
+RLX_uvis_AC197719_164	LTR	Copia	Ivana	no	+	GAG|Ivana
+RLX_uwum_AC213069_12092	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+RLX_uwuw_AC198589_6052	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_vora_AC206187_9112	LTR	Copia	Ale	no	-	GAG|Ale RH|Ale
+RLX_votaed_AC215881_13209	LTR	Copia	Ale	no	?	ENDO|LINE PROT|Ale INT|Ale RH|Ale RT|Ale GAG|Ale
+RLX_vufe_AC194263_159	LTR	Gypsy	Reina	no	+	PROT|Reina
+RLX_vuna_AC193505_121	LTR	Gypsy	Ogre	no	-	GAG|Ivana PROT|Ogre RH|Ogre INT|Ivana
+RLX_wihov_AC205351_8739	LTR	Gypsy	CRM	yes	-	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+RLX_wiru_AC210670_10789	LTR	Gypsy	Reina	no	+	RH|Reina
+RLX_witi_AC184140_796	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+RLX_wugaab_AC187472_46	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+RLX_wuywu_AC190718_2536	LTR	Copia	Ivana	no	+	GAG|Ivana
+RLX_yemi_AC201773_7064	LTR	Gypsy	Reina	no	+	CHD|Reina
+RLX_ypel_AC215810_13168	LTR	Copia	Ivana	no	+	GAG|Ivana
+RLX_yraj_AC205486_8834	LTR	Copia	Tork	no	+	GAG|Tork PROT|Tork
+RLX_yvoj_AC215638_13124	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+DTA_ZM00152_consensus	TIR	hAT	unknown	none	?	none
+DTA_ZM00171_consensus	TIR	EnSpm_CACTA	unknown	none	?	none
+DTA_ZM00205_consensus	TIR	EnSpm_CACTA	unknown	none	?	none
+DTA_ZM00226_consensus	TIR	hAT	unknown	none	?	none
+DTA_ZM00275_consensus	TIR	hAT	unknown	none	?	none
+DTA_ZM00284_consensus	TIR	EnSpm_CACTA	unknown	none	?	none
+DTC_ZM00003_consensus	TIR	EnSpm_CACTA	unknown	none	?	none
+DTC_ZM00047_consensus	TIR	EnSpm_CACTA	unknown	none	?	none
+DTC_ZM00116_consensus	TIR	EnSpm_CACTA	unknown	none	?	none
+DTC_ZM00119_consensus	TIR	EnSpm_CACTA	unknown	none	?	none
+DTH_ZM00101_consensus	TIR	PIF_Harbinger	unknown	none	?	none
+DTH_ZM00437_consensus	TIR	PIF_Harbinger	unknown	none	?	none
+RLG_bobeg_AC193485_3670	LTR	Gypsy	unknown	none	?	none
+RLG_cinful_zeon_AC191398_3106	LTR	Gypsy	unknown	none	?	none
+RLG_cinful_zeon_AC191523_3148	LTR	Gypsy	unknown	none	?	none
+RLX_bida_AC205396_8768	LTR	Gypsy	unknown	none	?	none
+RLX_ujinas_AC217279_13469	LTR	Copia	unknown	none	?	none
