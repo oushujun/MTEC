@@ -2,10 +2,10 @@
 This repository contains three historical versions of curated maize TE libraries derived from the Maize TE Consortium (MTEC). I combined the three together and further clean the combined library with the following commands and curations. If you are looking for a comprehensive and high-quality maize TE library, look no further, `maizeTE11222019` is the one.
 
 ## Files
-- `maizeTE10102014` was download from the MTEC official website (http://maizesequence.org). The website is gone, but I managed to get a mirror of the first page. Please refer to the file `history/Maizedatabase_mirror.pdf` for more information about the MTEC project.
-- `TE_12-Feb-2015_15-35.fa` was shared by Nicolas Blavet from `https://github.com/mcstitzer/maize_v4_TE_annotation/issues/9`.
-- `Wessler-Bennetzen_2.fasta` was used to annotate the initial B73 genome (Schnable et al. 2009). I believe this is an earlier version of the MTEC library.
-- `nonTE.repeat.fa` contains 5 non-TE repeats (knob180, knob TR-1, rDNA spacer, subtelomere 4-12-1, and CentC) in maize, which was shared by Jianing Liu.
+- `maizeTE10102014` was download from the MTEC official website (http://maizesequence.org). The website is gone, but I managed to get a mirror of the first page. Please refer to the file [history/Maizedatabase_mirror.pdf](https://github.com/oushujun/MTEC/blob/master/history/Maizedatabase_mirror.pdf) for more information about the MTEC project.
+- `TE_12-Feb-2015_15-35.fa` was shared by [Nicolas Blavet](https://github.com/blavetn) from `https://github.com/mcstitzer/maize_v4_TE_annotation/issues/9`.
+- `Wessler-Bennetzen_2.fasta` was used to annotate the initial B73 genome ([Schnable et al. 2009](https://science.sciencemag.org/content/326/5956/1112.full)). I believe this is an earlier version of the MTEC library.
+- `nonTE.repeat.fa` contains 5 non-TE repeats (knob180, knob TR-1, rDNA spacer, subtelomere 4-12-1, and CentC) in maize, which was shared by [Jianing Liu](https://www.genetics.uga.edu/directory/jianing-liu).
 
 
 ## Combine the three MTEC libraries + nonTE repeats
