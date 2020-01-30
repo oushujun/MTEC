@@ -101,3 +101,10 @@ These entries are put in the `history/removal.list` and removed:
 Manually add the sequence CL569186.1#subtelomere/4-12-1 back to `history/maizeTE11222019.ori.rename.nogene`
 
 `cp history/maizeTE11222019.ori.rename.nogene maizeTE11222019`
+
+
+## Updates
+01/30/2020
+
+Added four CRM sequences (CRM1-4) contributed by Na Wang from [Gernot and Presting (2008)](https://link.springer.com/article/10.1007%2Fs00438-007-0302-5).
+
