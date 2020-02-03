@@ -110,5 +110,7 @@ Added four CRM sequences (CRM1-4) contributed by Na Wang from [Gernot and Presti
 
 02/03/2020
 
-Rename ZM00034_consensus#DNA/DTA, ZM00034_consensus#DNA/DTC, ZM00034_consensus#DNA/DTH, and ZM00034_consensus#MITE/DTT to DTA_ZM00034_consensus#DNA/DTA, DTC_ZM00034_consensus#DNA/DTC, DTH_ZM00034_consensus#DNA/DTH, and DTT_ZM00034_consensus#MITE/DTT, respectively. The name "ZM00034_consensus" was inherited from the 2014 version MTEC, so kept it unchanged.
+Added 3-letter names before all consensus seq IDs. IDs like "ZM00034_consensus" were inherited from the 2014 version MTEC, so kept it unchanged.
+`perl -nle 's/>(.*)#(.*)\/(.*)/>$3_$1#$2\/$3/; print $_' maizeTE01302020 > maizeTE02032020`
+
 
