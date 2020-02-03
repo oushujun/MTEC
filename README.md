@@ -108,3 +108,7 @@ Manually add the sequence CL569186.1#subtelomere/4-12-1 back to `history/maizeTE
 
 Added four CRM sequences (CRM1-4) contributed by Na Wang from [Gernot and Presting (2008)](https://link.springer.com/article/10.1007%2Fs00438-007-0302-5).
 
+02/03/2020
+
+Rename ZM00034_consensus#DNA/DTA, ZM00034_consensus#DNA/DTC, ZM00034_consensus#DNA/DTH, and ZM00034_consensus#MITE/DTT to DTA_ZM00034_consensus#DNA/DTA, DTC_ZM00034_consensus#DNA/DTC, DTH_ZM00034_consensus#DNA/DTH, and DTT_ZM00034_consensus#MITE/DTT, respectively. The name "ZM00034_consensus" was inherited from the 2014 version MTEC, so kept it unchanged.
+
