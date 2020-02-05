@@ -113,4 +113,7 @@ Added four CRM sequences (CRM1-4) contributed by Na Wang from [Gernot and Presti
 Added 3-letter names before all consensus seq IDs. IDs like "ZM00034_consensus" were inherited from the 2014 version MTEC, so kept it unchanged.
 `perl -nle 's/>(.*)#(.*)\/(.*)/>$3_$1#$2\/$3/; print $_' maizeTE01302020 > maizeTE02032020`
 
+02/05/2020
 
+Fix namings
+`perl -nle 's/>(.*)#(.*)\/(.*)/>$3_$1#$2\/$3/ if /consensus/; s/>(.*)/>$1#LTR\/CRM/ if /CRM/; print $_' history/maizeTE01302020 > maizeTE02052020`
