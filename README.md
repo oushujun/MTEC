@@ -1,5 +1,5 @@
 # Introduction
-This repository contains three historical versions of curated maize TE libraries derived from the Maize TE Consortium (MTEC). I combined the three together and further clean the combined library with the following commands and curations. If you are looking for a comprehensive and high-quality maize TE library, look no further, `maizeTE11222019` is the one.
+This repository contains three historical versions of curated maize TE libraries derived from the Maize TE Consortium (MTEC). I combined the three together and further clean the combined library with the following commands and curations. If you are looking for a comprehensive and high-quality maize TE library, look no further, this is the one (usually named like "maizeTE02052020" in the root directory).
 
 ## Files
 - `maizeTE10102014` was download from the MTEC official website (http://maizesequence.org). The website is gone, but I managed to get a mirror of the first page. Please refer to the file [history/Maizedatabase_mirror.pdf](https://github.com/oushujun/MTEC/blob/master/history/Maizedatabase_mirror.pdf) for more information about the MTEC project.
@@ -111,9 +111,13 @@ Added four CRM sequences (CRM1-4) contributed by Na Wang from [Gernot and Presti
 02/03/2020
 
 Added 3-letter names before all consensus seq IDs. IDs like "ZM00034_consensus" were inherited from the 2014 version MTEC, so kept it unchanged.
+
 `perl -nle 's/>(.*)#(.*)\/(.*)/>$3_$1#$2\/$3/; print $_' maizeTE01302020 > maizeTE02032020`
 
 02/05/2020
 
 Fix namings
+
 `perl -nle 's/>(.*)#(.*)\/(.*)/>$3_$1#$2\/$3/ if /consensus/; s/>(.*)/>$1#LTR\/CRM/ if /CRM/; print $_' history/maizeTE01302020 > maizeTE02052020`
+
+
