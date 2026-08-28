@@ -138,3 +138,21 @@ The 40 newly added transposable element (TE) sequences are highly accurate conse
   
   This rigorous combination of computational searching and manual inspection confirmed the presence and structural integrity of the TSDs across the sequences, ensuring that the consensus boundaries are well-understood.
 * **Novel Lineage Isolation:** The `RIL_YJ_0#LINE/L1` entry is a newly built de novo consensus. Due to its low sequence similarity to existing LINE/L1 elements in `maizeTE02052020`, it has been established as a novel consensus family.
+
+06/02/2026
+
+Strand orientation was assigned to all 1,517 consensus sequences and the previous library maizeTE04092026 was moved to history/. Strand calls are encoded as tab-separated metadata in each FASTA header (e.g., `>CRM1_6867nt#LTR/CRM\tstrand=+; evidence=TEsorter`). Of the 1,517 sequences, 762 (50%) received a strand assignment (643 `+`, 119 `-`); 755 remain `strand=?` where evidence was insufficient. All sequences are reported on the (+) strand: the 119 originally assigned `strand=-` were reverse complemented and their headers updated to `strand=+`.
+
+**Stranding Pipeline:**
+
+Strand orientation was determined using a four-tier evidence hierarchy applied to the full B73 TE consensus library (11,483 sequences), from which the 1,517 MTEC sequences are a subset.
+
+* **E1 — TEsorter (primary):** Protein domain orientation was inferred from [TEsorter](https://github.com/zhangrengang/TEsorter) output. RT and integrase domain alignments were used to determine the coding strand for LTR retrotransposons; TIR transposase domains for DNA transposons. E1 provided strand calls for 1,030 elements across the full library and was treated as the highest-confidence evidence tier.
+
+* **E2 — HMM domain scanning (HMMER):** For elements left unresolved by E1, 6-frame translation was searched against TEsorter-bundled HMM databases. No elements received an E2-only call in this library.
+
+* **E3 — IsoClassifier (long-read isoform data):** Strand was inferred from B73 long-read isoform alignments classified with [IsoClassifier](https://github.com/cgooden-TE/LTRRT-Promoter-Suite/tree/main). TE consensus copies were mapped to isoform-supported gene models; the majority strand of mapped copies was assigned to the consensus. E3 provided calls for 51 elements, 43 of which were concordant with E1. Four cinful_zeon (LTR/Gypsy) elements showed E1/E3 conflict; E1 was retained in all four cases.
+
+* **E4 — LTR cluster propagation:** Strand calls were propagated within clusters of related LTR-RT sequences identified from the B73 TE annotation GFF3. Copies sharing high sequence identity were grouped; if a cluster contained a stranded member, that call was extended to unstranded relatives. E4 resolved 3 additional elements.
+
+Where multiple evidence tiers agreed, the call was assigned high confidence. E1 was authoritative in all conflicts.
