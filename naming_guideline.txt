@@ -1,0 +1,200 @@
+Sequence ID Naming Convention for maizeTE02052020
+==================================================
+
+The library uses two fundamentally different naming schemes depending on the
+TE class. All IDs follow the RepeatMasker format: >{name}#{superfamily}/{classification}.
+
+
+1. Serial numeric IDs — Class II DNA transposon consensus sequences
+-------------------------------------------------------------------
+
+Pattern: {3-letter superfamily code}_ZM{NNNNN}_consensus#{class}/{superfamily}
+
+  Superfamily   Code   ID range            Example
+  hAT           DTA    ZM00001–ZM00387     DTA_ZM00034_consensus#DNA/DTA
+  CACTA         DTC    ZM00001–ZM00125     DTC_ZM00056_consensus#DNA/DTC
+  Harbinger     DTH    ZM00001–ZM00502     DTH_ZM00010_consensus#DNA/DTH
+  Tc1/Mariner   DTT    ZM00001–ZM00059     DTT_ZM00003_consensus#DNA/DTT
+
+- Each superfamily has its own independent numbering space.
+- Gaps in numbering exist where entries were removed during curation.
+- Short entries (<=600 bp) are classified as MITE instead of DNA
+  (e.g., DTA_ZM00044_consensus#MITE/DTA).
+- These IDs were inherited from the 2014 MTEC version. The 02/03/2020
+  update prepended the 3-letter superfamily code.
+
+
+2. Serial numeric IDs — legacy MITE families
+---------------------------------------------
+
+Pattern: ZM_{family_name}_{number}#{class}/{superfamily}
+
+  Family                Example
+  ZM_Stowaway           ZM_Stowaway_50#MITE/DTT
+  ZM_Tourist            ZM_Tourist_22#MITE/DTH
+  ZM_CACTA_noncoding    ZM_CACTA_noncoding_20#MITE/DTC
+  ZM_hAT_noncoding      ZM_hAT_noncoding_81#MITE/DTA
+
+These have their own numbering independent of the _ZM{NNNNN}_consensus scheme.
+
+
+3. Subjective names — non-TE repeats
+--------------------------------------
+
+Individually named by known biological identity:
+
+  ID                  Type
+  CRM1_6867nt–CRM4    Centromeric retrotransposons
+  knob180             Knob repeat
+  TR-1                Knob tandem repeat
+  CentC               Centromeric satellite
+  AF013103.1          rDNA spacer
+  CL569186.1          Subtelomere 4-12-1
+
+
+4. Subjective names — Helitrons
+---------------------------------
+
+Pattern: Hip{family}_{number}#DNA/Helitron
+
+Example: Hip1_14, Hip2_1, Hip7_1. The number after the underscore is a
+member index within the family.
+
+
+5. Subjective names — Mutator (DTM)
+--------------------------------------
+
+The most heterogeneous section, mixing three sub-conventions:
+
+  Sub-convention     Pattern                            Example
+  Known families     {name}_{accession}                 Jittery_AF247646, MuDR_M76978
+  BAC-locus IDs      Zm{NNNNN}_{BAC_accession}_{copy}  Zm02569_AC177893_1
+  MITE consensus     DTM_Zm{NNNNN}_consensus            DTM_Zm00118_consensus
+
+BAC-locus IDs explained:
+  Zm{NNNNN}  = Mutator family number from the original Mu catalogue
+  AC######   = GenBank BAC clone accession where the exemplar was found
+  _1         = copy index within that BAC
+  IC suffix (e.g., Zm10582IC) marks incomplete copies
+
+
+6. Subjective names — LINE elements
+--------------------------------------
+
+Pattern: {3-letter code}_{name}_{accession}_{copy}#LINE/{classification}
+
+  Code   Classification   Example
+  RIL    L1               RIL_cin4_AC210188_0
+  RIT    RTE              RIT_colonist_AC209460_0
+  RIX    unknown          RIX_dager_AC206622_0
+
+Names are researcher-assigned (e.g., cin4 is a known LINE).
+
+
+7. Subjective names — LTR retrotransposons (Copia, Gypsy, unknown)
+---------------------------------------------------------------------
+
+Two sub-conventions coexist:
+
+a) Named families with BAC accession:
+
+   Pattern: {family}_{accession}_{serial}#LTR/{superfamily}
+   Example: cinful_zeon_AC194347_4039#LTR/Gypsy
+            opie_AC196469_5133#LTR/Copia
+
+   Family names follow the maize TE tradition of nonsense-syllable names
+   (e.g., ji, opie, huck, gyma). Some families have many representative
+   copies (e.g., cinful_zeon has 42, huck has 20, opie has 17). The
+   trailing serial number disambiguates copies of the same family but is
+   not globally unique.
+
+b) Chromosomal locus IDs (no family name):
+
+   Pattern: chr{N}_{strand}_{position}#LTR/Copia
+   Example: chr4_D_40959532#LTR/Copia
+            chr5_P_170822725#LTR/Copia
+
+   D/P indicates strand. These represent single exemplar copies identified
+   by genomic coordinate, used when no family name has been assigned.
+
+
+=====================================
+Adding New Entries to the Library
+=====================================
+
+New Class II DNA transposon consensus (DTA/DTC/DTH/DTT)
+---------------------------------------------------------
+1. Find the current maximum ID number for the superfamily
+   (e.g., DTA goes up to ZM00387).
+2. Assign the next number: DTA_ZM00388_consensus#DNA/DTA
+3. If the sequence is <=600 bp, use MITE: DTA_ZM00388_consensus#MITE/DTA
+4. Do NOT reuse numbers from removed entries (gaps should remain).
+
+
+New LTR retrotransposon family
+-------------------------------
+If the family has a name (new or existing), use the named-family convention:
+
+   >{family}_{accession}_{serial}#LTR/{superfamily}
+
+Choosing a family name:
+   Family names follow the maize TE tradition. Most names are arbitrary
+   nonsense-syllable words (e.g., ji, gyma, ebel, wuwe, dagaf, bosohe).
+   A minority are real words (e.g., victim, leviathan, hopscotch, jaws,
+   flip, magellan). There is no encoding of biology or classification in
+   the name — just pick any unused word. The only requirement is that it
+   does not collide with an existing family name in the library.
+
+For a new Gypsy family with 3 representative copies:
+
+   >wubeke_AC199123_0#LTR/Gypsy
+   >wubeke_AC199123_1#LTR/Gypsy
+   >wubeke_AC211890_2#LTR/Gypsy
+
+For a new copy of an existing family (e.g., cinful_zeon), find the
+current max serial and increment:
+
+   >cinful_zeon_AC######_{next_serial}#LTR/Gypsy
+
+If the family has no name yet and you have a single representative locus:
+
+   >chr{N}_{D|P}_{position}#LTR/Copia
+
+
+New Mutator (DTM) entry
+-------------------------
+- Known Mu family from the BAC catalogue:
+    Zm{NNNNN}_{BAC_accession}_{copy}#DNA/DTM
+- New MITE consensus:
+    DTM_Zm{NNNNN}_consensus#MITE/DTM
+- Known named family:
+    {name}_{accession}#DNA/DTM
+
+
+New LINE element
+-----------------
+   >{RIL|RIT|RIX}_{name}_{accession}_{copy}#LINE/{L1|RTE|unknown}
+
+
+New Helitron
+-------------
+Follow the existing Hip{family}_{number} convention, or start a new
+family number.
+
+
+New non-TE repeat
+------------------
+Use the biological name or GenBank accession directly. These are handled
+case-by-case.
+
+
+General rules
+--------------
+1. No spaces in IDs — use underscores.
+2. No hyphens — convert to underscores (done during the original build).
+3. The # separator between the name and classification is required by
+   RepeatMasker.
+4. Do not mix naming schemes across classes (e.g., don't use
+   _ZM{NNNNN}_consensus for LTR elements).
+5. After adding entries, re-run redundancy removal (cleanup_nested.pl)
+   and gene-masking steps to maintain library quality.
