@@ -156,3 +156,16 @@ Strand orientation was determined using a four-tier evidence hierarchy applied t
 * **E4 — LTR cluster propagation:** Strand calls were propagated within clusters of related LTR-RT sequences identified from the B73 TE annotation GFF3. Copies sharing high sequence identity were grouped; if a cluster contained a stranded member, that call was extended to unstranded relatives. E4 resolved 3 additional elements.
 
 Where multiple evidence tiers agreed, the call was assigned high confidence. E1 was authoritative in all conflicts.
+
+11/08/2026
+
+Strand tags were updated with B73 evidence from the LTR promoter project, and the previous library maizeTE06032026 was moved to history/. 844 of the 1,517 sequences are now stranded (762 before), and 673 remain `strand=?`. No earlier call was reversed or removed.
+- New evidence tags:
+  - `PBS/PPT`: the primer binding site and polypurine tract of an LTR entry.
+  - `homology`: now also covers homology to strand-called B73 intact elements, and PBS/PPT on full-length B73 copies.
+  - `TC/CTRR`: Helitron termini, 5'-TC...CTRR-3'.
+- 14 LTR entries were deposited antisense and are now reverse complemented. 481 earlier calls gained PBS/PPT and/or homology support.
+- The 346 stray spaces inside the four CRM sequences were removed. The DNA is unchanged.
+- 630 of the remaining `strand=?` entries are MITEs and non-autonomous DNA transposons, which carry no strand signal.
+
+Methods, calibration and per-entry evidence: `strand_update_11082026.txt` and `history/maizeTE11082026.strand_evidence.tsv`.

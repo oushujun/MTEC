@@ -1,0 +1,129 @@
+MTEC strand update, 11/08/2026 (maizeTE11082026)
+================================================
+
+maizeTE11082026 is maizeTE06032026 with updated strand tags. Names, classifications, the order of the
+entries and every sequence stay the same, with two exceptions:
+  - 14 LTR entries turned out to be deposited antisense. They are now reverse-complemented, so, as before,
+    every stranded sequence is reported on (+).
+  - The four CRM entries lose 346 stray spaces inside their sequence lines (present since 01/2020). Their
+    DNA does not change.
+
+                    06/03/2026   11/08/2026
+    strand=+             762          844
+    strand=?             755          673
+
+  - 82 entries gain a strand: 58 LTR entries and 10 Helitrons as deposited, and 14 LTR entries after reverse
+    complementing.
+  - All 762 earlier calls are kept; none is reversed or dropped.
+  - 481 earlier calls gain PBS/PPT and/or homology in their evidence list.
+
+
+Evidence tags (evidence=...)
+----------------------------
+  TEsorter       protein domains (E1 of 06/02/2026, unchanged)
+  IsoClassifier  long-read isoforms (E3 of 06/02/2026, unchanged)
+  PBS/PPT        NEW: the primer binding site and polypurine tract of the entry itself (LTR entries)
+  homology       E4 cluster propagation (06/02/2026), or NEW: homology to strand-called B73 copies (method 2)
+  TC/CTRR        NEW: Helitron termini
+
+
+Methods
+-------
+The B73 calls come from the LTR promoter project (/data/shujun/projects/LTR_promoter_ML).
+B73 = B73.PLATINUM.pseudomolecules-v1.
+
+1. PBS/PPT on the library's LTR entries (600)
+   - The two LTRs of an entry are its longest direct terminal repeat: >= 100 bp at >= 80% identity,
+     starting within 20 bp of both ends, with the boundaries snapped to TG...CA. 564 of the 600 entries
+     have one.
+   - Each entry is scanned in both orientations with gt ltrdigest 1.6.5 (default parameters). The tRNA
+     library is the LTR_FINDER grass tRNA genes with CCA added (745).
+   - The project's calibrated rules:
+       PBS: edit distance <= 1, length >= 11, <= 5 bp from the 5' LTR, <= 2 bp from the tRNA 3' end.
+       PPT: >= 8 bp, ending 2 bp inside to 10 bp before the 3' LTR.
+       When both orientations qualify, the higher-quality one must lead by >= 2.
+   - Precision is 99.6% on 33,768 B73 intact elements whose annotated strand and domains agree.
+   - In the library, it agrees with TEsorter on 387 of 389 entries.
+
+2. Homology to strand-called B73 copies (BLAST+ 2.17.0 dc-megablast, e-value 1e-10)
+   a. Each LTR entry is searched against 51,730 B73 intact LTR elements whose strand rests on their own
+      sequence: domains (46,020) or PBS/PPT alone (5,710). An element whose PBS/PPT contradicts its domain
+      strand is dropped.
+      - A hit counts only where the entry's own LTR meets a reference LTR. This way a TE nested in the entry,
+        or in the reference, cannot speak for it.
+      - A strand decides with >= 90% of the bitscore.
+      - Agreement with TEsorter: 430/430. On PBS/PPT-only references it is 204/204, including 92/92 calls
+        resting on one reference.
+      - Agreement with the entry's own PBS/PPT: 418/419. The miss is liove_AC207121_9462, where PBS/PPT is
+        the one that is wrong.
+   b. Entries without terminal repeats (36): a reference element that holds >= 50% of the entry within its
+      LTR zone. Agreement with TEsorter: 443/443.
+   c. LTR entries that nothing above orients: PBS/PPT is called, as in method 1, on full-length B73 copies
+      OUTSIDE the intact set.
+      - The copies are dc-megablast chains that cover >= 80% of the entry and reach both of its ends.
+      - Intact elements are excluded, and at most 50 copies are kept per entry.
+      - A call needs >= 90% of the called copies to agree.
+      - On 40 TEsorter-stranded entries: 102/103 copies and 20/20 entries agree.
+   Homology from internal regions alone (no LTR involved) never orients an entry, and never overrules
+   TEsorter.
+
+3. Helitrons: 5'-TC...CTRR-3' as deposited = +, and its reverse complement = -. 10 of the 11 Helitrons have
+   the motif; Hip1_14, an 80-bp fragment, does not.
+
+
+Decision rules (LTR entries)
+----------------------------
+  - TEsorter leads.
+    - Where the entry's PBS/PPT disagrees, homology breaks the tie. naasuj_AC211569_11281 and
+      liove_AC207121_9462 keep TEsorter (+).
+    - Internal-only homology cannot overturn it: nida_AC206942_9401 keeps TEsorter (+).
+  - Without TEsorter, PBS/PPT decides, unless homology, IsoClassifier or E4 disagrees.
+  - Without either, homology decides, in the order 2a/2b, then 2c, unless IsoClassifier or E4 disagrees.
+  - Any disagreement these rules do not settle leaves the entry ?. That is one entry: vegu_AC190718_85, a
+    PPT-only + against homology -.
+
+
+Reverse-complemented (deposited antisense in maizeTE06032026), with the evidence for the call
+-------------------------------------------------------------------------------------------
+  PBS/PPT,homology   avahi_AC191363_3084, chr2_D_203638580, cinful_zeon_AC191398_3106,
+                     cinful_zeon_AC191523_3148, gati_AC195589_4669, japov_AC213985_12447,
+                     keja_AC214049_12475, name_AC197689_5725, vegu_AC190718_87
+  PBS/PPT            hiri_AC187471_44, vaofen_AC202996_7597
+  homology           bida_AC205396_8768, ubow_AC194933_4355, xilon_diguus_AC185317_1859
+
+
+Still strand=? (673)
+--------------------
+  MITE 407 and DNA/TIR 223: non-autonomous elements (median 246 and 835 bp), with no transposase. Their
+                            terminal inverted repeats carry no strand.
+  LTR 36                    no domains and no PBS/PPT in the entry, and no strand-called relative in B73
+                            (19 have no hit at all among the oriented intact elements).
+  tandem repeats 5          knob180, knob TR-1, rDNA spacer, CentC, subtelomere 4-12-1 (no strand)
+  LINE 1, Helitron 1        no domain or full-length copy; Hip1_14 has no termini
+
+
+Files
+-----
+  maizeTE11082026                              the library
+  history/maizeTE06032026                      the previous library
+  history/maizeTE11082026.strand_evidence.tsv  one row per entry:
+      strand_06032026, evidence_06032026   the old tags
+      call                                 strand of the 06/03/2026 sequence: + sense, - antisense, ? unknown
+      reverse_complemented                 yes for the 14 above
+      strand_11082026, evidence_11082026   the new tags
+      rule                                 the rule that decided
+      tesorter ... helitron_termini        each source's strand, relative to the 06/03/2026 sequence
+                                           (pbsppt '.' = no call; homology mixed/none = no decisive strand)
+
+
+Verification
+------------
+  - Names, classifications and order are identical.
+  - Every unchanged entry is byte-identical.
+  - The 14 are exact reverse complements.
+  - PBS/PPT re-called on maizeTE11082026 reproduces the calls above, flipped for the 14:
+    448 +, 2 - (naasuj and liove, where TEsorter is kept), 150 without a call.
+
+Analysis directory: /data/shujun/projects/LTR_promoter_ML/work/pbsppt/mtec_lib
+  - scripts 00-13 and their logs;
+  - the B73 references frozen in snapshot/, with MANIFEST.md5.

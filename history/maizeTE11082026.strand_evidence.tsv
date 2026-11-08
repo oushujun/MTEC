@@ -1,0 +1,1518 @@
+name	classification	strand_06032026	evidence_06032026	call	reverse_complemented	strand_11082026	evidence_11082026	rule	tesorter	isoclassifier	cluster_E4	pbsppt	pbsppt_basis	homology	homology_basis	b73copy_pbsppt	helitron_termini
+CRM1_6867nt	LTR/CRM	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+CRM2_7577nt	LTR/CRM	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+CRM3_7412nt	LTR/CRM	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+CRM4_7145	LTR/CRM	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PPT only	+	own_ltr		
+knob180	knob/knob180	?	none	?	no	?	none	not_LTR									
+AF013103.1	rDNA/spacer	?	none	?	no	?	none	not_LTR									
+TR-1	knob/TR-1	?	none	?	no	?	none	not_LTR									
+CentC	Cent/CentC	?	none	?	no	?	none	not_LTR									
+CL569186.1	subtelomere/4-12-1	?	none	?	no	?	none	not_LTR									
+Hip1_14	DNA/Helitron	?	none	?	no	?	none	not_LTR									
+Hip1_19	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+Hip1_26	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+Hip1_28	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+Hip1_3	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+Hip2_1	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+Hip2_2	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+Hip2_45	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+Hip5_12	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+Hip6_5	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+Hip7_1	DNA/Helitron	?	none	+	no	+	TC/CTRR	helitron_termini									+
+DTA_ZM00001_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00002_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00005_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00006_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00007_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00008_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00009_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00010_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00011_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00012_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00013_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00014_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00015_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00016_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00017_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00018_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00019_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00020_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00021_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00022_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00023_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00024_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00025_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00026_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00028_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00029_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00030_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00031_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00032_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00033_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00034_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00035_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00036_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00037_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00038_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00039_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00040_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00041_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00042_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00044_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00045_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00048_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00050_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00051_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00052_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00053_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00054_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00055_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00056_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00057_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00058_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00059_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00060_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00061_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00062_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00063_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00064_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00065_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00066_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00067_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00068_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00070_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00071_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00072_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00073_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00074_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00075_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00076_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00077_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00078_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00081_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00082_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00083_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00084_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00085_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00086_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00088_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00089_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00090_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00091_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00092_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00093_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00094_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00095_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00096_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00097_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00098_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00099_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00100_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00101_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00102_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00103_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00104_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00105_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00106_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00107_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00108_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00109_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00110_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00111_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00112_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00113_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00114_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00115_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00116_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00117_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00118_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00119_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00120_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00121_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00122_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00123_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00124_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00125_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00126_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00127_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00128_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00130_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00131_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00132_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00133_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00134_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00135_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00136_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00137_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00139_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00140_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00141_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00142_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00143_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00144_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00145_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00146_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00147_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00148_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00149_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00150_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00151_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00152_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00153_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00154_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00155_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00156_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00157_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00158_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00159_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00160_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00161_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00162_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00163_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00164_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00165_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00166_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00167_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00168_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00169_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00170_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00172_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00173_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00174_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00176_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00177_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00178_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00180_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00181_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00182_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00183_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00184_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00186_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00187_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00188_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00189_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00190_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00191_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00192_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00193_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00194_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00195_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00196_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00197_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00199_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00200_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00201_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00202_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00203_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00206_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00207_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00208_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00209_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00210_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00211_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00212_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00213_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00214_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00215_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00216_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00217_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00218_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00219_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00220_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00221_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00222_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00223_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00224_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00225_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00226_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00227_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00228_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00229_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00230_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00231_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00233_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00234_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00235_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00236_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00237_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00238_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00239_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00240_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00241_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00242_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00243_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00244_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00245_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00246_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00247_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00248_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00249_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00250_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00251_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00252_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00253_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00254_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00255_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00256_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00257_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00258_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00259_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00260_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00261_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00262_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00263_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00264_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00265_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00266_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00267_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00270_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00271_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00272_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00273_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00274_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00275_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00276_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00277_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00278_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00279_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00280_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00281_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00282_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00283_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00285_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00286_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00287_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00288_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00289_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00290_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00291_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00292_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00294_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00295_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00296_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00297_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00298_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00299_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00300_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00301_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00302_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00303_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00304_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00305_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00306_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00307_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00308_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00309_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00310_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00311_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00312_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00313_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00314_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00315_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00316_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00317_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00318_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00319_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00321_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00322_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00323_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00324_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00325_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00328_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00329_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00330_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00331_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00332_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00333_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00334_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00335_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00336_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00337_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00338_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00339_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00340_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00341_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00342_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00343_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00344_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00346_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00347_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00348_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00349_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00350_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00351_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00352_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00353_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00354_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00355_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00356_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00357_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00358_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00359_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00360_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00361_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00362_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00363_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00364_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00365_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00366_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00367_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00368_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00369_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00371_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00372_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00373_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00374_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00375_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00376_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00377_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00378_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00379_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00380_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00381_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00382_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00383_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00384_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00385_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00386_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00387_consensus	MITE/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00388_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00389_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00390_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00391_consensus	DNA/DTA	?	none	?	no	?	none	not_LTR									
+DTA_ZM00392_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00393_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTA_ZM00394_consensus	DNA/DTA	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00001_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00002_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00003_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00004_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00005_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00006_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00007_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00010_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00012_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00013_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00015_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00016_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00017_consensus	DNA/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00018_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00020_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00021_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00022_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00026_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00027_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00028_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00030_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00031_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00034_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00036_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00038_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00039_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00041_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00043_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00044_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00045_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00047_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00048_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00051_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00053_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00056_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00059_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00060_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00061_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00062_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00063_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00068_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00069_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00070_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00073_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00077_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00078_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00080_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00081_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00082_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00083_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00084_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00085_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00088_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00089_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00091_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00092_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00093_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00094_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00095_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00100_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00101_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00102_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00103_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00105_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00106_consensus	DNA/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00107_consensus	DNA/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00108_consensus	DNA/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00109_consensus	DNA/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00110_consensus	MITE/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00113_consensus	MITE/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00116_consensus	MITE/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00119_consensus	MITE/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00122_consensus	DNA/DTC	?	none	?	no	?	none	not_LTR									
+DTC_ZM00123_consensus	DNA/DTC	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTC_ZM00125_consensus	MITE/DTC	?	none	?	no	?	none	not_LTR									
+DTH_ZM00001_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00003_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00004_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00005_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00006_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00007_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00008_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00009_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00010_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00011_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00012_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00013_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00014_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00015_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00016_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00017_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00018_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00019_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00020_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00021_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00022_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00023_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00024_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00025_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00026_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00027_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00028_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00029_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00030_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00031_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00032_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00033_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00034_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00035_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00036_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTH_ZM00037_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00038_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00039_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00040_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00041_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00042_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00043_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00044_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00045_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00046_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00047_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00048_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00050_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00051_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00052_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00053_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00054_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00055_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00056_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00057_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00058_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00062_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00067_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00071_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00073_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00089_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00090_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00093_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00096_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00101_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00102_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00104_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00114_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00118_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00119_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00127_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00129_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00139_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00140_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00145_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00160_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00162_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00163_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00168_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00175_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00178_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00180_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00181_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00193_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00194_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00195_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00198_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00202_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00206_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00211_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00218_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00220_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00226_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00234_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00236_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00241_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00244_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00246_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00249_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00270_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00273_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00276_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00280_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00291_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00292_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00307_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00311_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00314_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00316_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00320_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00324_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00325_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00326_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00327_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00331_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00335_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00337_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00340_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00347_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00350_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00351_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00355_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00358_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00361_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00364_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00367_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00368_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00374_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00382_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00385_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00388_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00389_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00395_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00410_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00412_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00418_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00424_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00429_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00431_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00434_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00437_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00442_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00443_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00451_consensus	DNA/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00453_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00458_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00460_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00463_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00465_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00471_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00479_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00485_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00486_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00489_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00492_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00495_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00502_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00503_consensus	MITE/DTH	?	none	?	no	?	none	not_LTR									
+DTH_ZM00504_consensus	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Jittery_AF247646	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+MuDR_M76978	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+TAFT1_DQ493649	DNA/DTM	?	none	?	no	?	none	not_LTR									
+DTM_ZM00269_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm00030_AC190592_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm00118_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm00197_AC185211_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm00257_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+DTM_Zm00266_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm00268_AC191380_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+DTM_Zm00299_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm00346_AC182611_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm00364_AC196271_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm00473_AC191070_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+DTM_Zm00555_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm00614_AC192252_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm00628_AC207419_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm00665_AC184764_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm00673_AC187563_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm00743_AC177943_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm00754_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+DTM_Zm00796_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+DTM_Zm00800_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm00850_AC186314_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm00851_AC186342_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm00884_AC214130_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm01310_AC182611_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm01468_AC186160_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm01472_AC185516_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+DTM_Zm01654_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm01980_AC186668_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm02039_AC199523_1	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm02066_AC183508_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm02084_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm02117_AC177838_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm02275_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm02569_AC177893_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm02656_AC189800_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm02661_AC177816_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm02703_AC177838_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm02731_AC194595_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm02785_AC190936_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm02947_AC197071_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm03238_AC195860_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm03556_AC177900_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm03723_AC185669_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm03788_AC184173_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm04488_AC195819_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm04817_AC194407_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm05382_AC195362_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm05901_AC190666_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm05916_AC211649_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm06094_AC207124_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm06136_AC196794_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm06455_AC195585_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm06456_AC194253_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm06948_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm07209_AC211743_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm08014_AC190710_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm08178_AC186417_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm08412_AC199539_1	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm08670_AC200188_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm09546_AC191082_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm09941_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm10271_AC186904_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm10339_AC191267_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm10582IC_AC215679_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm10723_AC196159_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm11868_AC202888_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm12110_AC207526_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm12576_AC196989_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm12720_AC207543_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm13526_AC198651_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm13585_AC195825_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm14108_AC190892_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm14377_AC199567_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm14961_AC204776_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm15241_AC184857_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm15816_AC194642_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm16884_AC205840_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm17123_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm17242_AC197682_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm17860_AC184871_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm17880_AC193398_3	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm18028_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm18059_AC186819_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm18165_AC204287_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm18873_AC215861_1	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm19206IC_AC205063_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm19358_AC198478_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm19831_AC209995_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm19950_AC214136_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm20218_AC204546_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm20301_AC191081_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm20615_AC216184_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm21089_AC203211_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTM_Zm21197_consensus	MITE/DTM	?	none	?	no	?	none	not_LTR									
+Zm21757_AC193965_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm22051IC_AC201818_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm22986_AC206272_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm23554_AC210619_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm25163_AC210240_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm25481IC_AC203285_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm25996_AC205363_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm26908_AC183312_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm27731_AC205570_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm27984_AC204868_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm28013_AC199567_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm28681_AC214113_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm29517_AC196442_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm30706_AC211930_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm31138_AC184695_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm32353_AC204762_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33202_AC177945_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33203_AC183914_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm33205_AC203276_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33206_AC209693_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33207_AC210869_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm33208_AC195911_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33209_AC185668_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33210IC_AC204277_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33211_AC210532_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33212_AC204930_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33213_AC206876_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm33216_AC197010_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm33220_AC177941_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33222_AC190995_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33223_AC208969_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33224_AC210149_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm33225IC_AC186510_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33226_AC202438_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33227IC_AC208221_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33229_AC199704_1	DNA/DTM	?	none	?	no	?	none	not_LTR									
+Zm33230IC_AC206516_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33232IC_AC187847_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33233_AC206057_1	DNA/DTM	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+Zm33234_AC208553_1	MITE/DTM	?	none	?	no	?	none	not_LTR									
+DTT_ZM00001_consensus	DNA/DTT	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTT_ZM00002_consensus	DNA/DTT	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTT_ZM00003_consensus	DNA/DTT	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTT_ZM00004_consensus	DNA/DTT	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTT_ZM00005_consensus	DNA/DTT	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTT_ZM00006_consensus	DNA/DTT	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTT_ZM00007_consensus	DNA/DTT	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+DTT_ZM00009_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00010_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00011_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00012_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00014_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00015_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00016_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00017_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00018_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00019_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00020_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00021_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00023_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00025_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00026_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00027_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00028_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00029_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00030_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00031_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00033_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00034_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00036_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00037_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00038_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00039_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00041_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00042_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00043_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00044_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00045_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00047_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00048_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00051_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00052_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00053_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00054_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00056_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00057_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00058_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+DTT_ZM00059_consensus	MITE/DTT	?	none	?	no	?	none	not_LTR									
+PPO_AC185414	DNA/DTH	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_YJ_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_afeda_AC208414_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_cin4_AC210188_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_ejoet_AC212216_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_etiti_AC211734_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_gifife_AC206630_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_gugyve_AC194248_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_ijij_AC200508_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_jikeuf_AC211152_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_keneat_AC209697_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_koajav_AC205853_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_loneok_AC193379_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_naefe_AC212820_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_nubo_AC212389_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_nugimu_AC203843_0	LINE/L1	?	none	?	no	?	none	not_LTR									
+RIL_odoif_AC210308_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_ogepy_AC198740_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_okor_AC198695_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_otiot_AC206557_1	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_oviev_AC204897_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_piivi_AC212400_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_pyelum_AC203928_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_rebaew_AC210723_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_totyru_AC203014_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_udag_AC207804_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIL_yliij_AC206507_0	LINE/L1	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIT_colonist_AC209460_0	LINE/RTE	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIT_jare_AC204843_0	LINE/RTE	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIT_jare_AC204843_1	LINE/RTE	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIX_dager_AC206622_0	LINE/unknown	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIX_edaej_AC215611_0	LINE/unknown	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIX_ekeje_AC197537_0	LINE/unknown	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIX_leijoh_AC212369_0	LINE/unknown	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+RIX_okor_AC205906_0	LINE/unknown	+	TEsorter	+	no	+	TEsorter	not_LTR	+								
+afad_AC199807_6594	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+ajajog_AC191578_3186	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+ajit_AC191382_3096	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+anar_AC206985_9422	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+atej_AC187217_40	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+atop_AC195158_4437	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+bavav_AC208118_9781	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+bihar_AC195875_4766	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+bipide_AC205969_9058	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+bote_AC211535_11252	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+bovo_AC197547_5647	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+bowuow_AC212139_11611	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+chr10_D_107123494	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr10_P_98050947	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr1_D_255340547	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+chr1_D_275633391	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr1_P_193017007	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+chr2_D_138960949	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+chr2_D_224980689	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr2_D_48986571	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr3_D_81211483	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+chr3_D_89772369	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+chr3_P_39978843	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr4_D_40959532	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr4_D_46804832	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr4_P_103002213	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr4_P_118808430	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr4_P_19323329	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr4_P_242404877	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr4_P_246400268	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr5_D_119412279	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr5_P_133655019	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr5_P_170822725	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr5_P_76002780	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+chr5_P_93931859	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+chr5_P_9712308	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr6_D_43881252	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr6_D_62813001	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+chr6_P_20962896	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+chr6_P_42873635	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr6_P_87978263	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr7_D_125343800	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr8_D_180367038	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr	+	
+chr8_D_84491679	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+chr8_P_116327109	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr8_P_175859964	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+chr9_D_120499978	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr9_D_32444039	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr9_P_79032327	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+dadeir_AC201957_7187	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+debeh_AC177840_246	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+depuw_AC208349_9837	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+dijap_AC211466_11198	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+dolovu_AC189774_2249	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+donuil_AC196196_5026	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+dugiab_AC207724_9683	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+ebel_AC188777_2128	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+ebel_AC195143_4427	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ehahu_AC202972_7568	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+eninu_AC191055_2893	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,homology,IsoClassifier	tesorter	+	+		.	none	+	own_ltr		
+erev_AC194741_136	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr	none	
+finaij_AC194312_4026	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	none	
+giepum_AC197531_5634	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+giepum_AC211155_11010	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+giepum_AC211251_11074	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+gilovu_AC196048_4919	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+gori_AC193308_3536	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+gudyeg_AC206942_9404	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+guvi_AC185473_1128	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+gylu_AC188833_2139	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+hago_AC195807_4722	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+hesa_AC204349_8207	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+hiri_AC187471_44	LTR/Copia	?	none	-	yes	+	PBS/PPT	pbsppt				-	PPT only	none			
+huta_AC210008_10542	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	none	
+ibulaf_AC186801_1662	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	int_int		
+ijaat_AC199510_6486	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ijiret_AC211361_11134	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+iteki_AC214131_12504	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+japov_AC213985_12447	LTR/Copia	?	none	-	yes	+	PBS/PPT,homology	pbsppt				-	PPT only	-	own_ltr		
+ji_AC186528_1508	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ji_AC193479_3665	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+ji_AC200613_6936	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ji_AC202456_7443	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ji_AC204382_8228	LTR/Copia	+	IsoClassifier	+	no	+	PBS/PPT,homology,IsoClassifier	pbsppt		+		+	PBS+PPT	+	own_ltr		
+ji_AC207234_9488	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ji_AC209892_10463	LTR/Copia	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS+PPT	+	own_ltr		
+ji_AC211489_11215	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ji_AC213834_12382	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ji_AC215728_13156	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+kameer_AC194009_3819	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+kase_AC212771_11956	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+kise_AC204537_8302	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+kuvi_AC207313_9512	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr	+	
+kuvi_AC207807_9734	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	+	
+labe_AC203760_7937	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+leviathan_AC208826_10024	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+lowy_AC190530_2366	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+lusi_AC198175_5903	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+lute_AC206502_9225	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+machiavelli_AC200490_6883	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+mauky_AC195954_4843	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+mywur_AC197359_5559	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+naasuj_AC211569_11281	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter+homology_over_pbsppt	+			-	PPT only	+	int_int	none	
+neha_AC215285_13046	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	int_int		
+nene_AC204294_8188	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+nida_AC206942_9401	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,IsoClassifier	tesorter_vs_homology	+	+		.	none	-	int_int		
+niki_AC217821_13540	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+notu_AC200254_6827	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+nowuv_AC215510_13095	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ogiv_AC205856_9034	LTR/Copia	?	none	?	no	?	none	no_evidence				.	none	-	int_int	none	
+oguod_AC209724_10327	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+omud_AC203533_7881	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+opie_AC185480_1137	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC187149_1780	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC187207_1792	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+opie_AC188002_2029	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC196469_5133	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+opie_AC197084_5382	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC197201_5474	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+opie_AC197691_5727	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC198173_5898	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+opie_AC198924_6206	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC201793_7083	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC202020_7258	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC202033_7274	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC210610_10772	LTR/Copia	+	IsoClassifier	+	no	+	PBS/PPT,homology,IsoClassifier	pbsppt		+		+	PBS+PPT	+	own_ltr		
+opie_AC211653_11340	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+opie_AC214122_12495	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+opie_AC217577_13524	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ovikoh_AC190747_86	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+owiit_AC196151_4998	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+pifo_AC209023_10096	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+pute_AC197188_5467	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+raider_AC197426_5583	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+rely_AC199569_6530	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr	none	
+ruda_AC202870_7495	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+ruda_AC206281_9164	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ruhi_AC205536_8890	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+seufyt_AC194940_4361	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+soger_AC204598_8342	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr	none	
+stonor_AC212476_11849	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+taname_AC194273_3998	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+tata_AC205418_8792	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+tatu_AC212076_11563	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+tisy_AC193518_123	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+tiwe_AC187032_1709	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+tiwewi_AC210937_10935	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	none	
+totu_AC194464_4142	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+tufe_AC211502_11228	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+ubel_AC194376_4060	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ubep_AC210005_10539	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+ufonah_AC194064_3852	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ugog_AC206863_9375	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+uhun_AC200619_6943	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+uloh_AC209080_10120	LTR/Copia	+	homology	+	no	+	PBS/PPT,homology	pbsppt			+	+	PPT only	+	own_ltr		
+ulyg_AC196397_5082	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ures_AC199044_6279	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+urum_AC198861_6159	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+uwew_AC187787_1947	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+victim_AC182414_456	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+victim_AC183319_577	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+volo_AC195546_4646	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+vuijon_AC194895_4312	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+wamenu_AC191287_3028	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+waneer_AC195414_4606	LTR/Copia	+	TEsorter	+	no	+	TEsorter	tesorter	+			.	no_ltrs	none			
+wawo_AC216857_13424	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+wemu_AC204680_8396	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+wiwa_AC191531_3153	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+ydut_AC191122_2965	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+yrer_AC198936_6221	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ytar_AC194428_4096	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+abiri_AC203571_7891	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr	+	
+agep_AC205112_8618	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ahoru_AC187284_1845	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+amiin_AC191769_3319	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+aneas_AC203312_7773	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+ansuya_AC191576_3184	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+ansuya_AC207803_9728	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+anysaf_AC211487_11211	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+apil_AC198662_6085	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+apil_AC204354_8209	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+bobeg_AC193485_3670	LTR/Gypsy	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+bobobo_AC201919_7182	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+bogu_AC196148_4995	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+boha_AC205574_8933	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+boja_AC200053_6723	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr	+	
+bomevy_AC195138_4424	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+bosohe_AC185471_1125	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+bosohe_AC190752_2561	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+bosohe_AC191654_3248	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+bosohe_AC205330_8724	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+bosohe_AC212057_11553	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	+	
+bosohe_AC213600_12201	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+cinful_zeon_AC177813_189	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC177930_407	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+cinful_zeon_AC183943_734	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC186530_1513	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC186614_1565	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC191398_3106	LTR/Gypsy	?	none	-	yes	+	PBS/PPT,homology	pbsppt				-	PBS only	-	own_ltr		
+cinful_zeon_AC191523_3148	LTR/Gypsy	?	none	-	yes	+	PBS/PPT,homology	pbsppt				-	PBS only	-	own_ltr		
+cinful_zeon_AC192460_3502	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC193672_3742	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC194347_4039	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+cinful_zeon_AC194588_4160	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC194954_4372	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC194967_4388	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC195790_4706	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC198933_6214	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC199396_6426	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC199790_6582	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC199960_6694	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,homology,IsoClassifier	tesorter	+	+		.	none	+	own_ltr		
+cinful_zeon_AC200200_6794	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC200200_6795	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr	+	
+cinful_zeon_AC201757_7049	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC202991_7588	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC203004_7602	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,homology,IsoClassifier	tesorter	+	+		.	none	+	own_ltr		
+cinful_zeon_AC203825_7980	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	PBS/PPT conflict	+	own_ltr		
+cinful_zeon_AC203825_7981	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC205031_8560	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+cinful_zeon_AC205118_8623	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC205768_9013	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC206171_9091	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC206615_9266	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC207332_9527	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC207755_9705	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+cinful_zeon_AC208228_9805	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC208420_9852	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC208661_9976	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC209373_10201	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+cinful_zeon_AC209373_10202	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC210140_10614	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+cinful_zeon_AC211144_11003	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+cinful_zeon_AC211573_11290	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC212696_11896	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC213887_12415	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC215255_13029	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+cinful_zeon_AC216587_13387	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+dagaf_AC182835_556	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+dagaf_AC195302_4533	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+dagaf_AC208646_9966	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+doke_AC186158_1307	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+doke_AC197224_5479	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+ekoj_AC194603_4173	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+epohi_AC205903_9050	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	+	
+ewib_AC207533_9599	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ewiut_AC194106_3871	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ewog_AC212715_11905	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+fege_AC205532_8884	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+feki_AC195127_4412	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+flip_AC193970_3791	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+flip_AC194904_4319	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+flip_AC203163_7675	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+flip_AC208040_9765	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+flip_AC211750_11412	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+flip_AC213672_12280	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+flip_AC214266_12595	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+fourf_AC202975_7570	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+fuved_AC204055_8151	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+gati_AC195589_4669	LTR/Gypsy	?	none	-	yes	+	PBS/PPT,homology	pbsppt				-	PBS+PPT	-	own_ltr		
+gofi_AC196116_4977	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+grande_AC197914_5823	LTR/Gypsy	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+grande_AC200214_6803	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+guhis_AC198413_5999	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+guwiot_AC207006_9429	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+gyma_AC189750_2238	LTR/Gypsy	+	IsoClassifier	+	no	+	PBS/PPT,homology,IsoClassifier	pbsppt		+		+	PBS+PPT	+	own_ltr		
+gyma_AC190530_2365	LTR/Gypsy	+	IsoClassifier	+	no	+	PBS/PPT,homology,IsoClassifier	pbsppt		+		+	PBS+PPT	+	own_ltr		
+gyma_AC197250_5506	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+gyma_AC198939_6228	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+gyma_AC206653_9288	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+gyma_AC212146_11616	LTR/Gypsy	?	none	+	no	+	homology	homology_ltr_copy				.	no_ltrs	+	ltr_copy	none	
+gyte_AC207411_9568	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr	+	
+hera_AC214536_12775	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr	none	
+homy_AC197914_5822	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC186577_1525	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC186603_1556	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC186656_1609	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC190900_2713	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC191259_3001	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC193313_3542	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC194973_4393	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC195575_4652	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC199418_6452	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC199444_6460	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC203007_7610	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC208546_9913	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC208842_10038	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC210079_10574	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC210804_10865	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC212331_11708	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC213042_12069	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+huck_AC213612_12218	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC214833_12913	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+huck_AC216048_13250	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+hute_AC204317_8199	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ikal_AC190798_2599	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr	+	
+iseb_AC207352_9544	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ivuk_AC194103_3869	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr	none	
+iwim_AC203300_7761	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+janoov_AC209690_10294	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+jaws_AC186187_1320	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+kubi_AC196180_5016	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+labu_AC188126_2057	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+laiwa_AC214288_12602	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+lata_AC191117_2960	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+lute_AC217373_13492	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+lywy_AC194967_4386	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+moorud_AC199961_6697	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr	none	
+mufeub_AC194206_3950	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+muojo_AC186807_1674	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	int_int		
+naijaj_AC205556_8907	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+nakovu_AC206324_9191	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+nihep_AC194441_4115	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter	tesorter	+			.	none	mixed			
+nobe_AC198224_5924	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,homology,IsoClassifier	tesorter	+	+		.	none	+	own_ltr	none	
+nopip_AC188036_2052	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ojam_AC198400_5989	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ojav_AC202435_7427	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+ojokat_AC204297_8192	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+okopam_AC187789_1948	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+omoha_AC184843_894	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+onal_AC186648_1594	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ovamef_AC196977_5281	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+oveah_AC206282_9165	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ovikoh_AC200886_1_999999	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+pebi_AC207888_9755	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+piube_AC183505_603	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+prem1_AC196065_4927	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+prem1_AC200105_6751	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+prem1_AC206253_9147	LTR/Gypsy	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+prem1_AC212325_11702	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+puck_AC215312_13067	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS only	+	own_ltr		
+puji_AC202156_7367	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	int_copy		
+reina_AC200147_6773	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	none	
+riiryl_AC193745_3743	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr	none	
+rijuep_AC188965_2150	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+rimaar_AC197236_5493	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	none	
+rowi_AC203429_7862	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+rufefu_AC193384_3596	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+ruugu_AC214105_12477	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+satulo_AC197006_5311	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+sehoad_AC198380_5972	LTR/Copia	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr	+	
+seko_AC188710_2086	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+seuwe_AC210840_10901	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	none	
+sokiit_AC210743_10848	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+sowu_AC215679_13136	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+suda_AC215200_12975	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+sywu_AC183899_694	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+taro_AC203167_7686	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+tekay_AC200856_6996	LTR/Gypsy	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS+PPT	+	own_ltr		
+tekay_AC211245_11065	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+tituer_AC196493_5158	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	+	
+ubid_AC210086_10583	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+udav_AC196188_5022	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+udokup_AC210420_10735	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+ulik_AC205416_8790	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	+	
+umojev_AC204420_8262	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+uper_AC185487_1151	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	none	
+usif_AC206781_9344	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+usuf_AC208533_9903	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr	+	
+uvet_AC194145_3904	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PPT only	+	own_ltr		
+uwum_AC177933_415	LTR/Gypsy	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS+PPT	+	own_ltr		
+vodida_AC203384_7831	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+vufi_AC198989_6257	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+waepo_AC190953_2782	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+weaniv_AC196414_5097	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+weki_AC194431_4099	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+wuge_AC190810_2615	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+wuwe_AC191412_107	LTR/Gypsy	?	none	?	no	?	none	no_evidence				.	none	none		none	
+wuwe_AC212122_11600	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+wyly_AC198779_6150	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+xilon_diguus_AC185317_1058	LTR/Gypsy	+	IsoClassifier	+	no	+	PBS/PPT,homology,IsoClassifier	pbsppt		+		+	PBS only	+	own_ltr		
+xilon_diguus_AC185317_1859	LTR/Gypsy	?	none	-	yes	+	homology	homology_own_ltr				.	none	-	own_ltr		
+xilon_diguus_AC195486_4629	LTR/Gypsy	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+xilon_diguus_AC203313_7774	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+yfages_AC197085_5383	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr	+	
+ytub_AC187411_1880	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+ywuv_AC197432_5589	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+ywyt_AC209975_10517	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+adun_AC193506_122	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+afeke_AC209700_10302	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+ahov_AC193643_3726	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ajeb_AC188141_66	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS only	none			
+ajipe_AC183372_580	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+anim_AC206032_183	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+avahi_AC191363_3084	LTR/unknown	?	none	-	yes	+	PBS/PPT,homology	pbsppt				-	PPT only	-	own_ltr		
+awuhe_AC190897_2710	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+baha_AC187214_39	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+bawigu_AC208532_9902	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+beboso_AC190260_76	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+beby_AC214433_12667	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+bene_AC198379_5969	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+beva_AC190814_90	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+bida_AC205396_8768	LTR/Gypsy	?	none	-	yes	+	homology	homology_own_ltr				.	none	-	own_ltr		
+biwa_AC194319_131	LTR/Gypsy	?	none	?	no	?	none	no_evidence				.	none	none		none	
+bogu_AC198870_6180	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+bori_AC190960_100	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	-	int_int	none	
+bosovu_AC193480_119	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+bs1_AC185605_1189	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+bs1_AC208724_10016	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS+PPT	+	own_ltr		
+buire_AC194484_4158	LTR/unknown	?	none	+	no	+	homology	homology_b73copy_pbsppt				.	none	none		+	
+bula_AC195180_138	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter	tesorter	+			.	none	none			
+chr1_D_128552448	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+chr2_D_203638580	LTR/Gypsy	?	none	-	yes	+	PBS/PPT,homology	pbsppt				-	PBS only	-	own_ltr		
+chr2_D_41619999	LTR/Gypsy	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+chr2_P_29318284	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	+	
+chr2_P_863829	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+chr3_P_184436448	LTR/Gypsy	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+chr3_P_96034029	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter	tesorter	+			.	none	mixed		mixed	
+chr5_D_104062939	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+bumy_AC216354_13379	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	+	int_int	none	
+chr3_P_118486772	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+chr4_P_230123413	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+crm_AC206920_9397	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	+	
+dabe_AC212399_11783	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+dady_AC210684_10809	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+daju_AC190492_79	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+dapuuv_AC217549_13514	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+demo_AC202036_173	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+doba_AC190263_77	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+ebeg_AC213788_12351	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+ebel_AC210216_10670	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+ebel_AC213044_12072	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+efaw_AC190815_91	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter	tesorter	+			.	none	none			
+egisu_AC206234_9137	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+eguh_AC188982_71	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+elalal_AC211887_11443	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+emuh_AC193462_157	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+epiil_AC190716_83	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+epom_AC196256_5041	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+etin_AC194319_129	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none		none	
+etug_AC187099_1770	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+eugene_AC200048_6717	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+eweko_AC200180_6781	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+ewib_AC198384_5975	LTR/unknown	?	none	+	no	+	PBS/PPT	pbsppt				+	PBS only	mixed			
+ewigyw_AC185312_18	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter	tesorter	+			.	none	none			
+ewot_AC210077_10573	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PPT only	+	own_ltr		
+ewuof_AC188199_68	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+fajy_AC190874_2682	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+fanuab_AC193594_3712	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+fara_AC188142_67	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+fate_AC194466_4144	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+fehod_AC184774_851	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+fosu_AC194180_126	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+gate_AC197186_143	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+gekog_AC203828_7984	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+geta_AC187066_33	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS only	none		none	
+giream_AC204000_8116	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+gotur_AC201794_7086	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+guafa_AC188016_60	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+guali_AC190263_78	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PPT only	none			
+gufa_AC194066_3854	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+gugu_AC193480_120	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+gunu_AC200292_6838	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+gunu_AC204937_8509	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+gunu_AC209758_10359	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+guwo_AC183661_638	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+gyji_AC194729_4242	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	+	int_copy	none	
+habu_AC195917_4802	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+halo_AC205330_8725	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+hani_AC186285_1359	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+hiimam_AC207734_9687	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+hoda_AC193645_3730	LTR/unknown	?	none	+	no	+	PBS/PPT	pbsppt				+	PPT only	none			
+hooni_AC211474_11202	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+hopscotch_AC209396_10229	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+huti_AC197153_5449	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+hutu_AC210780_10851	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+ifab_AC209906_10473	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+ilyl_AC196209_163	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+iwik_AC203371_7824	LTR/unknown	?	none	+	no	+	homology	homology_ltr_copy				.	no_ltrs	+	ltr_copy	none	
+jakek_AC185468_151	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+jelat_AC194217_3960	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr	none	
+jeli_AC200611_6933	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+jeli_AC208705_10001	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+joemon_AC177891_147	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	+	int_int	none	
+jube_AC191704_110	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+jupek_AC208518_9894	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PBS+PPT	+	own_ltr		
+juta_AC190498_2318	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+kahoba_AC186618_29	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+kahowu_AC205018_178	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+kaise_AC203928_8059	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	-	int_int	none	
+kake_AC186604_1559	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+keja_AC214049_12475	LTR/Gypsy	?	none	-	yes	+	PBS/PPT,homology	pbsppt				-	PPT only	-	own_ltr		
+kinosi_AC183924_714	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+kupu_AC216069_13264	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+lafa_AC205893_9045	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+lamyab_AC208713_10008	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+lenu_AC213984_12443	LTR/unknown	?	none	+	no	+	PBS/PPT	pbsppt				+	PBS+PPT	none			
+liove_AC207121_9462	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter+homology_over_pbsppt	+			-	PPT only	+	own_ltr		
+loba_AC194942_4364	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+lyna_AC194093_3868	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+mada_AC208456_9876	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+mada_AC208673_9982	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+mada_AC211927_11478	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+mafigi_AC216705_13396	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+mafogo_AC199961_6695	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+magellan_AC194897_4313	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+mako_AC200748_6991	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+maono_AC208340_9832	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+mapu_AC191705_3277	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+maro_AC204359_8211	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+mewu_AC186332_152	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+mibaab_AC205139_8652	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+milt_AC198975_6250	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PPT only	+	own_ltr		
+milt_AC198975_6251	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+milt_AC209648_10275	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+milt_AC211742_11402	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PPT only	+	own_ltr		
+mopin_AC187657_153	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+mopin_AC194135_3897	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+muekeh_AC184787_871	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+mulaf_AC207733_9686	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS+PPT	+	own_ltr		
+muusi_AC190834_92	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+naadira_AC201761_7053	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+naadira_AC206864_9376	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+naadira_AC206864_9377	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+nabu_AC187471_45	LTR/Copia	+	TEsorter	+	no	+	TEsorter	tesorter	+			.	no_ltrs	none			
+nabu_AC187882_57	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS only	none			
+naiba_AC195481_139	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+nakuuv_AC199045_169	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+name_AC197689_5725	LTR/unknown	?	none	-	yes	+	PBS/PPT,homology	pbsppt				-	PPT only	-	own_ltr		
+nana_AC209373_10202	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS+PPT	+	own_ltr		
+naseup_AC196428_5108	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+nasi_AC205509_8857	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+neafu_AC185666_1261	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+neteut_AC188982_2172	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+nitat_AC190618_2442	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+niypo_AC191087_2935	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+nyjuvy_AC212394_11768	LTR/unknown	?	none	+	no	+	PBS/PPT	pbsppt				+	PBS only	none			
+odoj_AC194387_4072	LTR/unknown	+	IsoClassifier	+	no	+	homology,IsoClassifier	homology_own_ltr		+		.	none	+	own_ltr		
+ohag_AC187801_48	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PPT only	none			
+ojah_AC184792_875	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+olepo_AC212207_11645	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+onub_AC190523_2356	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ovev_AC199878_6641	LTR/Copia	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+oviil_AC187836_55	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PBS+PPT	none			
+oviis_AC209739_10346	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+pagof_AC198204_5908	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+panen_AC192606_115	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	int_int		
+peeve_AC209948_10499	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+petopi_AC195376_4582	LTR/unknown	+	IsoClassifier	+	no	+	homology,IsoClassifier	homology_own_ltr		+		.	none	+	own_ltr		
+pibo_AC201915_172	LTR/unknown	?	none	+	no	+	homology	homology_b73copy_pbsppt				.	none	none		+	
+poarow_AC200533_6899	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+pope_AC205335_180	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+raga_AC196386_5066	LTR/Gypsy	+	TEsorter,IsoClassifier	+	no	+	TEsorter,PBS/PPT,homology,IsoClassifier	tesorter+pbsppt	+	+		+	PPT only	+	own_ltr		
+ruda_AC195952_4839	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+rulo_AC186371_28	LTR/unknown	?	none	+	no	+	PBS/PPT	pbsppt				+	PBS only	none			
+ruwi_AC204382_8227	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS+PPT	+	own_ltr		
+saahol_AC198506_6044	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+sagyfy_AC187059_1735	LTR/Copia	+	homology	+	no	+	homology	unchanged			+	.	none	+	int_int		
+sego_AC188397_69	LTR/Copia	+	TEsorter	+	no	+	TEsorter	tesorter	+			.	none	none			
+sema_AC187810_51	LTR/Copia	?	none	?	no	?	none	no_evidence				.	none	-	int_int	none	
+sido_AC204367_8219	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+small_AC195943_142	LTR/unknown	?	none	+	no	+	homology	homology_ltr_copy				.	no_ltrs	+	ltr_copy		
+small_AC217574_13522	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	no_ltrs	+	ltr_copy		
+soefes_AC212121_11599	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+sofi_AC215261_13035	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+teuta_AC191650_108	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+tojena_AC187554_1910	LTR/Copia	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+toro_AC197199_5471	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr	+	
+tuku_AC177929_405	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+tuteh_AC183372_584	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PBS only	+	own_ltr		
+tywo_AC187810_53	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PPT only	none			
+ubow_AC194933_4355	LTR/unknown	?	none	-	yes	+	homology	homology_own_ltr				.	none	-	own_ltr		
+ugano_AC216043_13241	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ugymos_AC182443_149	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	-	int_int	none	
+ujinas_AC217279_13469	LTR/Copia	+	homology	+	no	+	PBS/PPT,homology	pbsppt			+	+	PPT only	+	own_ltr		
+ukov_AC204842_177	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+umip_AC190747_87	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+upus_AC200875_7012	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr	none	
+urogor_AC186334_1406	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr	+	
+utar_AC212228_11664	LTR/unknown	?	none	+	no	+	PBS/PPT	pbsppt				+	PBS only	none			
+uvis_AC197719_164	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+uwub_AC195372_161	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+uwum_AC190887_2701	LTR/unknown	+	IsoClassifier	+	no	+	PBS/PPT,homology,IsoClassifier	pbsppt		+		+	PBS+PPT	+	own_ltr		
+uwum_AC213069_12092	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+uwuw_AC198589_6052	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+vaofen_AC202996_7597	LTR/unknown	?	none	-	yes	+	PBS/PPT	pbsppt				-	PBS only	none			
+vedi_AC198992_6258	LTR/unknown	?	none	+	no	+	homology	homology_own_ltr				.	none	+	own_ltr		
+vegu_AC190718_85	LTR/unknown	?	none	?	no	?	none	conflict:PBS/PPT_vs_homology				+	PPT only	-	int_int	none	
+vegu_AC190718_86	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+vegu_AC190718_87	LTR/unknown	?	none	-	yes	+	PBS/PPT,homology	pbsppt				-	PPT only	-	own_ltr		
+vegu_AC190718_88	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+vora_AC206187_9112	LTR/Copia	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+vufe_AC194263_159	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,homology	tesorter	+			.	none	+	own_ltr		
+vuna_AC193505_121	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter	tesorter	+			.	no_ltrs	none			
+vusu_AC187081_1751	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+wawu_AC211017_10990	LTR/unknown	?	none	?	no	?	none	no_evidence				.	none	none		none	
+wihov_AC205351_8739	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+wiolus_AC210058_10567	LTR/unknown	?	none	+	no	+	PBS/PPT,homology	pbsppt				+	PPT only	+	own_ltr		
+wiru_AC210670_10789	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+witi_AC184140_796	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PPT only	+	own_ltr		
+wugaab_AC187472_46	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT	tesorter+pbsppt	+			+	PPT only	none			
+wuywu_AC190718_2536	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+yemi_AC201773_7064	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+ypel_AC215810_13168	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS only	+	own_ltr		
+yraj_AC205486_8834	LTR/Copia	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+yvoj_AC215638_13124	LTR/Gypsy	+	TEsorter	+	no	+	TEsorter,PBS/PPT,homology	tesorter+pbsppt	+			+	PBS+PPT	+	own_ltr		
+ywely_AC190897_98	LTR/unknown	?	none	?	no	?	none	no_evidence				.	no_ltrs	none		none	
+ZM_CACTA_noncoding_14	MITE/DTC	?	none	?	no	?	none	not_LTR									
+ZM_CACTA_noncoding_19	MITE/DTC	?	none	?	no	?	none	not_LTR									
+ZM_CACTA_noncoding_20	MITE/DTC	?	none	?	no	?	none	not_LTR									
+ZM_CACTA_noncoding_40	MITE/DTC	?	none	?	no	?	none	not_LTR									
+ZM_CACTA_noncoding_45	MITE/DTC	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_100	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_101	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_102	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_103	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_106	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_108	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_111	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_112	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_114	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_13	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_14	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_15	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_16	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_19	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_23	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_24	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_27	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_28	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_31	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_32	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_34	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_36	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_37	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_39	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_40	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_41	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_44	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_47	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_48	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_50	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_55	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_56	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_58	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_60	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_61	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_63	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_64	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_70	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_71	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_72	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_73	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_74	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_78	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_81	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_83	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_84	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_87	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_89	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_90	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_91	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_94	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_97	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Stowaway_98	MITE/DTT	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_11	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_12	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_15	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_18	DNA/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_19	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_22	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_27	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_28	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_29	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_33	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_37	DNA/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_40	DNA/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_43	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_44	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_46	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_47	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_48	DNA/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_53	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_54	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_58	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_Tourist_7	MITE/DTH	?	none	?	no	?	none	not_LTR									
+ZM_hAT_noncoding_111	MITE/DTA	?	none	?	no	?	none	not_LTR									
+ZM_hAT_noncoding_118	MITE/DTA	?	none	?	no	?	none	not_LTR									
+ZM_hAT_noncoding_36	MITE/DTA	?	none	?	no	?	none	not_LTR									
+ZM_hAT_noncoding_81	MITE/DTA	?	none	?	no	?	none	not_LTR									
